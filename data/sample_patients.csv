@@ -1,0 +1,1003 @@
+patient_id,patient_name,age,gender,blood_group,height_cm,weight_kg,bmi,diabetes,hypertension,heart_disease,asthma,kidney_disease,smoking_status,visit_date,visit_type,department,diagnosis,risk_level,systolic_bp,diastolic_bp,heart_rate,spo2,respiratory_rate,temperature,glucose,hba1c,cholesterol,wbc,medication,allergies
+P0001,Hamza Nawaz,63,Female,A+,183.5,72.8,21.6,No,No,No,No,No,Former,2026-01-09,Follow-up,General Medicine,Chest Pain,Low,131.4,75.3,79.4,98.6,16.7,36.94,110.6,5.6,189.1,7.7,None,NSAIDs
+P0001,Hamza Nawaz,63,Female,A+,183.5,73.7,21.9,No,No,No,No,No,Former,2026-02-07,Routine,General Medicine,Routine Checkup,Low,136.0,86.0,70.4,95.8,15.6,36.73,93.2,5.6,171.5,7.45,None,Penicillin
+P0001,Hamza Nawaz,63,Female,A+,183.5,70.9,21.1,No,No,No,No,No,Former,2026-03-05,Follow-up,General Medicine,Chest Pain,Low,128.3,87.5,71.4,96.8,12.9,36.48,88.1,4.96,202.9,6.94,None,Penicillin
+P0001,Hamza Nawaz,63,Female,A+,183.5,74.3,22.1,No,No,No,No,No,Former,2026-03-31,Screening,General Medicine,Respiratory Infection,Low,113.9,68.6,68.7,97.0,17.0,36.82,86.2,5.56,196.5,7.28,None,None
+P0001,Hamza Nawaz,63,Female,A+,183.5,71.1,21.1,No,No,No,No,No,Former,2026-04-28,Follow-up,General Medicine,Routine Checkup,Low,140.5,66.3,63.5,95.8,15.5,36.64,69.4,4.86,162.5,9.56,None,None
+P0001,Hamza Nawaz,63,Female,A+,183.5,70.8,21.0,No,No,No,No,No,Former,2026-05-28,Routine,General Medicine,Routine Checkup,Low,123.2,78.2,62.4,96.2,16.2,36.79,98.3,4.74,193.4,6.3,None,None
+P0001,Hamza Nawaz,63,Female,A+,183.5,72.0,21.4,No,No,No,No,No,Former,2026-06-25,Routine,General Medicine,Hypertension,Low,129.2,86.3,78.0,96.7,17.1,37.18,121.4,4.77,161.3,8.58,None,None
+P0001,Hamza Nawaz,63,Female,A+,183.5,69.7,20.7,No,No,No,No,No,Former,2026-07-23,Routine,General Medicine,Diabetes Management,Low,125.4,75.0,66.7,99.3,16.4,36.92,84.7,5.13,165.2,4.45,None,Dust
+P0001,Hamza Nawaz,63,Female,A+,183.5,70.7,21.0,No,No,No,No,No,Former,2026-08-19,Screening,General Medicine,Hypertension,Low,139.2,80.7,76.7,96.1,16.8,36.88,83.4,,188.2,6.55,None,None
+P0001,Hamza Nawaz,63,Female,A+,183.5,71.3,21.2,No,No,No,No,No,Former,2026-09-17,Follow-up,Nephrology,Hyperlipidemia,Low,124.6,78.7,75.4,97.6,18.3,37.02,77.0,5.79,168.4,8.14,None,None
+P0002,Fatima Iqbal,37,Male,O+,154.2,78.1,32.8,No,No,No,No,No,Current,2026-01-16,Screening,Cardiology,Respiratory Infection,Low,115.6,82.1,69.1,98.0,16.1,36.9,85.3,5.18,205.9,6.26,None,Pollen
+P0002,Fatima Iqbal,37,Male,O+,154.2,75.9,31.9,No,No,No,No,No,Current,2026-02-11,Follow-up,General Medicine,Chest Pain,Low,118.5,70.3,72.1,96.4,18.4,36.79,88.7,5.62,168.9,5.09,None,
+P0002,Fatima Iqbal,37,Male,O+,154.2,80.1,33.7,No,No,No,No,No,Current,2026-03-10,Follow-up,Pulmonology,Routine Checkup,Low,121.6,74.2,69.4,96.6,12.8,36.76,104.7,4.65,196.1,5.94,None,NSAIDs
+P0002,Fatima Iqbal,37,Male,O+,154.2,77.8,32.7,No,No,No,No,No,Current,2026-04-08,Routine,Pulmonology,Routine Checkup,Low,114.1,61.0,66.0,98.2,11.8,36.61,74.3,5.48,195.8,7.5,None,None
+P0002,Fatima Iqbal,37,Male,O+,154.2,78.5,33.0,No,No,No,No,No,Current,2026-05-05,Routine,General Medicine,Hyperlipidemia,Low,110.5,70.6,71.9,95.4,16.3,36.94,96.4,4.64,205.8,7.84,None,NSAIDs
+P0002,Fatima Iqbal,37,Male,O+,154.2,79.6,33.5,No,No,No,No,No,Current,2026-06-04,Routine,Endocrinology,Routine Checkup,Low,119.1,76.7,88.3,96.8,14.8,36.81,98.6,5.02,189.4,9.41,None,None
+P0002,Fatima Iqbal,37,Male,O+,154.2,77.2,32.5,No,No,No,No,No,Current,2026-06-30,Screening,General Medicine,Routine Checkup,Low,106.8,75.2,83.5,97.5,15.4,36.57,85.8,5.11,201.2,8.02,None,Pollen
+P0002,Fatima Iqbal,37,Male,O+,154.2,78.5,33.0,No,No,No,No,No,Current,2026-07-29,Screening,Nephrology,Respiratory Infection,Low,124.6,78.2,62.9,97.8,16.6,36.3,91.6,5.33,218.0,7.28,None,None
+P0002,Fatima Iqbal,37,Male,O+,154.2,75.7,31.9,No,No,No,No,No,Current,2026-08-25,Routine,Nephrology,Routine Checkup,Low,103.6,73.9,79.5,95.9,16.5,36.47,81.9,5.72,198.2,7.56,None,Pollen
+P0003,Fahad Javed,68,Male,O+,175.8,84.4,27.3,No,Yes,No,No,No,Never,2026-01-22,Routine,General Medicine,Hypertension,Medium,153.8,89.9,75.9,97.0,16.8,36.6,133.4,4.65,230.7,8.47,Lisinopril,Penicillin
+P0003,Fahad Javed,68,Male,O+,175.8,85.0,27.5,No,Yes,No,No,No,Never,2026-02-15,Routine,General Medicine,Hypertension,Medium,151.6,95.6,73.1,96.1,17.2,36.93,109.8,5.46,203.1,6.17,Losartan,None
+P0003,Fahad Javed,68,Male,O+,175.8,79.9,25.9,No,Yes,No,No,No,Never,2026-03-16,Screening,General Medicine,Routine Checkup,Medium,140.2,94.2,68.0,97.4,13.9,37.06,97.8,5.3,219.9,8.62,Lisinopril,Penicillin
+P0003,Fahad Javed,68,Male,O+,175.8,87.8,28.4,No,Yes,No,No,No,Never,2026-04-14,Follow-up,Emergency,Hypertension,Low,148.1,100.1,72.5,98.8,16.5,36.94,89.1,4.9,216.3,8.09,Losartan,Penicillin
+P0003,Fahad Javed,68,Male,O+,175.8,85.3,27.6,No,Yes,No,No,No,Never,2026-05-10,Follow-up,Pulmonology,Chest Pain,Medium,156.8,88.5,58.4,96.8,15.8,37.22,78.1,5.06,238.7,7.55,Lisinopril,None
+P0003,Fahad Javed,68,Male,O+,175.8,82.5,26.7,No,Yes,No,No,No,Never,2026-06-08,Emergency,General Medicine,Routine Checkup,Medium,153.3,89.5,76.0,97.0,15.1,36.43,94.7,4.81,183.8,5.95,Amlodipine,None
+P0003,Fahad Javed,68,Male,O+,175.8,81.1,26.3,No,Yes,No,No,No,Never,2026-07-05,Follow-up,Cardiology,Asthma,Low,148.6,98.6,72.8,97.1,16.8,36.92,70.0,4.61,181.8,6.39,Losartan,Dust
+P0003,Fahad Javed,68,Male,O+,175.8,84.5,27.3,No,Yes,No,No,No,Never,2026-08-06,Routine,General Medicine,Chest Pain,Low,145.9,94.0,79.2,96.8,12.8,36.85,108.3,5.31,225.7,5.94,Losartan,Pollen
+P0003,Fahad Javed,68,Male,O+,175.8,87.5,28.3,No,Yes,No,No,No,Never,2026-08-30,Routine,General Medicine,Hyperlipidemia,Medium,147.1,92.8,73.4,96.9,18.0,36.64,73.3,4.92,217.9,7.5,Amlodipine,None
+P0004,Hamza Farooq,54,Male,O+,165.0,66.3,24.4,Yes,No,No,No,No,Former,2026-01-15,Emergency,Nephrology,Hyperlipidemia,Low,120.3,73.6,75.1,96.2,17.1,37.1,130.4,6.92,202.1,7.09,Metformin,None
+P0004,Hamza Farooq,54,Male,O+,165.0,69.3,25.5,Yes,No,No,No,No,Former,2026-02-15,Follow-up,Nephrology,Diabetes Management,Low,120.3,76.2,62.3,94.7,17.4,36.45,123.2,6.51,170.6,6.93,Glimepiride,Dust
+P0004,Hamza Farooq,54,Male,O+,165.0,71.1,26.1,Yes,No,No,No,No,Former,2026-03-12,Emergency,Endocrinology,Diabetes Management,Low,127.2,76.5,87.8,98.3,13.9,36.62,150.4,7.18,199.5,6.88,Glimepiride,None
+P0004,Hamza Farooq,54,Male,O+,165.0,65.0,23.9,Yes,No,No,No,No,Former,2026-04-10,Routine,General Medicine,Hyperlipidemia,Low,127.5,73.0,75.5,97.0,17.1,36.99,132.9,7.4,153.8,8.69,Metformin,Penicillin
+P0004,Hamza Farooq,54,Male,O+,165.0,68.1,25.0,Yes,No,No,No,No,Former,2026-05-11,Routine,Endocrinology,Hyperlipidemia,Low,127.2,82.2,61.4,98.0,16.0,36.65,107.9,7.18,152.5,7.75,Glimepiride,None
+P0004,Hamza Farooq,54,Male,O+,165.0,66.8,24.5,Yes,No,No,No,No,Former,2026-06-08,Screening,Endocrinology,Hyperlipidemia,Low,121.7,83.2,75.2,96.6,15.6,36.31,135.8,6.38,209.5,7.23,Glimepiride,Pollen
+P0004,Hamza Farooq,54,Male,O+,165.0,66.7,24.5,Yes,No,No,No,No,Former,2026-07-03,Follow-up,General Medicine,Hyperlipidemia,Low,126.8,76.8,73.7,96.3,15.9,36.3,132.0,7.16,191.9,5.48,Glimepiride,None
+P0004,Hamza Farooq,54,Male,O+,165.0,66.0,24.2,Yes,No,No,No,No,Former,2026-08-03,Screening,General Medicine,Diabetes Management,Low,121.4,82.9,68.2,97.6,15.2,36.76,127.9,7.31,186.4,5.53,Metformin,None
+P0004,Hamza Farooq,54,Male,O+,165.0,66.9,24.6,Yes,No,No,No,No,Former,2026-08-31,Follow-up,Endocrinology,Diabetes Management,Low,141.8,68.1,73.2,95.9,15.3,36.74,95.1,7.08,230.3,6.65,Glimepiride,None
+P0004,Hamza Farooq,54,Male,O+,165.0,68.8,25.3,Yes,No,No,No,No,Former,2026-09-27,Screening,Endocrinology,Routine Checkup,Low,124.4,71.7,72.8,96.4,15.2,36.85,109.9,7.37,170.8,6.44,Glimepiride,None
+P0004,Hamza Farooq,54,Male,O+,165.0,67.7,24.9,Yes,No,No,No,No,Former,2026-10-22,Routine,Endocrinology,Routine Checkup,Medium,125.5,76.3,71.8,96.8,13.8,36.57,143.7,6.52,192.6,6.28,Glimepiride,None
+P0004,Hamza Farooq,54,Male,O+,165.0,68.7,25.2,Yes,No,No,No,No,Former,2026-11-20,Follow-up,General Medicine,Routine Checkup,Medium,119.8,73.9,73.9,96.5,17.3,36.51,120.7,6.77,185.8,8.2,Metformin,None
+P0005,Bilal Malik,52,Male,A+,167.4,79.0,28.2,No,No,Yes,Yes,No,Never,2026-01-13,Follow-up,General Medicine,Routine Checkup,Medium,137.0,75.8,97.9,92.5,18.6,36.38,117.6,5.59,213.3,5.75,Salbutamol; Atorvastatin,None
+P0005,Bilal Malik,52,Male,A+,167.4,76.8,27.4,No,No,Yes,Yes,No,Never,2026-02-10,Emergency,Cardiology,Chest Pain,Medium,123.0,83.8,97.0,93.1,16.1,36.78,107.2,4.62,207.9,7.37,Salbutamol; Atorvastatin,None
+P0005,Bilal Malik,52,Male,A+,167.4,81.9,29.2,No,No,Yes,Yes,No,Never,2026-03-10,Routine,Cardiology,Routine Checkup,Medium,129.0,78.4,81.6,91.1,19.2,36.7,92.6,5.54,172.8,5.13,Salbutamol; Aspirin,Pollen
+P0005,Bilal Malik,52,Male,A+,167.4,82.7,29.5,No,No,Yes,Yes,No,Never,2026-04-06,Screening,Emergency,Hypertension,Medium,134.5,79.1,68.4,93.8,20.3,36.86,78.8,5.44,223.5,8.66,Salbutamol; Atorvastatin,None
+P0005,Bilal Malik,52,Male,A+,167.4,81.6,29.1,No,No,Yes,Yes,No,Never,2026-05-05,Follow-up,Cardiology,Chest Pain,Medium,135.2,80.8,82.3,92.7,20.7,36.47,83.2,5.2,223.8,5.6,Salbutamol; Atorvastatin,None
+P0005,Bilal Malik,52,Male,A+,167.4,82.0,29.3,No,No,Yes,Yes,No,Never,2026-06-02,Follow-up,Cardiology,Hypertension,Medium,126.6,81.6,79.2,93.7,19.2,36.53,89.5,5.57,215.1,5.7,Salbutamol; Aspirin,Dust
+P0005,Bilal Malik,52,Male,A+,167.4,81.0,28.9,No,No,Yes,Yes,No,Never,2026-06-27,Routine,Cardiology,Routine Checkup,Low,129.6,83.8,78.8,93.2,19.8,36.56,82.8,4.78,188.8,5.27,Salbutamol; Aspirin,None
+P0005,Bilal Malik,52,Male,A+,167.4,83.2,29.7,No,No,Yes,Yes,No,Never,2026-07-28,Follow-up,Cardiology,Chest Pain,Medium,127.9,80.9,69.0,93.3,16.9,36.75,68.6,5.39,226.4,6.32,Salbutamol; Aspirin,None
+P0005,Bilal Malik,52,Male,A+,167.4,81.4,29.0,No,No,Yes,Yes,No,Never,2026-08-24,Screening,Emergency,Chest Pain,Medium,128.0,75.0,77.7,94.1,19.4,36.67,101.3,4.79,208.6,7.25,Salbutamol; Atorvastatin,None
+P0005,Bilal Malik,52,Male,A+,167.4,75.2,26.9,No,No,Yes,Yes,No,Never,2026-09-19,Follow-up,Cardiology,Routine Checkup,Medium,139.4,65.2,77.3,94.0,18.0,36.33,75.6,5.56,143.4,8.23,Salbutamol; Atorvastatin,None
+P0005,Bilal Malik,52,Male,A+,167.4,81.7,29.2,No,No,Yes,Yes,No,Never,2026-10-19,Screening,Cardiology,Chest Pain,Low,119.1,78.4,75.8,94.3,16.5,37.1,91.5,4.79,195.8,6.3,Salbutamol; Atorvastatin,None
+P0006,Talha Qureshi,29,Female,A+,158.5,70.6,28.1,No,No,No,No,No,Current,2026-01-09,Routine,General Medicine,Respiratory Infection,Low,99.6,68.7,73.3,96.0,17.4,36.4,87.7,4.99,211.0,6.46,None,None
+P0006,Talha Qureshi,29,Female,A+,158.5,70.0,27.8,No,No,No,No,No,Current,2026-02-06,Routine,General Medicine,Routine Checkup,Low,109.0,76.0,70.6,96.7,16.2,37.12,71.9,5.47,173.9,7.32,None,None
+P0006,Talha Qureshi,29,Female,A+,158.5,69.6,27.7,No,No,No,No,No,Current,2026-03-07,Emergency,Nephrology,Hyperlipidemia,Low,116.5,70.6,84.4,95.2,14.8,37.16,97.9,5.39,212.2,8.07,None,None
+P0006,Talha Qureshi,29,Female,A+,158.5,70.7,28.2,No,No,No,No,No,Current,2026-04-01,Routine,General Medicine,Hyperlipidemia,Low,113.8,65.0,78.7,96.9,14.3,37.0,101.4,4.76,240.0,7.76,None,None
+P0006,Talha Qureshi,29,Female,A+,158.5,68.7,27.3,No,No,No,No,No,Current,2026-04-29,Follow-up,General Medicine,Hyperlipidemia,Low,116.1,74.4,72.1,96.2,16.2,36.68,72.0,4.68,218.2,4.5,None,None
+P0006,Talha Qureshi,29,Female,A+,158.5,69.1,27.5,No,No,No,No,No,Current,2026-05-26,Routine,Pulmonology,Diabetes Management,Low,112.8,75.7,69.2,98.0,14.5,36.77,105.8,5.43,242.5,6.34,None,Dust
+P0006,Talha Qureshi,29,Female,A+,158.5,67.7,26.9,No,No,No,No,No,Current,2026-06-25,Screening,General Medicine,Routine Checkup,Low,117.4,65.9,79.0,99.9,16.5,36.85,84.6,4.57,167.2,6.01,None,None
+P0006,Talha Qureshi,29,Female,A+,158.5,69.3,27.6,No,No,No,No,No,Current,2026-07-23,Routine,General Medicine,Routine Checkup,Low,118.8,71.8,75.2,96.8,15.5,36.35,62.3,5.11,209.0,5.81,None,None
+P0006,Talha Qureshi,29,Female,A+,158.5,70.3,28.0,No,No,No,No,No,Current,2026-08-21,Screening,General Medicine,Chest Pain,Low,103.9,72.8,78.1,97.8,15.9,36.58,82.6,5.36,211.5,7.73,None,None
+P0006,Talha Qureshi,29,Female,A+,158.5,68.0,27.1,No,No,No,No,No,Current,2026-09-18,Routine,General Medicine,Hypertension,Low,99.3,79.7,73.5,95.3,14.9,36.89,87.8,5.02,233.2,6.05,None,None
+P0007,Maryam Nawaz,47,Female,O+,165.0,73.7,27.1,No,Yes,No,No,No,Never,2026-01-13,Routine,Nephrology,Chest Pain,Low,141.2,84.6,67.1,97.1,16.0,36.75,133.1,5.02,215.6,8.17,Losartan,None
+P0007,Maryam Nawaz,47,Female,O+,165.0,72.6,26.7,No,Yes,No,No,No,Never,2026-02-07,Emergency,Endocrinology,Routine Checkup,Low,149.5,86.0,90.1,96.9,15.5,38.58,105.9,4.95,165.5,6.16,Amlodipine,Dust
+P0007,Maryam Nawaz,47,Female,O+,165.0,73.2,26.9,No,Yes,No,No,No,Never,2026-03-10,Routine,Nephrology,Hyperlipidemia,Low,139.7,80.4,76.1,96.3,15.2,36.46,119.5,5.42,188.9,8.35,Amlodipine,None
+P0007,Maryam Nawaz,47,Female,O+,165.0,71.5,26.3,No,Yes,No,No,No,Never,2026-04-05,Screening,Emergency,Kidney Monitoring,Low,128.8,86.1,72.3,97.5,16.8,36.85,94.4,5.94,182.2,5.24,Losartan,None
+P0007,Maryam Nawaz,47,Female,O+,165.0,75.6,27.8,No,Yes,No,No,No,Never,2026-05-01,Routine,General Medicine,Chest Pain,Low,141.2,88.0,66.4,96.0,16.1,36.74,72.2,5.14,208.3,6.88,Amlodipine,Pollen
+P0007,Maryam Nawaz,47,Female,O+,165.0,71.3,26.2,No,Yes,No,No,No,Never,2026-06-02,Emergency,Cardiology,Diabetes Management,Low,141.7,86.6,83.1,94.6,17.2,37.74,119.4,5.82,162.4,7.11,Lisinopril,NSAIDs
+P0007,Maryam Nawaz,47,Female,O+,165.0,69.8,25.6,No,Yes,No,No,No,Never,2026-06-26,Routine,Pulmonology,Chest Pain,Low,139.0,85.2,75.5,99.2,16.4,36.82,83.8,4.75,206.5,6.18,Amlodipine,Pollen
+P0007,Maryam Nawaz,47,Female,O+,165.0,70.3,25.8,No,Yes,No,No,No,Never,2026-07-25,Follow-up,General Medicine,Hypertension,Low,127.6,89.1,75.0,96.4,13.6,36.51,99.2,5.61,159.3,7.02,Amlodipine,None
+P0007,Maryam Nawaz,47,Female,O+,165.0,72.1,26.5,No,Yes,No,No,No,Never,2026-08-25,Follow-up,Nephrology,Routine Checkup,Low,144.9,87.2,57.7,96.2,16.2,36.65,107.2,5.48,189.0,6.89,Amlodipine,None
+P0007,Maryam Nawaz,47,Female,O+,165.0,71.8,26.4,No,Yes,No,No,No,Never,2026-09-22,Follow-up,Pulmonology,Routine Checkup,Low,115.9,78.0,83.3,96.5,13.0,37.01,100.2,5.59,183.0,7.56,Losartan,None
+P0008,Hira Nawaz,71,Male,B+,179.7,90.2,27.9,No,No,No,No,No,Former,2026-01-10,Follow-up,Nephrology,Routine Checkup,Low,129.3,77.7,70.2,96.5,14.7,36.01,85.5,5.33,199.1,9.04,None,None
+P0008,Hira Nawaz,71,Male,B+,179.7,87.9,27.2,No,No,No,No,No,Former,2026-02-04,Routine,General Medicine,Routine Checkup,Low,134.9,82.7,74.2,96.7,16.6,37.26,87.9,5.35,230.6,8.24,None,None
+P0008,Hira Nawaz,71,Male,B+,179.7,85.7,26.5,No,No,No,No,No,Former,2026-03-06,Routine,Cardiology,Chest Pain,Low,141.5,75.7,62.7,97.3,15.9,36.58,93.3,6.17,193.0,8.15,None,None
+P0008,Hira Nawaz,71,Male,B+,179.7,86.8,26.9,No,No,No,No,No,Former,2026-04-04,Routine,Cardiology,Routine Checkup,Low,127.8,79.3,67.8,98.5,17.1,36.86,101.3,5.19,181.6,5.91,None,Pollen
+P0008,Hira Nawaz,71,Male,B+,179.7,88.0,27.3,No,No,No,No,No,Former,2026-05-03,Routine,Emergency,Routine Checkup,Low,127.6,78.4,74.9,99.5,18.2,36.98,86.2,4.89,,6.0,None,Penicillin
+P0008,Hira Nawaz,71,Male,B+,179.7,86.0,26.6,No,No,No,No,No,Former,2026-05-28,Follow-up,General Medicine,Chest Pain,Low,129.7,80.4,71.5,96.7,17.2,36.32,84.2,5.44,166.9,5.49,None,None
+P0008,Hira Nawaz,71,Male,B+,179.7,82.1,25.4,No,No,No,No,No,Former,2026-06-24,Emergency,General Medicine,Kidney Monitoring,Low,140.4,75.8,68.5,96.6,15.7,36.54,100.8,5.04,195.6,7.38,None,None
+P0008,Hira Nawaz,71,Male,B+,179.7,87.8,27.2,No,No,No,No,No,Former,2026-07-25,Routine,General Medicine,Routine Checkup,Low,122.6,73.0,78.7,98.4,14.9,36.54,101.2,4.39,174.5,6.82,None,None
+P0008,Hira Nawaz,71,Male,B+,179.7,83.9,26.0,No,No,No,No,No,Former,2026-08-19,Routine,Nephrology,Kidney Monitoring,Low,134.4,89.3,62.9,98.0,14.5,36.73,88.4,4.86,160.3,7.38,None,None
+P0009,Rayan Malik,19,Male,A-,173.2,47.4,15.8,No,No,No,No,No,Never,2026-01-16,Routine,General Medicine,Asthma,Low,117.7,69.3,69.6,97.5,14.8,36.6,93.3,5.55,167.1,5.26,None,None
+P0009,Rayan Malik,19,Male,A-,173.2,44.7,14.9,No,No,No,No,No,Never,2026-02-15,Follow-up,Cardiology,Diabetes Management,Low,106.6,69.8,79.9,97.7,16.0,36.58,85.5,5.31,188.5,6.19,None,None
+P0009,Rayan Malik,19,Male,A-,173.2,49.1,16.4,No,No,No,No,No,Never,2026-03-16,Routine,General Medicine,Routine Checkup,Low,105.8,73.1,71.8,96.9,15.8,36.73,104.7,5.68,178.0,7.92,None,None
+P0009,Rayan Malik,19,Male,A-,173.2,45.6,15.2,No,No,No,No,No,Never,2026-04-12,Follow-up,Cardiology,Routine Checkup,Low,96.7,69.3,79.4,97.6,16.4,36.95,99.3,5.63,194.5,8.62,None,None
+P0009,Rayan Malik,19,Male,A-,173.2,46.1,15.4,No,No,No,No,No,Never,2026-05-09,Emergency,General Medicine,Routine Checkup,Low,135.1,72.6,81.2,97.0,18.2,36.84,66.3,5.12,210.1,6.89,None,None
+P0009,Rayan Malik,19,Male,A-,173.2,46.6,15.5,No,No,No,No,No,Never,2026-06-04,Follow-up,General Medicine,Chest Pain,Low,113.7,72.7,71.0,98.0,14.7,36.29,101.2,5.42,186.6,7.51,None,None
+P0009,Rayan Malik,19,Male,A-,173.2,49.2,16.4,No,No,No,No,No,Never,2026-07-02,Screening,Pulmonology,Kidney Monitoring,Low,99.9,74.5,61.9,96.9,15.3,36.18,97.8,5.07,140.2,7.94,None,Pollen
+P0009,Rayan Malik,19,Male,A-,173.2,48.5,16.2,No,No,No,No,No,Never,2026-08-02,Follow-up,General Medicine,Hypertension,Low,119.9,67.3,73.2,97.4,13.3,36.82,126.1,5.42,204.5,7.28,None,None
+P0009,Rayan Malik,19,Male,A-,173.2,47.8,16.0,No,No,No,No,No,Never,2026-08-30,Screening,Nephrology,Hypertension,Low,105.1,76.8,71.5,97.3,16.7,36.95,93.2,5.69,183.6,7.72,None,Penicillin
+P0010,Iqra Iqbal,65,Female,B+,183.6,54.8,16.3,No,No,No,No,No,Never,2026-01-16,Follow-up,General Medicine,Routine Checkup,Low,141.1,78.6,73.2,98.2,14.7,36.45,89.1,5.49,154.0,5.43,None,None
+P0010,Iqra Iqbal,65,Female,B+,183.6,55.7,16.5,No,No,No,No,No,Never,2026-02-13,Routine,Endocrinology,Routine Checkup,Low,137.8,75.1,81.9,96.3,15.0,37.08,95.2,5.01,175.2,8.45,None,Pollen
+P0010,Iqra Iqbal,65,Female,B+,183.6,55.5,16.5,No,No,No,No,No,Never,2026-03-10,Follow-up,General Medicine,Kidney Monitoring,Low,131.3,84.7,79.2,96.7,15.7,36.87,83.2,5.41,176.4,6.13,None,None
+P0010,Iqra Iqbal,65,Female,B+,183.6,56.1,16.6,No,No,No,No,No,Never,2026-04-07,Emergency,Emergency,Chest Pain,Low,151.0,73.7,67.8,98.3,14.8,36.69,83.2,5.29,160.9,6.92,None,None
+P0010,Iqra Iqbal,65,Female,B+,183.6,55.0,16.3,No,No,No,No,No,Never,2026-05-06,Routine,Pulmonology,Routine Checkup,Low,131.1,75.7,76.1,98.4,15.3,36.82,88.4,5.33,206.2,7.61,None,None
+P0010,Iqra Iqbal,65,Female,B+,183.6,54.1,16.1,No,No,No,No,No,Never,2026-06-03,Screening,Endocrinology,Respiratory Infection,Low,120.9,79.7,61.5,96.8,17.9,36.22,72.8,4.84,176.9,6.73,None,None
+P0010,Iqra Iqbal,65,Female,B+,183.6,53.7,15.9,No,No,No,No,No,Never,2026-07-01,Screening,General Medicine,Chest Pain,Low,137.3,73.4,77.0,98.2,16.3,36.66,98.0,4.2,183.4,6.99,None,None
+P0010,Iqra Iqbal,65,Female,B+,183.6,55.3,16.4,No,No,No,No,No,Never,2026-07-27,Screening,General Medicine,Asthma,Low,132.1,79.8,78.2,95.9,16.3,37.02,66.0,5.26,167.5,6.73,None,Penicillin
+P0011,Rayan Shah,49,Male,AB+,178.6,52.7,16.5,No,No,Yes,No,No,Former,2026-01-24,Routine,Emergency,Routine Checkup,Low,146.7,86.8,71.9,96.1,14.8,36.26,107.3,5.61,196.8,6.63,Aspirin,None
+P0011,Rayan Shah,49,Male,AB+,178.6,50.2,15.7,No,No,Yes,No,No,Former,2026-02-21,Follow-up,Cardiology,Chest Pain,Low,130.2,85.2,69.8,96.1,16.5,36.89,105.1,4.96,148.9,6.57,Atorvastatin,None
+P0011,Rayan Shah,49,Male,AB+,178.6,54.5,17.1,No,No,Yes,No,No,Former,2026-03-17,Follow-up,Cardiology,Routine Checkup,Low,134.8,84.6,80.5,95.3,15.8,36.59,131.5,5.39,169.7,7.57,Aspirin,None
+P0011,Rayan Shah,49,Male,AB+,178.6,53.6,16.8,No,No,Yes,No,No,Former,2026-04-16,Emergency,Cardiology,Hypertension,Low,135.2,79.9,88.9,93.9,15.3,37.87,90.4,4.92,168.7,8.2,Aspirin,None
+P0011,Rayan Shah,49,Male,AB+,178.6,54.4,17.1,No,No,Yes,No,No,Former,2026-05-14,Follow-up,Cardiology,Hypertension,Low,122.6,75.5,77.7,97.2,13.1,36.77,71.4,4.98,171.4,6.68,Aspirin,None
+P0011,Rayan Shah,49,Male,AB+,178.6,54.1,17.0,No,No,Yes,No,No,Former,2026-06-12,Screening,Cardiology,Chest Pain,Medium,135.4,72.1,78.8,96.2,14.5,36.7,90.3,5.84,212.6,5.44,Aspirin,None
+P0011,Rayan Shah,49,Male,AB+,178.6,53.6,16.8,No,No,Yes,No,No,Former,2026-07-11,Follow-up,Cardiology,Chest Pain,Low,128.7,82.6,78.4,96.7,16.1,36.66,108.4,5.4,191.2,6.44,Aspirin,None
+P0011,Rayan Shah,49,Male,AB+,178.6,52.3,16.4,No,No,Yes,No,No,Former,2026-08-05,Follow-up,Cardiology,Routine Checkup,Medium,139.5,86.6,78.5,94.7,18.4,36.68,93.9,5.08,162.0,5.63,Aspirin,None
+P0011,Rayan Shah,49,Male,AB+,178.6,53.4,16.8,No,No,Yes,No,No,Former,2026-09-03,Emergency,Cardiology,Hypertension,Medium,144.0,80.1,92.0,92.7,15.0,37.23,63.6,5.24,137.6,5.78,Aspirin,Dust
+P0012,Hassan Sheikh,63,Female,O+,172.0,44.8,15.1,No,Yes,Yes,No,No,Never,2026-01-19,Follow-up,General Medicine,Chest Pain,Medium,148.5,88.3,69.7,96.5,16.1,36.48,112.1,5.0,152.7,8.12,Amlodipine; Atorvastatin,None
+P0012,Hassan Sheikh,63,Female,O+,172.0,42.7,14.4,No,Yes,Yes,No,No,Never,2026-02-16,Routine,Cardiology,Routine Checkup,High,157.0,89.2,88.3,95.5,12.6,36.79,129.2,5.75,211.0,6.08,Amlodipine; Atorvastatin,NSAIDs
+P0012,Hassan Sheikh,63,Female,O+,172.0,46.4,15.7,No,Yes,Yes,No,No,Never,2026-03-19,Emergency,Cardiology,Hypertension,High,173.9,93.0,77.3,94.2,14.9,38.12,117.7,5.57,164.4,4.36,Lisinopril; Atorvastatin,None
+P0012,Hassan Sheikh,63,Female,O+,172.0,44.4,15.0,No,Yes,Yes,No,No,Never,2026-04-13,Follow-up,Cardiology,Hypertension,High,154.7,99.6,79.5,96.2,17.8,36.41,111.3,5.1,132.7,4.97,Amlodipine; Atorvastatin,None
+P0012,Hassan Sheikh,63,Female,O+,172.0,44.6,15.1,No,Yes,Yes,No,No,Never,2026-05-11,Routine,Emergency,Routine Checkup,High,155.3,87.9,77.2,93.9,18.1,36.53,130.5,5.19,196.5,7.05,Losartan; Aspirin,Penicillin
+P0012,Hassan Sheikh,63,Female,O+,172.0,42.1,14.2,No,Yes,Yes,No,No,Never,2026-06-10,Routine,Cardiology,Hypertension,High,147.7,91.0,73.3,97.8,15.9,37.09,97.1,5.29,,6.65,Amlodipine; Atorvastatin,None
+P0012,Hassan Sheikh,63,Female,O+,172.0,44.3,15.0,No,Yes,Yes,No,No,Never,2026-07-10,Screening,Emergency,Hypertension,High,169.9,89.2,72.4,94.3,19.5,36.9,95.0,5.64,190.4,9.07,Amlodipine; Atorvastatin,None
+P0012,Hassan Sheikh,63,Female,O+,172.0,43.9,14.8,No,Yes,Yes,No,No,Never,2026-08-06,Screening,Emergency,Chest Pain,Medium,158.3,103.4,74.9,95.1,16.2,36.95,91.5,4.98,197.0,7.48,Lisinopril; Aspirin,None
+P0012,Hassan Sheikh,63,Female,O+,172.0,42.9,14.5,No,Yes,Yes,No,No,Never,2026-09-02,Routine,Emergency,Hypertension,High,152.0,91.7,81.4,94.1,14.7,36.77,98.5,5.4,155.9,7.46,Lisinopril; Aspirin,None
+P0012,Hassan Sheikh,63,Female,O+,172.0,44.1,14.9,No,Yes,Yes,No,No,Never,2026-09-28,Routine,Cardiology,Chest Pain,High,162.0,91.0,71.7,95.0,16.3,36.61,107.3,5.38,194.0,8.52,Losartan; Atorvastatin,Pollen
+P0012,Hassan Sheikh,63,Female,O+,172.0,43.3,14.6,No,Yes,Yes,No,No,Never,2026-10-27,Routine,Emergency,Routine Checkup,Medium,149.8,88.2,75.1,96.7,16.3,37.32,102.6,5.1,178.1,7.36,Amlodipine; Atorvastatin,None
+P0012,Hassan Sheikh,63,Female,O+,172.0,42.0,14.2,No,Yes,Yes,No,No,Never,2026-11-26,Routine,Emergency,Hypertension,Medium,158.5,97.9,71.9,95.5,13.4,36.39,115.7,5.04,158.0,7.33,Amlodipine; Aspirin,None
+P0013,Sana Siddiqui,59,Female,A+,183.7,66.8,19.8,No,Yes,No,No,No,Current,2026-01-08,Routine,General Medicine,Routine Checkup,Low,139.4,96.9,75.5,96.0,15.2,36.9,115.8,5.18,178.8,7.86,Losartan,None
+P0013,Sana Siddiqui,59,Female,A+,183.7,67.3,19.9,No,Yes,No,No,No,Current,2026-02-02,Routine,General Medicine,Hyperlipidemia,Low,149.4,88.2,76.5,96.3,15.8,36.49,81.3,5.32,181.3,7.79,Amlodipine,Dust
+P0013,Sana Siddiqui,59,Female,A+,183.7,64.9,19.2,No,Yes,No,No,No,Current,2026-03-05,Routine,Emergency,Routine Checkup,Low,148.6,83.5,72.3,96.4,15.2,36.42,119.0,5.57,187.7,9.07,Lisinopril,None
+P0013,Sana Siddiqui,59,Female,A+,183.7,63.5,18.8,No,Yes,No,No,No,Current,2026-03-30,Follow-up,General Medicine,Hypertension,Low,146.6,91.0,71.3,98.8,16.4,36.77,86.4,5.35,175.6,6.49,Losartan,None
+P0013,Sana Siddiqui,59,Female,A+,183.7,65.1,19.3,No,Yes,No,No,No,Current,2026-04-30,Emergency,Cardiology,Routine Checkup,Medium,156.0,90.2,81.2,97.3,14.7,36.55,86.2,4.78,197.2,7.79,Lisinopril,None
+P0013,Sana Siddiqui,59,Female,A+,183.7,62.2,18.4,No,Yes,No,No,No,Current,2026-05-26,Routine,Emergency,Hyperlipidemia,Low,133.5,83.2,75.4,97.7,13.9,36.45,89.2,5.07,153.5,5.68,Lisinopril,None
+P0013,Sana Siddiqui,59,Female,A+,183.7,63.6,18.8,No,Yes,No,No,No,Current,2026-06-22,Routine,General Medicine,Diabetes Management,Low,151.1,84.7,68.6,98.2,15.5,36.98,106.4,5.08,186.6,7.42,Lisinopril,None
+P0013,Sana Siddiqui,59,Female,A+,183.7,62.0,18.4,No,Yes,No,No,No,Current,2026-07-20,Routine,Nephrology,Routine Checkup,Medium,151.1,89.1,64.1,98.2,19.4,36.95,121.4,5.23,148.1,5.26,Lisinopril,None
+P0013,Sana Siddiqui,59,Female,A+,183.7,64.9,19.2,No,Yes,No,No,No,Current,2026-08-17,Follow-up,General Medicine,Routine Checkup,Low,133.8,84.6,81.1,95.9,17.3,36.58,108.2,5.58,191.3,8.01,Lisinopril,None
+P0013,Sana Siddiqui,59,Female,A+,183.7,64.6,19.1,No,Yes,No,No,No,Current,2026-09-16,Routine,General Medicine,Routine Checkup,Low,146.3,82.6,63.9,97.9,16.3,36.99,99.3,4.71,195.4,6.73,Losartan,Dust
+P0013,Sana Siddiqui,59,Female,A+,183.7,61.7,18.3,No,Yes,No,No,No,Current,2026-10-12,Follow-up,General Medicine,Routine Checkup,Low,146.3,94.9,69.1,97.4,11.9,36.69,95.3,4.91,197.5,6.77,Losartan,None
+P0013,Sana Siddiqui,59,Female,A+,183.7,59.7,17.7,No,Yes,No,No,No,Current,2026-11-13,Routine,Endocrinology,Respiratory Infection,Low,138.6,84.8,82.5,97.8,15.2,37.03,88.9,5.55,153.5,8.17,Losartan,Dust
+P0014,Talha Iqbal,45,Male,O+,172.0,85.4,28.9,Yes,Yes,No,No,No,Never,2026-01-13,Follow-up,Endocrinology,Diabetes Management,High,150.7,88.7,77.9,100.0,16.8,36.82,148.6,6.65,218.0,6.59,Losartan; Glimepiride,Pollen
+P0014,Talha Iqbal,45,Male,O+,172.0,84.0,28.4,Yes,Yes,No,No,No,Never,2026-02-14,Screening,General Medicine,Hyperlipidemia,Medium,131.6,89.7,76.6,95.4,15.5,36.74,149.7,7.32,231.1,7.69,Losartan; Glimepiride,None
+P0014,Talha Iqbal,45,Male,O+,172.0,83.5,28.2,Yes,Yes,No,No,No,Never,2026-03-14,Routine,General Medicine,Hyperlipidemia,Medium,136.6,82.6,70.5,97.5,14.4,36.29,132.8,7.27,256.4,7.88,Losartan; Metformin,None
+P0014,Talha Iqbal,45,Male,O+,172.0,82.5,27.9,Yes,Yes,No,No,No,Never,2026-04-07,Routine,General Medicine,Diabetes Management,Medium,136.7,86.1,77.0,96.2,15.5,36.02,128.7,6.82,207.6,7.27,Amlodipine; Metformin,None
+P0014,Talha Iqbal,45,Male,O+,172.0,84.1,28.4,Yes,Yes,No,No,No,Never,2026-05-05,Emergency,General Medicine,Diabetes Management,Medium,137.4,85.5,81.6,96.7,13.7,36.33,129.2,7.0,215.1,7.73,Losartan; Glimepiride,None
+P0014,Talha Iqbal,45,Male,O+,172.0,84.8,28.7,Yes,Yes,No,No,No,Never,2026-06-03,Follow-up,Endocrinology,Routine Checkup,Medium,136.1,81.5,62.7,96.5,14.4,36.27,126.1,6.63,236.5,7.7,Lisinopril; Metformin,None
+P0014,Talha Iqbal,45,Male,O+,172.0,82.6,27.9,Yes,Yes,No,No,No,Never,2026-07-02,Emergency,General Medicine,Hyperlipidemia,Medium,146.1,76.4,74.8,97.7,18.5,38.02,137.4,6.23,189.6,7.23,Lisinopril; Glimepiride,None
+P0014,Talha Iqbal,45,Male,O+,172.0,83.6,28.3,Yes,Yes,No,No,No,Never,2026-07-31,Screening,General Medicine,Routine Checkup,High,143.7,79.1,88.9,97.4,16.6,36.83,166.2,7.28,197.1,8.5,Losartan; Metformin,Penicillin
+P0014,Talha Iqbal,45,Male,O+,172.0,83.3,28.1,Yes,Yes,No,No,No,Never,2026-08-27,Routine,Endocrinology,Hyperlipidemia,Medium,149.7,93.9,72.3,97.1,15.4,36.98,133.1,6.85,243.6,6.56,Losartan; Glimepiride,Penicillin
+P0014,Talha Iqbal,45,Male,O+,172.0,86.3,29.2,Yes,Yes,No,No,No,Never,2026-09-25,Screening,Endocrinology,Diabetes Management,Medium,130.3,85.2,66.3,96.8,17.2,36.73,116.8,6.54,201.1,7.59,Lisinopril; Glimepiride,None
+P0015,Daniyal Hassan,37,Male,A+,175.5,69.5,22.6,No,Yes,No,No,No,Former,2026-01-09,Emergency,General Medicine,Routine Checkup,Medium,146.6,82.5,74.2,95.9,17.5,37.83,113.1,5.58,191.2,7.37,Losartan,None
+P0015,Daniyal Hassan,37,Male,A+,175.5,71.7,23.3,No,Yes,No,No,No,Former,2026-02-05,Routine,Pulmonology,Routine Checkup,Low,139.4,81.2,75.6,96.8,18.0,36.86,82.1,5.26,207.7,6.92,Losartan,None
+P0015,Daniyal Hassan,37,Male,A+,175.5,71.7,23.3,No,Yes,No,No,No,Former,2026-03-05,Routine,General Medicine,Respiratory Infection,Low,134.3,80.9,74.7,96.9,16.0,36.86,89.1,5.21,172.4,5.51,Amlodipine,None
+P0015,Daniyal Hassan,37,Male,A+,175.5,69.5,22.6,No,Yes,No,No,No,Former,2026-04-01,Follow-up,Cardiology,Kidney Monitoring,Low,142.8,81.5,79.8,97.4,16.7,36.37,114.1,5.08,193.5,6.29,Lisinopril,None
+P0015,Daniyal Hassan,37,Male,A+,175.5,72.5,23.5,No,Yes,No,No,No,Former,2026-05-02,Routine,Pulmonology,Routine Checkup,Low,139.2,78.6,75.4,96.3,14.2,36.96,74.4,5.52,173.5,6.89,Losartan,Penicillin
+P0015,Daniyal Hassan,37,Male,A+,175.5,67.3,21.8,No,Yes,No,No,No,Former,2026-05-31,Follow-up,Pulmonology,Routine Checkup,Low,130.7,89.3,82.1,97.7,14.2,36.82,112.8,5.45,192.1,7.46,Lisinopril,Dust
+P0015,Daniyal Hassan,37,Male,A+,175.5,70.5,22.9,No,Yes,No,No,No,Former,2026-06-26,Emergency,General Medicine,Routine Checkup,Medium,130.2,85.6,99.7,95.1,15.9,37.98,130.5,4.84,181.7,6.3,Losartan,None
+P0015,Daniyal Hassan,37,Male,A+,175.5,68.3,22.2,No,Yes,No,No,No,Former,2026-07-24,Follow-up,Emergency,Hypertension,Low,119.4,89.4,77.8,99.4,13.9,37.06,101.1,5.48,148.3,8.57,Losartan,None
+P0015,Daniyal Hassan,37,Male,A+,175.5,66.0,21.4,No,Yes,No,No,No,Former,2026-08-23,Screening,Emergency,Asthma,Low,137.9,88.4,67.8,97.3,15.6,36.78,90.6,4.89,196.9,7.04,Amlodipine,Penicillin
+P0015,Daniyal Hassan,37,Male,A+,175.5,70.5,22.9,No,Yes,No,No,No,Former,2026-09-18,Follow-up,Emergency,Hyperlipidemia,Low,140.2,79.1,71.2,96.8,14.1,36.63,120.0,5.28,153.8,5.54,Losartan,None
+P0016,Hamza Butt,57,Female,B+,165.3,78.0,28.5,No,No,No,No,No,Never,2026-01-19,Follow-up,General Medicine,Chest Pain,Low,131.2,79.1,70.6,98.9,14.6,36.7,92.2,5.34,200.3,7.41,None,None
+P0016,Hamza Butt,57,Female,B+,165.3,76.9,28.1,No,No,No,No,No,Never,2026-02-19,Routine,Endocrinology,Diabetes Management,Low,130.3,80.0,75.4,95.1,14.0,37.19,76.3,5.41,195.6,7.18,None,Pollen
+P0016,Hamza Butt,57,Female,B+,165.3,77.0,28.2,No,No,No,No,No,Never,2026-03-20,Routine,General Medicine,Hyperlipidemia,Low,118.4,79.5,87.8,98.4,17.1,36.68,62.9,4.74,231.1,6.31,None,None
+P0016,Hamza Butt,57,Female,B+,165.3,74.8,27.4,No,No,No,No,No,Never,2026-04-14,Routine,General Medicine,Routine Checkup,Low,121.7,73.5,75.1,96.8,15.7,36.85,89.9,5.1,216.5,7.77,None,None
+P0016,Hamza Butt,57,Female,B+,165.3,77.2,28.2,No,No,No,No,No,Never,2026-05-12,Follow-up,General Medicine,Routine Checkup,Low,130.0,78.8,72.3,97.7,17.4,36.93,90.5,5.69,212.1,7.73,None,NSAIDs
+P0016,Hamza Butt,57,Female,B+,165.3,75.6,27.7,No,No,No,No,No,Never,2026-06-10,Follow-up,General Medicine,Hypertension,Low,127.3,75.2,69.1,98.5,15.0,36.58,68.2,4.93,177.2,7.73,None,None
+P0016,Hamza Butt,57,Female,B+,165.3,78.5,28.7,No,No,No,No,No,Never,2026-07-09,Routine,General Medicine,Routine Checkup,Low,124.9,74.2,70.9,97.8,15.7,36.58,89.0,4.75,215.1,5.31,None,None
+P0016,Hamza Butt,57,Female,B+,165.3,78.2,28.6,No,No,No,No,No,Never,2026-08-07,Routine,Cardiology,Routine Checkup,Low,133.3,79.6,77.6,97.8,15.3,36.36,98.3,5.39,227.6,6.16,None,None
+P0016,Hamza Butt,57,Female,B+,165.3,72.7,26.6,No,No,No,No,No,Never,2026-09-03,Screening,Endocrinology,Hypertension,Low,120.2,84.2,82.9,95.8,15.5,36.71,118.7,5.03,169.4,8.65,None,Pollen
+P0016,Hamza Butt,57,Female,B+,165.3,74.1,27.1,No,No,No,No,No,Never,2026-10-01,Routine,General Medicine,Routine Checkup,Low,132.7,77.2,70.1,96.3,15.7,36.78,106.7,4.28,193.0,7.26,None,None
+P0017,Ayesha Khan,26,Female,AB+,168.6,92.0,32.4,No,No,No,No,No,Never,2026-01-10,Routine,Pulmonology,Routine Checkup,Low,109.9,76.8,79.4,96.9,15.7,36.62,88.2,5.5,212.2,7.34,None,None
+P0017,Ayesha Khan,26,Female,AB+,168.6,91.7,32.2,No,No,No,No,No,Never,2026-02-05,Routine,Cardiology,Hypertension,Low,114.0,74.9,71.2,96.7,15.7,36.35,90.7,5.3,241.3,7.19,None,None
+P0017,Ayesha Khan,26,Female,AB+,168.6,90.1,31.7,No,No,No,No,No,Never,2026-03-06,Screening,Endocrinology,Routine Checkup,Low,106.8,65.2,69.9,97.1,13.2,36.41,92.2,5.06,215.1,5.89,None,Pollen
+P0017,Ayesha Khan,26,Female,AB+,168.6,89.7,31.5,No,No,No,No,No,Never,2026-04-04,Routine,Nephrology,Routine Checkup,Low,123.6,73.6,75.4,97.0,14.5,36.58,73.8,4.75,215.2,5.98,None,None
+P0017,Ayesha Khan,26,Female,AB+,168.6,89.4,31.5,No,No,No,No,No,Never,2026-05-03,Routine,General Medicine,Hypertension,Low,120.7,68.2,72.3,96.0,15.4,36.63,81.1,4.77,182.6,4.76,None,Pollen
+P0017,Ayesha Khan,26,Female,AB+,168.6,87.6,30.8,No,No,No,No,No,Never,2026-05-28,Routine,Pulmonology,Routine Checkup,Low,114.2,75.2,76.0,95.5,15.7,36.3,128.7,4.64,189.1,6.06,None,None
+P0017,Ayesha Khan,26,Female,AB+,168.6,84.7,29.8,No,No,No,No,No,Never,2026-06-29,Follow-up,General Medicine,Respiratory Infection,Low,110.3,70.4,68.1,97.2,16.6,36.78,87.3,4.81,220.0,7.11,None,None
+P0017,Ayesha Khan,26,Female,AB+,168.6,86.7,30.5,No,No,No,No,No,Never,2026-07-25,Follow-up,General Medicine,Routine Checkup,Low,117.3,73.8,78.6,97.4,16.3,37.0,99.0,5.22,234.6,7.22,None,NSAIDs
+P0017,Ayesha Khan,26,Female,AB+,168.6,88.4,31.1,No,No,No,No,No,Never,2026-08-24,Screening,Endocrinology,Diabetes Management,Low,121.2,62.1,71.7,97.0,14.9,37.3,91.0,5.06,208.5,5.1,None,NSAIDs
+P0017,Ayesha Khan,26,Female,AB+,168.6,90.9,32.0,No,No,No,No,No,Never,2026-09-19,Routine,Endocrinology,Kidney Monitoring,Low,115.6,69.7,70.6,96.2,14.5,36.44,82.7,4.84,179.9,7.32,None,None
+P0018,Maham Javed,54,Male,A+,161.7,90.0,34.4,Yes,No,No,No,No,Never,2026-01-14,Routine,Endocrinology,Hyperlipidemia,Low,119.6,73.7,65.3,97.4,17.8,36.47,134.3,6.64,220.5,6.41,Glimepiride,NSAIDs
+P0018,Maham Javed,54,Male,A+,161.7,90.2,34.5,Yes,No,No,No,No,Never,2026-02-11,Screening,Endocrinology,Routine Checkup,Low,127.0,81.3,73.6,99.2,18.1,36.62,125.2,7.16,210.9,8.27,Metformin,Dust
+P0018,Maham Javed,54,Male,A+,161.7,92.1,35.2,Yes,No,No,No,No,Never,2026-03-10,Screening,General Medicine,Routine Checkup,Low,135.8,81.6,70.1,97.0,16.3,36.79,109.7,6.46,210.0,6.14,Metformin,Pollen
+P0018,Maham Javed,54,Male,A+,161.7,91.4,35.0,Yes,No,No,No,No,Never,2026-04-09,Follow-up,General Medicine,Hyperlipidemia,Low,129.3,79.8,67.7,97.2,19.3,36.7,119.6,6.94,227.7,6.95,Metformin,None
+P0018,Maham Javed,54,Male,A+,161.7,91.2,34.9,Yes,No,No,No,No,Never,2026-05-03,Follow-up,Endocrinology,Routine Checkup,Low,124.0,77.1,77.3,96.9,16.6,36.56,138.6,7.13,241.6,7.81,Metformin,None
+P0018,Maham Javed,54,Male,A+,161.7,91.0,34.8,Yes,No,No,No,No,Never,2026-05-31,Screening,General Medicine,Diabetes Management,Low,126.5,78.9,67.1,96.9,15.9,36.15,126.7,6.94,223.1,8.52,Metformin,Penicillin
+P0018,Maham Javed,54,Male,A+,161.7,91.1,34.8,Yes,No,No,No,No,Never,2026-06-28,Routine,Endocrinology,Diabetes Management,Low,133.0,81.1,72.5,96.6,17.5,36.7,117.7,6.4,218.1,7.85,Glimepiride,None
+P0018,Maham Javed,54,Male,A+,161.7,88.8,34.0,Yes,No,No,No,No,Never,2026-07-30,Routine,General Medicine,Hyperlipidemia,Low,129.1,80.9,74.6,96.8,16.8,36.74,118.3,7.65,219.7,7.88,Glimepiride,None
+P0018,Maham Javed,54,Male,A+,161.7,92.9,35.5,Yes,No,No,No,No,Never,2026-08-25,Screening,General Medicine,Routine Checkup,Low,120.7,79.5,67.1,96.4,17.7,36.94,119.4,6.74,214.4,7.83,Metformin,None
+P0018,Maham Javed,54,Male,A+,161.7,91.2,34.9,Yes,No,No,No,No,Never,2026-09-22,Routine,Endocrinology,Diabetes Management,Low,123.7,71.9,78.1,96.2,16.5,36.68,114.2,6.79,250.9,7.3,Glimepiride,None
+P0019,Zain Siddiqui,23,Female,A+,176.9,69.8,22.3,No,No,No,No,No,Never,2026-01-18,Follow-up,Nephrology,Routine Checkup,Low,109.2,79.3,74.3,96.2,15.0,36.56,97.4,5.67,196.9,7.56,None,Dust
+P0019,Zain Siddiqui,23,Female,A+,176.9,73.4,23.5,No,No,No,No,No,Never,2026-02-15,Routine,General Medicine,Asthma,Low,104.0,66.9,71.4,97.5,17.6,36.85,93.1,4.94,158.7,6.59,None,None
+P0019,Zain Siddiqui,23,Female,A+,176.9,72.9,23.3,No,No,No,No,No,Never,2026-03-15,Routine,General Medicine,Diabetes Management,Low,102.1,83.8,71.8,97.4,16.6,36.61,81.1,5.94,196.1,7.92,None,None
+P0019,Zain Siddiqui,23,Female,A+,176.9,69.8,22.3,No,No,No,No,No,Never,2026-04-13,Routine,Nephrology,Diabetes Management,Low,97.7,73.6,67.1,95.0,16.8,37.23,112.8,5.11,178.2,7.99,None,Penicillin
+P0019,Zain Siddiqui,23,Female,A+,176.9,72.4,23.1,No,No,No,No,No,Never,2026-05-11,Routine,Cardiology,Routine Checkup,Low,111.2,78.9,79.3,97.5,18.6,36.6,116.3,5.39,236.9,5.91,None,NSAIDs
+P0019,Zain Siddiqui,23,Female,A+,176.9,74.2,23.7,No,No,No,No,No,Never,2026-06-04,Routine,General Medicine,Diabetes Management,Low,120.1,75.5,66.2,98.4,17.8,36.85,95.1,5.28,176.6,7.74,None,Penicillin
+P0019,Zain Siddiqui,23,Female,A+,176.9,71.1,22.7,No,No,No,No,No,Never,2026-07-04,Screening,General Medicine,Hypertension,Low,113.6,71.9,73.3,97.5,15.1,37.07,88.0,5.05,186.7,5.26,None,None
+P0019,Zain Siddiqui,23,Female,A+,176.9,71.7,22.9,No,No,No,No,No,Never,2026-08-01,Routine,Cardiology,Routine Checkup,Low,114.0,77.6,69.2,97.9,15.0,36.58,80.0,5.32,198.8,6.92,None,None
+P0019,Zain Siddiqui,23,Female,A+,176.9,71.6,22.9,No,No,No,No,No,Never,2026-08-29,Follow-up,General Medicine,Chest Pain,Low,117.4,70.8,69.7,96.0,18.1,36.07,104.0,5.04,170.6,8.79,None,None
+P0019,Zain Siddiqui,23,Female,A+,176.9,69.4,22.2,No,No,No,No,No,Never,2026-09-26,Follow-up,Nephrology,Routine Checkup,Low,105.9,78.4,72.4,97.5,15.6,36.54,117.2,5.13,170.0,8.2,None,None
+P0019,Zain Siddiqui,23,Female,A+,176.9,75.9,24.3,No,No,No,No,No,Never,2026-10-25,Follow-up,General Medicine,Diabetes Management,Low,114.4,60.1,74.0,97.0,16.1,36.76,91.6,5.18,189.0,6.56,None,None
+P0019,Zain Siddiqui,23,Female,A+,176.9,72.3,23.1,No,No,No,No,No,Never,2026-11-21,Routine,General Medicine,Routine Checkup,Low,105.5,69.8,78.3,97.5,16.9,36.26,119.6,4.78,205.5,8.12,None,Dust
+P0020,Hassan Nawaz,58,Female,B+,157.4,91.9,37.1,No,No,Yes,Yes,No,Never,2026-01-19,Emergency,Emergency,Hypertension,Medium,149.1,77.1,76.0,93.4,19.3,36.65,74.8,5.23,181.6,6.07,Salbutamol; Aspirin,None
+P0020,Hassan Nawaz,58,Female,B+,157.4,91.7,37.0,No,No,Yes,Yes,No,Never,2026-02-14,Emergency,General Medicine,Routine Checkup,Medium,116.1,86.4,87.6,91.8,18.3,38.08,68.7,4.99,187.5,8.87,Salbutamol; Aspirin,None
+P0020,Hassan Nawaz,58,Female,B+,157.4,93.6,37.8,No,No,Yes,Yes,No,Never,2026-03-12,Follow-up,Emergency,Chest Pain,Medium,129.6,85.2,78.7,92.7,19.4,36.29,116.0,5.26,231.1,6.02,Salbutamol; Atorvastatin,None
+P0020,Hassan Nawaz,58,Female,B+,157.4,90.8,36.7,No,No,Yes,Yes,No,Never,2026-04-13,Routine,Cardiology,Chest Pain,Medium,125.5,81.4,78.2,92.3,20.8,36.68,111.1,5.01,212.4,7.04,Salbutamol; Aspirin,None
+P0020,Hassan Nawaz,58,Female,B+,157.4,92.3,37.2,No,No,Yes,Yes,No,Never,2026-05-09,Follow-up,General Medicine,Hypertension,Medium,128.3,87.8,82.9,93.4,20.5,36.99,103.5,4.7,195.5,6.1,Salbutamol; Aspirin,None
+P0020,Hassan Nawaz,58,Female,B+,157.4,92.4,37.3,No,No,Yes,Yes,No,Never,2026-06-07,Screening,Cardiology,Chest Pain,Medium,122.8,84.2,83.3,94.9,19.8,36.59,104.3,4.71,190.7,7.43,Salbutamol; Atorvastatin,None
+P0020,Hassan Nawaz,58,Female,B+,157.4,93.2,37.6,No,No,Yes,Yes,No,Never,2026-07-03,Routine,General Medicine,Chest Pain,Medium,134.5,88.6,81.0,92.2,18.1,36.36,98.1,5.41,252.4,6.48,Salbutamol; Aspirin,Penicillin
+P0020,Hassan Nawaz,58,Female,B+,157.4,94.3,38.0,No,No,Yes,Yes,No,Never,2026-08-01,Follow-up,Cardiology,Routine Checkup,Medium,130.1,86.5,84.2,93.0,18.0,37.31,79.7,5.3,194.5,8.89,Salbutamol; Atorvastatin,NSAIDs
+P0020,Hassan Nawaz,58,Female,B+,157.4,93.6,37.8,No,No,Yes,Yes,No,Never,2026-08-29,Routine,Emergency,Routine Checkup,Medium,137.1,82.7,80.7,93.4,18.8,36.71,82.4,5.79,189.1,7.53,Salbutamol; Aspirin,None
+P0021,Hira Shah,57,Female,O+,175.0,74.3,24.3,No,No,No,No,No,Former,2026-01-13,Routine,General Medicine,Diabetes Management,Low,116.4,82.8,64.2,97.8,14.9,37.1,103.2,4.85,161.5,7.71,None,None
+P0021,Hira Shah,57,Female,O+,175.0,76.8,25.1,No,No,No,No,No,Former,2026-02-11,Routine,Cardiology,Routine Checkup,Low,132.5,76.6,70.3,95.3,14.4,36.78,89.9,5.23,196.7,5.91,None,None
+P0021,Hira Shah,57,Female,O+,175.0,75.6,24.7,No,No,No,No,No,Former,2026-03-09,Follow-up,Pulmonology,Asthma,Low,139.4,69.9,72.0,97.4,14.6,36.78,75.4,5.44,197.0,7.37,None,None
+P0021,Hira Shah,57,Female,O+,175.0,74.4,24.3,No,No,No,No,No,Former,2026-04-09,Follow-up,Pulmonology,Routine Checkup,Low,135.5,78.1,67.1,98.0,15.0,36.53,97.4,5.82,207.2,7.46,None,None
+P0021,Hira Shah,57,Female,O+,175.0,75.5,24.6,No,No,No,No,No,Former,2026-05-06,Follow-up,Pulmonology,Respiratory Infection,Low,125.3,79.9,72.7,93.9,16.3,36.86,98.7,5.16,207.6,7.41,None,None
+P0021,Hira Shah,57,Female,O+,175.0,74.0,24.1,No,No,No,No,No,Former,2026-06-04,Routine,General Medicine,Routine Checkup,Low,132.2,75.6,76.8,97.1,17.9,36.63,99.0,5.38,205.0,5.39,None,None
+P0021,Hira Shah,57,Female,O+,175.0,74.2,24.2,No,No,No,No,No,Former,2026-06-29,Follow-up,General Medicine,Diabetes Management,Low,132.1,81.7,69.8,97.3,17.8,37.17,103.1,5.22,177.0,7.66,None,None
+P0021,Hira Shah,57,Female,O+,175.0,73.9,24.1,No,No,No,No,No,Former,2026-07-29,Routine,General Medicine,Diabetes Management,Low,127.5,87.4,69.5,96.3,15.2,37.11,55.0,4.85,227.2,7.69,None,None
+P0022,Ahmed Qureshi,23,Male,B-,166.3,59.4,21.5,No,Yes,No,No,No,Former,2026-01-18,Screening,General Medicine,Hypertension,Low,121.7,75.1,73.9,95.8,11.3,36.44,92.9,4.99,205.4,6.49,Lisinopril,None
+P0022,Ahmed Qureshi,23,Male,B-,166.3,62.4,22.6,No,Yes,No,No,No,Former,2026-02-15,Follow-up,General Medicine,Routine Checkup,Low,126.3,76.3,78.0,97.4,15.3,36.74,98.7,4.9,179.3,6.48,Losartan,None
+P0022,Ahmed Qureshi,23,Male,B-,166.3,66.6,24.1,No,Yes,No,No,No,Former,2026-03-16,Screening,General Medicine,Routine Checkup,Low,134.2,87.5,76.8,98.9,14.8,36.06,93.3,5.4,180.7,7.38,Losartan,NSAIDs
+P0022,Ahmed Qureshi,23,Male,B-,166.3,62.1,22.5,No,Yes,No,No,No,Former,2026-04-11,Follow-up,Endocrinology,Hypertension,Low,123.6,77.9,68.1,96.3,14.1,36.32,97.1,4.99,197.9,7.39,Losartan,None
+P0022,Ahmed Qureshi,23,Male,B-,166.3,61.7,22.3,No,Yes,No,No,No,Former,2026-05-10,Routine,General Medicine,Chest Pain,Low,135.6,81.0,76.8,96.5,13.3,36.77,110.9,5.4,185.6,6.75,Amlodipine,None
+P0022,Ahmed Qureshi,23,Male,B-,166.3,60.7,22.0,No,Yes,No,No,No,Former,2026-06-06,Follow-up,General Medicine,Routine Checkup,Low,139.5,85.3,69.9,97.3,16.2,36.01,86.4,5.18,171.6,7.35,Losartan,None
+P0022,Ahmed Qureshi,23,Male,B-,166.3,61.4,22.2,No,Yes,No,No,No,Former,2026-07-06,Routine,General Medicine,Kidney Monitoring,Low,126.0,92.2,58.6,96.6,16.0,36.5,113.5,5.48,177.1,6.83,Lisinopril,None
+P0022,Ahmed Qureshi,23,Male,B-,166.3,59.4,21.5,No,Yes,No,No,No,Former,2026-08-03,Routine,Endocrinology,Routine Checkup,Medium,120.6,72.3,77.2,97.3,16.8,36.34,126.8,4.99,181.0,7.95,Lisinopril,None
+P0022,Ahmed Qureshi,23,Male,B-,166.3,64.4,23.3,No,Yes,No,No,No,Former,2026-08-31,Routine,Endocrinology,Hypertension,Low,136.4,82.8,66.1,98.1,13.8,37.1,103.0,4.27,171.9,7.75,Lisinopril,Dust
+P0022,Ahmed Qureshi,23,Male,B-,166.3,60.8,22.0,No,Yes,No,No,No,Former,2026-09-29,Routine,General Medicine,Routine Checkup,Low,136.6,76.7,73.9,97.1,13.7,36.37,100.2,5.89,188.4,5.37,Losartan,None
+P0023,Daniyal Sheikh,65,Female,O+,178.5,65.6,20.6,No,Yes,Yes,No,No,Former,2026-01-19,Emergency,Cardiology,Routine Checkup,High,166.0,91.9,92.7,95.0,14.0,37.99,90.9,5.0,176.8,7.17,Lisinopril; Atorvastatin,Dust
+P0023,Daniyal Sheikh,65,Female,O+,178.5,64.7,20.3,No,Yes,Yes,No,No,Former,2026-02-18,Routine,Emergency,Chest Pain,Medium,149.5,99.3,73.5,96.3,15.0,36.59,96.3,5.65,144.0,5.78,Lisinopril; Aspirin,Dust
+P0023,Daniyal Sheikh,65,Female,O+,178.5,61.8,19.4,No,Yes,Yes,No,No,Former,2026-03-15,Routine,General Medicine,Hypertension,Medium,147.1,98.0,79.4,95.7,14.5,36.32,82.9,5.18,193.6,8.0,Losartan; Aspirin,Dust
+P0023,Daniyal Sheikh,65,Female,O+,178.5,62.2,19.5,No,Yes,Yes,No,No,Former,2026-04-15,Routine,General Medicine,Chest Pain,Medium,152.6,98.1,68.2,94.9,15.2,36.64,76.1,5.41,190.0,7.61,Amlodipine; Atorvastatin,None
+P0023,Daniyal Sheikh,65,Female,O+,178.5,65.5,20.5,No,Yes,Yes,No,No,Former,2026-05-12,Follow-up,General Medicine,Hypertension,Medium,145.9,92.9,68.9,94.3,14.4,36.59,114.1,5.4,187.4,6.0,Amlodipine; Atorvastatin,Penicillin
+P0023,Daniyal Sheikh,65,Female,O+,178.5,65.6,20.6,No,Yes,Yes,No,No,Former,2026-06-11,Follow-up,Cardiology,Hypertension,High,165.4,91.1,84.1,96.1,13.8,36.42,87.5,4.9,176.4,7.71,Losartan; Atorvastatin,Dust
+P0023,Daniyal Sheikh,65,Female,O+,178.5,65.2,20.5,No,Yes,Yes,No,No,Former,2026-07-05,Follow-up,Cardiology,Hypertension,Medium,155.5,102.5,84.4,96.3,14.6,36.57,98.6,4.93,187.0,7.46,Lisinopril; Atorvastatin,Penicillin
+P0023,Daniyal Sheikh,65,Female,O+,178.5,66.8,21.0,No,Yes,Yes,No,No,Former,2026-08-04,Follow-up,Cardiology,Routine Checkup,High,151.9,96.1,78.1,94.2,13.9,36.98,117.9,5.31,204.9,8.16,Losartan; Atorvastatin,None
+P0024,Fatima Nawaz,44,Female,O+,174.8,53.9,17.6,Yes,No,No,Yes,No,Never,2026-01-16,Follow-up,Endocrinology,Hyperlipidemia,Medium,116.0,73.5,71.5,94.3,21.3,37.05,135.3,6.99,211.2,8.23,Glimepiride; Salbutamol,None
+P0024,Fatima Nawaz,44,Female,O+,174.8,53.3,17.4,Yes,No,No,Yes,No,Never,2026-02-12,Screening,Endocrinology,Routine Checkup,Medium,104.8,77.8,70.6,93.8,19.4,36.76,122.7,6.77,198.3,6.69,Metformin; Salbutamol,None
+P0024,Fatima Nawaz,44,Female,O+,174.8,54.8,17.9,Yes,No,No,Yes,No,Never,2026-03-14,Emergency,Endocrinology,Routine Checkup,Medium,101.3,72.6,84.0,94.6,19.3,38.18,119.3,7.21,199.5,5.39,Glimepiride; Salbutamol,None
+P0024,Fatima Nawaz,44,Female,O+,174.8,52.8,17.3,Yes,No,No,Yes,No,Never,2026-04-10,Follow-up,General Medicine,Hyperlipidemia,Low,115.8,71.4,78.6,95.6,18.0,36.9,130.7,6.69,191.4,6.8,Metformin; Salbutamol,None
+P0024,Fatima Nawaz,44,Female,O+,174.8,53.6,17.6,Yes,No,No,Yes,No,Never,2026-05-07,Follow-up,General Medicine,Hyperlipidemia,Medium,114.0,76.3,80.7,93.2,16.4,37.12,135.3,6.85,179.2,6.59,Metformin; Salbutamol,None
+P0024,Fatima Nawaz,44,Female,O+,174.8,50.9,16.7,Yes,No,No,Yes,No,Never,2026-06-02,Routine,General Medicine,Diabetes Management,Medium,116.7,61.7,75.3,94.3,19.7,36.23,147.4,7.29,218.5,7.05,Metformin; Salbutamol,Pollen
+P0024,Fatima Nawaz,44,Female,O+,174.8,50.7,16.6,Yes,No,No,Yes,No,Never,2026-07-02,Routine,Endocrinology,Routine Checkup,Medium,119.7,70.7,78.3,92.7,15.3,37.04,143.6,6.63,195.9,8.12,Metformin; Salbutamol,None
+P0024,Fatima Nawaz,44,Female,O+,174.8,52.6,17.2,Yes,No,No,Yes,No,Never,2026-07-28,Follow-up,General Medicine,Diabetes Management,Medium,117.8,72.9,76.4,94.5,16.9,36.9,115.4,6.92,190.7,7.46,Glimepiride; Salbutamol,None
+P0025,Maryam Ahmed,67,Male,B+,184.4,62.2,18.3,No,No,No,No,No,Never,2026-01-19,Follow-up,General Medicine,Hyperlipidemia,Low,132.8,83.6,67.9,96.0,15.0,36.72,88.7,5.45,201.5,6.12,None,None
+P0025,Maryam Ahmed,67,Male,B+,184.4,59.0,17.3,No,No,No,No,No,Never,2026-02-20,Routine,General Medicine,Routine Checkup,Low,132.3,81.9,70.5,98.1,19.5,36.46,76.7,4.89,206.9,8.14,None,NSAIDs
+P0025,Maryam Ahmed,67,Male,B+,184.4,60.9,17.9,No,No,No,No,No,Never,2026-03-19,Routine,General Medicine,Hypertension,Low,136.6,78.5,70.6,97.0,17.2,37.11,100.8,5.48,174.4,6.39,None,None
+P0025,Maryam Ahmed,67,Male,B+,184.4,60.3,17.7,No,No,No,No,No,Never,2026-04-15,Follow-up,General Medicine,Respiratory Infection,Low,142.7,81.8,80.2,97.3,16.1,36.47,92.2,5.2,153.4,6.56,None,None
+P0025,Maryam Ahmed,67,Male,B+,184.4,60.8,17.9,No,No,No,No,No,Never,2026-05-12,Follow-up,Emergency,Diabetes Management,Low,112.3,77.0,78.5,95.3,16.2,37.1,80.6,5.2,154.5,,None,None
+P0025,Maryam Ahmed,67,Male,B+,184.4,59.9,17.6,No,No,No,No,No,Never,2026-06-09,Routine,General Medicine,Asthma,Low,135.8,76.3,59.3,96.9,13.8,37.1,94.7,4.88,165.4,5.21,None,Penicillin
+P0025,Maryam Ahmed,67,Male,B+,184.4,60.2,17.7,No,No,No,No,No,Never,2026-07-09,Screening,General Medicine,Routine Checkup,Low,125.7,89.7,70.9,99.1,18.1,36.26,82.0,4.97,176.6,7.04,None,None
+P0025,Maryam Ahmed,67,Male,B+,184.4,60.9,17.9,No,No,No,No,No,Never,2026-08-06,Routine,General Medicine,Routine Checkup,Low,133.1,74.2,72.6,97.5,16.5,36.84,113.2,5.53,179.3,5.93,None,Dust
+P0026,Saad Ali,20,Male,O+,174.6,69.6,22.8,No,Yes,No,No,No,Never,2026-01-12,Follow-up,Emergency,Respiratory Infection,Low,133.2,78.3,69.4,97.5,14.9,36.5,117.9,5.51,188.8,8.03,Losartan,Dust
+P0026,Saad Ali,20,Male,O+,174.6,68.9,22.6,No,Yes,No,No,No,Never,2026-02-10,Routine,Nephrology,Kidney Monitoring,Low,126.1,82.8,70.1,97.9,13.6,36.56,130.7,4.98,173.7,6.22,Amlodipine,Penicillin
+P0026,Saad Ali,20,Male,O+,174.6,70.2,23.0,No,Yes,No,No,No,Never,2026-03-11,Routine,Endocrinology,Chest Pain,Low,135.4,81.7,91.4,98.1,16.5,36.48,98.5,5.7,208.8,8.58,Losartan,None
+P0026,Saad Ali,20,Male,O+,174.6,69.1,22.7,No,Yes,No,No,No,Never,2026-04-09,Routine,General Medicine,Respiratory Infection,Low,131.7,85.5,75.0,97.5,14.5,36.67,77.4,4.5,191.3,6.35,Losartan,None
+P0026,Saad Ali,20,Male,O+,174.6,68.8,22.6,No,Yes,No,No,No,Never,2026-05-05,Routine,Endocrinology,Hypertension,Low,124.7,78.8,83.9,95.5,16.6,36.45,113.6,5.3,184.8,6.16,Lisinopril,Pollen
+P0026,Saad Ali,20,Male,O+,174.6,69.1,22.7,No,Yes,No,No,No,Never,2026-06-04,Follow-up,General Medicine,Hypertension,Low,145.0,81.5,80.8,96.3,15.9,36.85,106.0,4.93,163.4,8.09,Amlodipine,Penicillin
+P0026,Saad Ali,20,Male,O+,174.6,69.7,22.9,No,Yes,No,No,No,Never,2026-06-30,Emergency,General Medicine,Diabetes Management,Low,121.5,75.8,82.3,95.8,16.0,36.97,111.4,5.67,143.2,,Losartan,None
+P0026,Saad Ali,20,Male,O+,174.6,69.3,22.7,No,Yes,No,No,No,Never,2026-07-28,Emergency,General Medicine,Diabetes Management,Low,140.9,82.9,85.2,96.3,18.5,38.18,84.1,5.48,194.1,7.41,Losartan,None
+P0026,Saad Ali,20,Male,O+,174.6,69.2,22.7,No,Yes,No,No,No,Never,2026-08-26,Screening,General Medicine,Hypertension,Low,127.8,78.2,73.8,98.0,14.8,36.7,113.0,4.52,177.0,6.67,Lisinopril,None
+P0026,Saad Ali,20,Male,O+,174.6,68.7,22.5,No,Yes,No,No,No,Never,2026-09-21,Routine,Cardiology,Kidney Monitoring,Low,142.0,78.2,82.9,97.0,18.7,36.89,104.6,5.18,166.8,7.18,Amlodipine,None
+P0026,Saad Ali,20,Male,O+,174.6,69.9,22.9,No,Yes,No,No,No,Never,2026-10-21,Follow-up,General Medicine,Routine Checkup,Low,136.6,77.7,68.0,97.4,18.3,36.99,81.2,5.11,161.2,6.83,Amlodipine,None
+P0027,Rayan Khan,29,Female,A+,153.9,87.3,36.9,Yes,No,No,No,No,Former,2026-01-13,Screening,Endocrinology,Diabetes Management,Medium,99.7,77.9,70.1,97.7,14.0,36.7,133.5,7.4,197.5,7.13,Glimepiride,None
+P0027,Rayan Khan,29,Female,A+,153.9,86.8,36.6,Yes,No,No,No,No,Former,2026-02-10,Routine,Endocrinology,Hyperlipidemia,Low,121.5,63.8,75.7,98.0,15.6,36.4,144.1,6.58,222.8,7.06,Glimepiride,Dust
+P0027,Rayan Khan,29,Female,A+,153.9,89.1,37.6,Yes,No,No,No,No,Former,2026-03-10,Follow-up,General Medicine,Routine Checkup,Low,101.4,73.6,65.5,98.0,14.6,36.53,121.2,6.97,231.8,7.58,Metformin,Pollen
+P0027,Rayan Khan,29,Female,A+,153.9,83.7,35.3,Yes,No,No,No,No,Former,2026-04-04,Follow-up,General Medicine,Hyperlipidemia,Medium,100.8,71.8,79.8,97.2,15.7,36.48,156.4,6.64,212.9,7.67,Metformin,None
+P0027,Rayan Khan,29,Female,A+,153.9,84.6,35.7,Yes,No,No,No,No,Former,2026-05-01,Follow-up,General Medicine,Diabetes Management,Low,104.6,71.3,66.1,97.5,17.2,37.07,135.6,7.32,220.7,6.62,Metformin,None
+P0027,Rayan Khan,29,Female,A+,153.9,85.9,36.3,Yes,No,No,No,No,Former,2026-05-29,Follow-up,Endocrinology,Hyperlipidemia,Low,118.2,67.1,76.0,96.5,16.0,37.05,142.1,7.28,260.4,6.4,Glimepiride,None
+P0027,Rayan Khan,29,Female,A+,153.9,83.7,35.3,Yes,No,No,No,No,Former,2026-06-26,Routine,General Medicine,Hyperlipidemia,Low,117.5,73.8,68.4,97.6,17.1,36.51,122.6,6.22,206.4,6.36,Metformin,None
+P0027,Rayan Khan,29,Female,A+,153.9,85.4,36.0,Yes,No,No,No,No,Former,2026-07-28,Routine,Endocrinology,Routine Checkup,Low,114.8,72.1,62.8,96.4,15.4,36.6,131.1,7.5,240.6,6.11,Glimepiride,None
+P0028,Talha Ahmed,49,Male,A+,167.4,97.9,34.9,No,No,No,No,No,Current,2026-01-19,Follow-up,Emergency,Routine Checkup,Low,123.6,77.6,65.1,96.1,12.7,36.84,73.8,5.25,214.7,7.7,None,None
+P0028,Talha Ahmed,49,Male,A+,167.4,98.5,35.2,No,No,No,No,No,Current,2026-02-15,Screening,Emergency,Routine Checkup,Low,115.4,79.4,71.1,97.6,15.1,36.66,94.5,5.29,216.9,6.52,None,Dust
+P0028,Talha Ahmed,49,Male,A+,167.4,95.5,34.1,No,No,No,No,No,Current,2026-03-15,Follow-up,Emergency,Diabetes Management,Low,117.0,78.3,80.0,95.8,15.8,36.75,105.0,5.08,179.9,7.72,None,None
+P0028,Talha Ahmed,49,Male,A+,167.4,99.6,35.5,No,No,No,No,No,Current,2026-04-10,Screening,Endocrinology,Routine Checkup,Low,125.2,78.3,81.0,95.9,15.2,36.74,83.5,5.47,204.6,6.11,None,None
+P0028,Talha Ahmed,49,Male,A+,167.4,98.3,35.1,No,No,No,No,No,Current,2026-05-09,Follow-up,Pulmonology,Kidney Monitoring,Low,121.1,72.2,73.7,96.7,18.5,37.04,101.5,5.33,206.4,,None,None
+P0028,Talha Ahmed,49,Male,A+,167.4,96.4,34.4,No,No,No,No,No,Current,2026-06-07,Follow-up,General Medicine,Routine Checkup,Low,117.7,83.1,76.6,96.6,15.8,36.67,92.5,5.37,253.6,7.29,None,Dust
+P0028,Talha Ahmed,49,Male,A+,167.4,89.6,32.0,No,No,No,No,No,Current,2026-07-03,Routine,Endocrinology,Diabetes Management,Low,127.2,85.4,60.0,98.5,11.8,36.93,91.9,4.38,,8.25,None,None
+P0028,Talha Ahmed,49,Male,A+,167.4,100.6,35.9,No,No,No,No,No,Current,2026-07-31,Follow-up,General Medicine,Routine Checkup,Low,130.4,65.9,62.9,96.2,13.6,36.71,97.9,4.7,222.0,7.7,None,None
+P0028,Talha Ahmed,49,Male,A+,167.4,97.7,34.9,No,No,No,No,No,Current,2026-08-28,Emergency,General Medicine,Respiratory Infection,Low,135.0,77.0,80.5,95.3,17.5,37.48,96.8,5.13,196.4,7.62,None,None
+P0028,Talha Ahmed,49,Male,A+,167.4,97.7,34.9,No,No,No,No,No,Current,2026-09-26,Follow-up,General Medicine,Diabetes Management,Low,128.4,73.1,83.4,96.6,14.7,36.45,66.0,5.74,232.7,7.7,None,None
+P0028,Talha Ahmed,49,Male,A+,167.4,98.4,35.1,No,No,No,No,No,Current,2026-10-27,Routine,Cardiology,Hypertension,Low,137.9,77.0,69.6,96.4,13.2,36.63,109.2,5.41,208.4,6.11,None,Pollen
+P0029,Maryam Farooq,29,Male,O+,157.5,54.6,22.0,No,Yes,No,No,No,Never,2026-01-20,Follow-up,General Medicine,Asthma,Low,124.8,86.2,74.8,97.2,17.2,36.7,147.7,5.25,181.5,5.39,Amlodipine,None
+P0029,Maryam Farooq,29,Male,O+,157.5,57.0,23.0,No,Yes,No,No,No,Never,2026-02-19,Routine,General Medicine,Chest Pain,Low,128.3,79.3,60.8,97.5,17.0,36.25,117.0,5.47,198.4,7.68,Losartan,None
+P0029,Maryam Farooq,29,Male,O+,157.5,54.2,21.8,No,Yes,No,No,No,Never,2026-03-16,Screening,General Medicine,Routine Checkup,Low,130.7,82.6,78.7,98.1,14.7,36.76,87.3,5.13,183.8,3.69,Losartan,None
+P0029,Maryam Farooq,29,Male,O+,157.5,54.6,22.0,No,Yes,No,No,No,Never,2026-04-17,Routine,General Medicine,Diabetes Management,Low,124.6,89.3,71.4,97.1,17.8,36.85,99.2,5.59,223.7,7.42,Lisinopril,Dust
+P0029,Maryam Farooq,29,Male,O+,157.5,52.1,21.0,No,Yes,No,No,No,Never,2026-05-14,Screening,General Medicine,Routine Checkup,Low,124.4,80.7,82.6,97.5,14.6,36.52,120.6,5.59,178.5,6.66,Lisinopril,None
+P0029,Maryam Farooq,29,Male,O+,157.5,52.8,21.3,No,Yes,No,No,No,Never,2026-06-11,Follow-up,General Medicine,Respiratory Infection,Low,130.9,78.6,63.6,97.7,17.7,36.62,94.3,4.86,175.3,6.54,Amlodipine,None
+P0029,Maryam Farooq,29,Male,O+,157.5,53.3,21.5,No,Yes,No,No,No,Never,2026-07-10,Follow-up,General Medicine,Chest Pain,Low,129.9,79.7,74.6,97.3,15.4,36.37,102.2,5.13,144.0,7.61,Losartan,None
+P0029,Maryam Farooq,29,Male,O+,157.5,54.4,21.9,No,Yes,No,No,No,Never,2026-08-07,Follow-up,General Medicine,Asthma,Low,129.4,76.9,71.0,95.0,17.4,36.51,99.5,4.7,167.5,6.82,Losartan,None
+P0029,Maryam Farooq,29,Male,O+,157.5,55.0,22.2,No,Yes,No,No,No,Never,2026-09-04,Emergency,General Medicine,Diabetes Management,Low,141.7,86.0,93.3,96.6,13.8,37.29,95.9,5.47,177.6,8.24,Losartan,None
+P0029,Maryam Farooq,29,Male,O+,157.5,50.9,20.5,No,Yes,No,No,No,Never,2026-09-28,Routine,Pulmonology,Chest Pain,Low,126.0,87.6,74.8,99.0,16.3,37.31,102.7,5.21,155.0,8.21,Losartan,Dust
+P0030,Zoya Nawaz,38,Male,O+,163.3,79.0,29.6,No,No,No,No,No,Former,2026-01-16,Routine,Emergency,Hyperlipidemia,Low,122.2,82.1,84.0,98.2,16.0,36.65,100.6,5.79,215.8,7.55,None,None
+P0030,Zoya Nawaz,38,Male,O+,163.3,79.6,29.8,No,No,No,No,No,Former,2026-02-16,Follow-up,Pulmonology,Kidney Monitoring,Low,128.4,72.4,72.3,96.1,17.1,37.04,116.4,5.27,218.3,6.95,None,None
+P0030,Zoya Nawaz,38,Male,O+,163.3,78.7,29.5,No,No,No,No,No,Former,2026-03-17,Routine,Pulmonology,Diabetes Management,Low,114.7,82.1,88.3,95.8,14.1,36.46,90.5,5.51,218.6,7.27,None,None
+P0030,Zoya Nawaz,38,Male,O+,163.3,77.1,28.9,No,No,No,No,No,Former,2026-04-10,Follow-up,General Medicine,Routine Checkup,Low,108.5,77.4,73.5,97.6,13.2,36.33,101.9,4.23,230.0,5.28,None,None
+P0030,Zoya Nawaz,38,Male,O+,163.3,80.4,30.1,No,No,No,No,No,Former,2026-05-12,Screening,General Medicine,Routine Checkup,Low,103.7,75.7,70.8,97.1,14.6,36.9,70.3,,200.6,5.7,None,None
+P0030,Zoya Nawaz,38,Male,O+,163.3,78.9,29.6,No,No,No,No,No,Former,2026-06-05,Follow-up,General Medicine,Routine Checkup,Low,117.2,81.2,74.6,97.2,15.7,36.69,111.6,5.2,200.9,6.54,None,
+P0030,Zoya Nawaz,38,Male,O+,163.3,78.8,29.6,No,No,No,No,No,Former,2026-07-07,Routine,General Medicine,Routine Checkup,Low,121.3,61.2,75.4,96.8,15.3,36.75,84.6,4.46,224.6,7.34,None,
+P0030,Zoya Nawaz,38,Male,O+,163.3,79.2,29.7,No,No,No,No,No,Former,2026-08-03,Follow-up,General Medicine,Hypertension,Low,106.7,74.7,71.7,97.9,16.9,35.95,100.2,4.85,182.4,6.91,None,None
+P0030,Zoya Nawaz,38,Male,O+,163.3,77.2,29.0,No,No,No,No,No,Former,2026-08-28,Follow-up,General Medicine,Hypertension,Low,109.5,78.7,62.9,98.1,15.8,36.68,66.4,5.15,219.0,5.76,None,Pollen
+P0030,Zoya Nawaz,38,Male,O+,163.3,79.3,29.7,No,No,No,No,No,Former,2026-09-28,Routine,Cardiology,Diabetes Management,Low,127.7,80.8,74.3,96.7,15.0,36.62,100.2,4.92,221.6,9.23,None,None
+P0030,Zoya Nawaz,38,Male,O+,163.3,80.2,30.1,No,No,No,No,No,Former,2026-10-23,Follow-up,General Medicine,Routine Checkup,Low,112.7,77.8,71.1,96.3,15.4,36.4,121.8,5.17,219.6,6.56,None,NSAIDs
+P0030,Zoya Nawaz,38,Male,O+,163.3,78.8,29.6,No,No,No,No,No,Former,2026-11-22,Routine,General Medicine,Routine Checkup,Low,119.9,81.8,74.1,97.6,17.1,36.41,77.6,4.82,184.0,7.9,None,None
+P0031,Saad Qureshi,59,Female,A+,181.6,56.9,17.2,Yes,No,No,No,No,Never,2026-01-10,Screening,Nephrology,Hyperlipidemia,Medium,133.4,81.4,82.9,96.3,16.3,36.38,125.0,6.82,204.4,8.12,Metformin,NSAIDs
+P0031,Saad Qureshi,59,Female,A+,181.6,58.0,17.6,Yes,No,No,No,No,Never,2026-02-07,Routine,General Medicine,Hyperlipidemia,Medium,124.0,86.5,73.8,97.2,15.6,37.31,149.6,6.75,191.1,6.89,Metformin,None
+P0031,Saad Qureshi,59,Female,A+,181.6,57.2,17.3,Yes,No,No,No,No,Never,2026-03-07,Emergency,Endocrinology,Diabetes Management,Medium,134.6,75.6,93.1,97.0,17.4,37.83,125.7,6.49,210.1,7.59,Glimepiride,None
+P0031,Saad Qureshi,59,Female,A+,181.6,59.1,17.9,Yes,No,No,No,No,Never,2026-04-04,Follow-up,Endocrinology,Routine Checkup,Low,120.5,67.4,71.2,98.4,18.5,36.79,159.4,6.98,213.2,6.65,Glimepiride,None
+P0031,Saad Qureshi,59,Female,A+,181.6,58.5,17.7,Yes,No,No,No,No,Never,2026-05-04,Routine,General Medicine,Diabetes Management,Low,123.5,73.8,64.9,96.8,18.6,37.22,105.1,6.88,,8.09,Metformin,None
+P0031,Saad Qureshi,59,Female,A+,181.6,59.9,18.2,Yes,No,No,No,No,Never,2026-06-01,Routine,Endocrinology,Hyperlipidemia,Low,132.6,64.5,71.6,99.1,18.0,36.24,125.3,6.58,226.8,7.34,Metformin,None
+P0031,Saad Qureshi,59,Female,A+,181.6,56.9,17.3,Yes,No,No,No,No,Never,2026-06-27,Follow-up,Nephrology,Hyperlipidemia,Low,128.2,82.0,60.4,96.6,17.5,36.34,133.4,7.02,226.9,6.87,Glimepiride,None
+P0031,Saad Qureshi,59,Female,A+,181.6,58.4,17.7,Yes,No,No,No,No,Never,2026-07-27,Routine,General Medicine,Hyperlipidemia,Medium,124.8,77.1,77.1,97.6,14.9,36.73,152.4,6.71,198.6,6.91,Glimepiride,None
+P0031,Saad Qureshi,59,Female,A+,181.6,57.6,17.5,Yes,No,No,No,No,Never,2026-08-24,Screening,General Medicine,Hyperlipidemia,Low,123.6,83.9,78.0,97.2,17.1,36.63,129.9,6.77,212.3,6.41,Glimepiride,Dust
+P0031,Saad Qureshi,59,Female,A+,181.6,58.1,17.6,Yes,No,No,No,No,Never,2026-09-21,Routine,General Medicine,Diabetes Management,Low,127.7,82.3,68.0,96.9,16.0,36.92,128.5,7.63,193.2,6.86,Glimepiride,None
+P0031,Saad Qureshi,59,Female,A+,181.6,58.5,17.7,Yes,No,No,No,No,Never,2026-10-16,Screening,Endocrinology,Diabetes Management,Medium,124.6,83.9,81.3,98.3,14.7,36.58,157.2,7.08,191.2,7.82,Metformin,None
+P0031,Saad Qureshi,59,Female,A+,181.6,58.5,17.7,Yes,No,No,No,No,Never,2026-11-14,Routine,Endocrinology,Hyperlipidemia,Low,120.1,72.9,68.6,97.5,15.5,36.54,130.8,6.6,203.7,8.23,Metformin,Dust
+P0032,Fahad Raza,27,Female,B+,173.7,82.3,27.3,No,No,No,No,No,Never,2026-01-15,Routine,General Medicine,Hypertension,Low,96.9,74.8,87.4,97.6,14.3,36.77,72.8,5.63,190.8,7.17,None,None
+P0032,Fahad Raza,27,Female,B+,173.7,78.4,26.0,No,No,No,No,No,Never,2026-02-13,Routine,Emergency,Hyperlipidemia,Low,98.9,65.7,72.7,98.0,15.2,37.09,81.2,5.12,158.6,8.09,None,None
+P0032,Fahad Raza,27,Female,B+,173.7,82.7,27.4,No,No,No,No,No,Never,2026-03-11,Follow-up,Nephrology,Kidney Monitoring,Low,101.9,74.8,79.3,97.1,16.8,37.14,121.2,5.18,198.4,6.18,None,None
+P0032,Fahad Raza,27,Female,B+,173.7,80.8,26.8,No,No,No,No,No,Never,2026-04-07,Follow-up,Nephrology,Routine Checkup,Low,130.0,71.4,69.4,98.0,16.4,37.06,94.5,5.11,145.9,5.48,None,Dust
+P0032,Fahad Raza,27,Female,B+,173.7,79.8,26.5,No,No,No,No,No,Never,2026-05-07,Follow-up,Emergency,Respiratory Infection,Low,106.1,75.1,67.2,96.0,17.8,36.79,88.5,5.42,178.2,7.48,None,None
+P0032,Fahad Raza,27,Female,B+,173.7,81.6,27.1,No,No,No,No,No,Never,2026-06-06,Follow-up,General Medicine,Hypertension,Low,117.1,77.7,67.0,98.1,18.8,36.64,92.5,5.02,201.8,8.81,None,None
+P0032,Fahad Raza,27,Female,B+,173.7,79.3,26.3,No,No,No,No,No,Never,2026-07-01,Follow-up,General Medicine,Asthma,Low,112.9,68.7,72.9,95.2,17.0,36.78,91.1,5.06,161.9,7.83,None,NSAIDs
+P0032,Fahad Raza,27,Female,B+,173.7,79.0,26.2,No,No,No,No,No,Never,2026-08-01,Follow-up,Endocrinology,Diabetes Management,Low,115.0,71.6,63.6,97.4,16.0,37.18,88.2,5.61,155.2,6.07,None,None
+P0033,Ayesha Shah,60,Male,B-,161.7,73.7,28.2,No,Yes,No,No,No,Never,2026-01-21,Screening,Pulmonology,Hypertension,Low,145.0,82.0,70.1,95.4,14.5,37.04,97.9,5.86,206.3,7.06,Losartan,None
+P0033,Ayesha Shah,60,Male,B-,161.7,73.7,28.2,No,Yes,No,No,No,Never,2026-02-15,Routine,Pulmonology,Routine Checkup,Low,136.6,93.2,70.4,96.1,16.3,36.65,123.1,5.32,,8.0,Amlodipine,None
+P0033,Ayesha Shah,60,Male,B-,161.7,71.8,27.4,No,Yes,No,No,No,Never,2026-03-17,Routine,General Medicine,Routine Checkup,Low,144.7,95.6,81.7,97.0,15.3,37.07,112.0,5.31,202.2,7.43,Amlodipine,None
+P0033,Ayesha Shah,60,Male,B-,161.7,73.5,28.1,No,Yes,No,No,No,Never,2026-04-11,Emergency,General Medicine,Routine Checkup,Medium,162.8,91.8,81.0,95.8,16.1,37.19,110.1,5.25,254.7,8.56,Amlodipine,None
+P0033,Ayesha Shah,60,Male,B-,161.7,71.3,27.3,No,Yes,No,No,No,Never,2026-05-11,Emergency,General Medicine,Asthma,Low,148.9,83.7,75.6,97.7,17.0,36.56,99.0,5.19,194.2,6.33,Lisinopril,None
+P0033,Ayesha Shah,60,Male,B-,161.7,72.5,27.7,No,Yes,No,No,No,Never,2026-06-10,Screening,General Medicine,Hypertension,Medium,160.1,93.3,80.7,99.8,17.1,36.74,114.6,5.0,209.9,6.45,Amlodipine,None
+P0033,Ayesha Shah,60,Male,B-,161.7,69.0,26.4,No,Yes,No,No,No,Never,2026-07-07,Follow-up,General Medicine,Routine Checkup,Low,136.5,82.6,74.5,97.2,17.6,36.89,116.1,5.41,181.8,8.2,Lisinopril,Penicillin
+P0033,Ayesha Shah,60,Male,B-,161.7,71.0,27.1,No,Yes,No,No,No,Never,2026-08-02,Routine,Pulmonology,Routine Checkup,Medium,152.6,94.9,63.3,98.4,14.2,36.41,96.5,5.09,179.9,7.75,Amlodipine,NSAIDs
+P0033,Ayesha Shah,60,Male,B-,161.7,66.3,25.4,No,Yes,No,No,No,Never,2026-09-01,Routine,Emergency,Diabetes Management,Low,137.8,87.0,65.5,96.7,15.8,36.54,101.0,5.42,173.7,6.65,Losartan,None
+P0033,Ayesha Shah,60,Male,B-,161.7,73.6,28.2,No,Yes,No,No,No,Never,2026-09-27,Routine,General Medicine,Routine Checkup,Low,148.6,92.9,65.9,96.6,14.1,36.52,118.8,5.72,187.3,6.64,Amlodipine,None
+P0033,Ayesha Shah,60,Male,B-,161.7,70.5,27.0,No,Yes,No,No,No,Never,2026-10-26,Routine,Cardiology,Kidney Monitoring,Low,145.6,89.1,71.1,96.6,17.3,36.77,90.3,5.21,184.9,8.82,Losartan,None
+P0033,Ayesha Shah,60,Male,B-,161.7,70.9,27.1,No,Yes,No,No,No,Never,2026-11-22,Follow-up,General Medicine,Routine Checkup,Low,137.4,93.3,77.3,96.7,17.0,36.76,110.8,4.73,205.4,7.04,Amlodipine,None
+P0034,Ahmed Ali,24,Female,O+,158.9,47.2,18.7,Yes,No,No,No,No,Never,2026-01-17,Routine,Endocrinology,Diabetes Management,Low,111.0,66.6,80.5,97.4,14.9,36.67,137.6,6.91,186.4,6.45,Glimepiride,None
+P0034,Ahmed Ali,24,Female,O+,158.9,47.9,19.0,Yes,No,No,No,No,Never,2026-02-12,Routine,General Medicine,Hyperlipidemia,Low,109.7,73.0,76.5,97.7,16.8,36.64,121.5,6.63,185.3,7.12,Metformin,Pollen
+P0034,Ahmed Ali,24,Female,O+,158.9,47.3,18.7,Yes,No,No,No,No,Never,2026-03-11,Follow-up,Endocrinology,Routine Checkup,Low,106.1,66.5,74.5,98.4,15.4,36.65,146.1,6.37,231.4,9.54,Glimepiride,None
+P0034,Ahmed Ali,24,Female,O+,158.9,49.5,19.6,Yes,No,No,No,No,Never,2026-04-10,Routine,Nephrology,Hyperlipidemia,Low,111.2,67.4,71.0,97.5,14.2,36.29,159.9,6.78,193.5,6.7,Glimepiride,None
+P0034,Ahmed Ali,24,Female,O+,158.9,47.2,18.7,Yes,No,No,No,No,Never,2026-05-09,Follow-up,Endocrinology,Diabetes Management,Low,110.1,63.4,76.9,95.9,18.2,37.16,126.3,7.15,173.8,7.72,Glimepiride,None
+P0034,Ahmed Ali,24,Female,O+,158.9,49.6,19.6,Yes,No,No,No,No,Never,2026-06-03,Routine,General Medicine,Hyperlipidemia,Low,106.5,80.7,64.0,98.6,14.5,36.7,122.6,6.88,210.4,8.6,Metformin,Pollen
+P0034,Ahmed Ali,24,Female,O+,158.9,45.7,18.1,Yes,No,No,No,No,Never,2026-07-03,Screening,Endocrinology,Routine Checkup,Low,108.9,73.2,60.5,97.0,18.3,36.98,121.2,6.51,204.3,4.78,Glimepiride,None
+P0034,Ahmed Ali,24,Female,O+,158.9,47.5,18.8,Yes,No,No,No,No,Never,2026-07-29,Follow-up,General Medicine,Diabetes Management,Low,109.7,65.2,75.6,97.7,18.7,36.95,121.1,6.65,171.4,8.57,Glimepiride,None
+P0034,Ahmed Ali,24,Female,O+,158.9,48.2,19.1,Yes,No,No,No,No,Never,2026-08-28,Routine,Nephrology,Routine Checkup,Low,109.9,75.3,71.9,96.6,17.0,36.66,118.0,7.21,194.8,7.59,Metformin,None
+P0035,Sana Ahmed,29,Male,B-,168.3,86.8,30.7,No,No,No,No,No,Former,2026-01-19,Follow-up,Nephrology,Routine Checkup,Low,124.4,65.0,75.1,99.1,16.0,36.63,74.5,5.58,194.1,7.01,None,None
+P0035,Sana Ahmed,29,Male,B-,168.3,89.6,31.6,No,No,No,No,No,Former,2026-02-16,Follow-up,General Medicine,Diabetes Management,Low,109.4,66.5,61.4,96.4,13.8,36.54,103.2,5.07,214.4,6.38,None,Penicillin
+P0035,Sana Ahmed,29,Male,B-,168.3,83.9,29.6,No,No,No,No,No,Former,2026-03-13,Routine,Emergency,Routine Checkup,Low,122.6,69.6,78.3,96.9,16.9,36.87,85.2,5.58,194.3,7.88,None,None
+P0035,Sana Ahmed,29,Male,B-,168.3,87.1,30.8,No,No,No,No,No,Former,2026-04-13,Screening,Emergency,Chest Pain,Low,112.3,69.3,71.7,97.1,15.1,36.67,76.9,6.02,227.1,7.37,None,None
+P0035,Sana Ahmed,29,Male,B-,168.3,86.2,30.4,No,No,No,No,No,Former,2026-05-08,Routine,Nephrology,Routine Checkup,Low,113.4,76.6,65.2,97.4,16.0,36.79,84.2,5.68,206.1,8.87,None,None
+P0035,Sana Ahmed,29,Male,B-,168.3,86.0,30.4,No,No,No,No,No,Former,2026-06-09,Routine,General Medicine,Routine Checkup,Low,93.4,56.7,79.6,98.2,18.8,36.7,72.6,5.05,208.2,6.09,None,None
+P0035,Sana Ahmed,29,Male,B-,168.3,89.2,31.5,No,No,No,No,No,Former,2026-07-07,Routine,Nephrology,Routine Checkup,Low,112.5,70.6,74.9,96.4,16.2,36.34,108.3,5.16,228.9,6.9,None,None
+P0035,Sana Ahmed,29,Male,B-,168.3,86.4,30.5,No,No,No,No,No,Former,2026-08-02,Emergency,Endocrinology,Respiratory Infection,Low,115.6,63.5,79.1,97.8,15.4,36.64,94.4,5.16,189.5,7.06,None,None
+P0035,Sana Ahmed,29,Male,B-,168.3,85.6,30.2,No,No,No,No,No,Former,2026-08-31,Follow-up,Emergency,Chest Pain,Low,103.6,66.8,63.2,95.9,18.0,36.52,99.0,4.91,221.7,6.07,None,None
+P0036,Daniyal Malik,55,Female,B+,157.1,64.9,26.3,No,No,No,No,No,Current,2026-01-21,Follow-up,Cardiology,Routine Checkup,Low,116.6,84.0,63.5,96.8,17.6,36.69,77.3,4.73,173.9,6.34,None,Pollen
+P0036,Daniyal Malik,55,Female,B+,157.1,68.0,27.5,No,No,No,No,No,Current,2026-02-18,Screening,Pulmonology,Routine Checkup,Low,122.7,73.4,68.7,96.8,15.9,36.49,61.7,5.0,214.5,7.24,None,None
+P0036,Daniyal Malik,55,Female,B+,157.1,68.4,27.7,No,No,No,No,No,Current,2026-03-19,Follow-up,General Medicine,Hypertension,Low,138.7,81.8,76.2,96.8,15.9,36.62,101.3,4.95,204.6,4.74,None,Penicillin
+P0036,Daniyal Malik,55,Female,B+,157.1,67.8,27.5,No,No,No,No,No,Current,2026-04-17,Emergency,General Medicine,Routine Checkup,Low,134.9,89.0,82.2,95.2,18.1,37.21,87.7,5.71,174.4,7.66,None,None
+P0036,Daniyal Malik,55,Female,B+,157.1,65.9,26.7,No,No,No,No,No,Current,2026-05-14,Follow-up,General Medicine,Routine Checkup,Low,118.0,80.7,68.0,95.8,15.2,36.78,87.8,5.21,190.5,8.18,None,Pollen
+P0036,Daniyal Malik,55,Female,B+,157.1,63.4,25.7,No,No,No,No,No,Current,2026-06-11,Follow-up,General Medicine,Routine Checkup,Low,120.7,76.0,67.4,97.7,13.6,36.31,87.0,5.14,151.8,6.49,None,None
+P0036,Daniyal Malik,55,Female,B+,157.1,65.8,26.7,No,No,No,No,No,Current,2026-07-11,Follow-up,General Medicine,Routine Checkup,Low,120.1,77.5,72.7,98.2,15.1,36.89,92.6,5.72,201.2,7.3,None,None
+P0036,Daniyal Malik,55,Female,B+,157.1,64.2,26.0,No,No,No,No,No,Current,2026-08-06,Follow-up,General Medicine,Respiratory Infection,Low,122.5,70.9,75.3,96.2,17.6,36.38,93.9,5.6,139.3,9.12,None,None
+P0036,Daniyal Malik,55,Female,B+,157.1,66.6,27.0,No,No,No,No,No,Current,2026-09-04,Follow-up,Pulmonology,Diabetes Management,Low,129.4,85.8,75.1,99.0,17.4,36.25,131.2,5.0,204.9,7.13,None,None
+P0036,Daniyal Malik,55,Female,B+,157.1,65.5,26.5,No,No,No,No,No,Current,2026-10-03,Follow-up,General Medicine,Hypertension,Low,132.3,66.2,71.5,97.4,16.3,36.94,86.5,5.22,199.3,4.82,None,None
+P0037,Hira Ali,67,Female,B+,162.0,68.0,25.9,No,Yes,No,No,No,Never,2026-01-10,Follow-up,Cardiology,Respiratory Infection,Medium,148.1,83.2,61.9,97.8,15.2,36.78,118.6,4.74,177.2,6.93,Amlodipine,None
+P0037,Hira Ali,67,Female,B+,162.0,66.0,25.2,No,Yes,No,No,No,Never,2026-02-10,Routine,Cardiology,Hyperlipidemia,Medium,147.4,90.5,74.1,97.6,16.8,36.45,114.9,5.61,181.3,5.61,Amlodipine,Dust
+P0037,Hira Ali,67,Female,B+,162.0,66.6,25.4,No,Yes,No,No,No,Never,2026-03-11,Follow-up,General Medicine,Hypertension,Medium,136.8,90.2,71.7,97.5,15.4,36.5,88.4,5.01,178.3,7.25,Amlodipine,None
+P0037,Hira Ali,67,Female,B+,162.0,65.2,24.8,No,Yes,No,No,No,Never,2026-04-06,Screening,General Medicine,Routine Checkup,Medium,171.4,90.5,63.7,97.8,14.6,36.93,96.8,5.05,207.0,7.67,Losartan,Dust
+P0037,Hira Ali,67,Female,B+,162.0,69.4,26.4,No,Yes,No,No,No,Never,2026-05-06,Routine,General Medicine,Diabetes Management,Low,154.3,89.5,73.5,97.1,14.1,36.68,103.3,5.05,184.1,7.12,Amlodipine,None
+P0037,Hira Ali,67,Female,B+,162.0,65.8,25.1,No,Yes,No,No,No,Never,2026-06-03,Follow-up,General Medicine,Chest Pain,Medium,147.8,86.7,69.1,98.5,18.1,36.81,98.4,5.42,179.3,6.91,Losartan,None
+P0037,Hira Ali,67,Female,B+,162.0,67.2,25.6,No,Yes,No,No,No,Never,2026-06-29,Routine,Nephrology,Hypertension,Medium,142.0,85.5,68.8,95.9,17.5,36.46,89.5,5.64,167.7,6.91,Lisinopril,None
+P0037,Hira Ali,67,Female,B+,162.0,66.0,25.2,No,Yes,No,No,No,Never,2026-07-26,Routine,Emergency,Asthma,Low,144.7,84.3,79.7,97.8,15.0,36.71,95.5,4.81,181.2,6.68,Losartan,None
+P0037,Hira Ali,67,Female,B+,162.0,67.0,25.5,No,Yes,No,No,No,Never,2026-08-22,Follow-up,General Medicine,Diabetes Management,Medium,147.9,91.3,70.9,96.2,16.2,36.38,108.1,4.87,194.5,6.76,Losartan,NSAIDs
+P0037,Hira Ali,67,Female,B+,162.0,68.7,26.2,No,Yes,No,No,No,Never,2026-09-22,Routine,Cardiology,Hyperlipidemia,Low,148.6,97.6,70.3,98.1,14.6,36.81,64.9,4.81,186.4,5.79,Losartan,None
+P0037,Hira Ali,67,Female,B+,162.0,65.5,24.9,No,Yes,No,No,No,Never,2026-10-19,Routine,Endocrinology,Respiratory Infection,Medium,149.1,86.9,82.0,96.3,18.1,36.44,101.1,5.61,198.4,6.68,Losartan,None
+P0037,Hira Ali,67,Female,B+,162.0,66.4,25.3,No,Yes,No,No,No,Never,2026-11-14,Routine,Nephrology,Hyperlipidemia,Medium,152.3,91.8,63.2,97.5,14.5,36.55,132.4,5.11,164.7,8.25,Lisinopril,None
+P0038,Omar Hassan,28,Female,B+,170.8,57.4,19.7,No,No,No,No,No,Never,2026-01-22,Emergency,General Medicine,Hyperlipidemia,Low,118.1,73.9,76.7,97.3,15.7,36.64,92.7,,180.9,6.5,None,Dust
+P0038,Omar Hassan,28,Female,B+,170.8,57.3,19.6,No,No,No,No,No,Never,2026-02-17,Screening,Pulmonology,Diabetes Management,Low,123.4,72.1,73.1,96.5,16.0,36.4,89.5,4.87,173.0,4.54,None,None
+P0038,Omar Hassan,28,Female,B+,170.8,60.0,20.6,No,No,No,No,No,Never,2026-03-18,Follow-up,General Medicine,Routine Checkup,Low,108.8,66.8,78.9,97.1,19.7,36.61,121.6,5.15,202.0,8.8,None,Penicillin
+P0038,Omar Hassan,28,Female,B+,170.8,58.3,20.0,No,No,No,No,No,Never,2026-04-14,Routine,General Medicine,Hyperlipidemia,Low,112.4,74.8,60.9,98.3,15.5,36.83,101.3,5.68,176.1,4.98,None,None
+P0038,Omar Hassan,28,Female,B+,170.8,56.2,19.3,No,No,No,No,No,Never,2026-05-11,Follow-up,Nephrology,Routine Checkup,Low,116.7,69.2,69.6,96.5,17.9,36.69,93.2,5.05,186.3,8.45,None,Dust
+P0038,Omar Hassan,28,Female,B+,170.8,58.2,19.9,No,No,No,No,No,Never,2026-06-12,Follow-up,Nephrology,Routine Checkup,Low,106.9,66.7,60.8,95.7,15.6,36.68,80.1,5.23,170.2,8.19,None,None
+P0038,Omar Hassan,28,Female,B+,170.8,56.2,19.3,No,No,No,No,No,Never,2026-07-10,Screening,Cardiology,Hypertension,Low,111.2,68.3,74.3,95.7,16.0,36.84,105.6,4.93,178.3,7.28,None,Dust
+P0038,Omar Hassan,28,Female,B+,170.8,55.0,18.8,No,No,No,No,No,Never,2026-08-04,Follow-up,Pulmonology,Hyperlipidemia,Low,107.9,58.2,73.4,97.8,14.6,36.58,105.9,4.59,154.2,6.87,None,None
+P0038,Omar Hassan,28,Female,B+,170.8,59.3,20.3,No,No,No,No,No,Never,2026-09-01,Screening,General Medicine,Chest Pain,Low,113.4,73.0,63.3,97.5,15.5,36.66,107.7,4.95,202.3,8.54,None,None
+P0039,Huzaifa Farooq,36,Male,AB+,178.4,66.7,21.0,No,No,No,No,No,Former,2026-01-12,Routine,Endocrinology,Respiratory Infection,Low,116.8,79.4,78.8,97.0,12.5,36.42,103.5,4.66,172.1,7.44,None,None
+P0039,Huzaifa Farooq,36,Male,AB+,178.4,64.4,20.2,No,No,No,No,No,Former,2026-02-08,Follow-up,General Medicine,Hyperlipidemia,Low,122.6,69.2,72.7,97.4,15.4,36.91,94.2,5.48,181.5,7.48,None,Pollen
+P0039,Huzaifa Farooq,36,Male,AB+,178.4,64.9,20.4,No,No,No,No,No,Former,2026-03-08,Follow-up,General Medicine,Hyperlipidemia,Low,98.7,70.3,77.8,96.9,16.2,35.95,86.1,5.32,186.4,8.06,None,Pollen
+P0039,Huzaifa Farooq,36,Male,AB+,178.4,61.2,19.2,No,No,No,No,No,Former,2026-04-09,Follow-up,General Medicine,Routine Checkup,Low,107.7,80.7,70.4,97.2,15.2,36.25,106.0,4.44,168.0,7.05,None,None
+P0039,Huzaifa Farooq,36,Male,AB+,178.4,63.0,19.8,No,No,No,No,No,Former,2026-05-05,Routine,Endocrinology,Hypertension,Low,122.1,67.1,73.8,97.2,17.4,36.67,103.9,5.14,185.8,5.6,None,None
+P0039,Huzaifa Farooq,36,Male,AB+,178.4,67.0,21.1,No,No,No,No,No,Former,2026-06-04,Screening,General Medicine,Routine Checkup,Low,112.1,75.3,75.6,98.7,15.5,36.54,69.5,5.74,185.6,7.55,None,None
+P0039,Huzaifa Farooq,36,Male,AB+,178.4,63.6,20.0,No,No,No,No,No,Former,2026-07-02,Follow-up,General Medicine,Asthma,Low,112.5,70.3,63.6,98.6,16.4,36.64,103.4,5.36,,7.78,None,Penicillin
+P0039,Huzaifa Farooq,36,Male,AB+,178.4,67.0,21.0,No,No,No,No,No,Former,2026-07-26,Routine,General Medicine,Routine Checkup,Low,112.0,75.2,74.5,96.4,14.8,36.61,84.6,4.69,166.3,7.37,None,None
+P0039,Huzaifa Farooq,36,Male,AB+,178.4,64.9,20.4,No,No,No,No,No,Former,2026-08-24,Routine,Nephrology,Respiratory Infection,Low,115.2,72.2,71.4,97.0,18.0,36.7,108.3,5.53,190.0,5.31,None,None
+P0039,Huzaifa Farooq,36,Male,AB+,178.4,67.6,21.2,No,No,No,No,No,Former,2026-09-24,Follow-up,General Medicine,Respiratory Infection,Low,108.6,78.9,72.7,96.6,15.9,36.37,91.8,4.82,170.9,8.03,None,None
+P0039,Huzaifa Farooq,36,Male,AB+,178.4,65.3,20.5,No,No,No,No,No,Former,2026-10-20,Routine,Endocrinology,Chest Pain,Low,114.1,67.4,83.1,97.0,15.9,36.6,109.7,5.02,150.2,6.42,None,Pollen
+P0039,Huzaifa Farooq,36,Male,AB+,178.4,63.4,19.9,No,No,No,No,No,Former,2026-11-17,Follow-up,Cardiology,Routine Checkup,Low,114.1,74.8,67.0,97.0,16.5,36.28,89.2,5.09,196.5,5.26,None,Pollen
+P0040,Zoya Iqbal,76,Female,O+,173.5,80.7,26.8,Yes,Yes,No,No,No,Current,2026-01-12,Follow-up,Endocrinology,Routine Checkup,High,161.9,79.2,80.2,96.9,13.2,35.95,115.1,6.99,194.8,7.73,Amlodipine; Glimepiride,None
+P0040,Zoya Iqbal,76,Female,O+,173.5,78.4,26.0,Yes,Yes,No,No,No,Current,2026-02-08,Emergency,Endocrinology,Diabetes Management,High,172.8,87.1,74.4,96.5,17.6,37.47,127.6,7.32,234.6,7.31,Lisinopril; Metformin,None
+P0040,Zoya Iqbal,76,Female,O+,173.5,79.0,26.3,Yes,Yes,No,No,No,Current,2026-03-07,Screening,Endocrinology,Diabetes Management,Medium,148.1,88.8,75.2,96.9,13.2,36.51,115.2,7.09,205.1,7.36,Amlodipine; Metformin,None
+P0040,Zoya Iqbal,76,Female,O+,173.5,81.1,27.0,Yes,Yes,No,No,No,Current,2026-04-02,Follow-up,General Medicine,Diabetes Management,High,159.9,87.2,79.1,96.5,17.0,36.57,134.6,6.15,190.6,7.19,Amlodipine; Glimepiride,None
+P0040,Zoya Iqbal,76,Female,O+,173.5,81.4,27.1,Yes,Yes,No,No,No,Current,2026-05-02,Follow-up,General Medicine,Diabetes Management,High,163.6,86.7,67.7,95.8,18.0,36.98,136.4,6.51,202.5,7.27,Lisinopril; Glimepiride,Dust
+P0040,Zoya Iqbal,76,Female,O+,173.5,82.2,27.3,Yes,Yes,No,No,No,Current,2026-06-01,Routine,General Medicine,Routine Checkup,High,157.8,84.8,70.2,96.9,14.6,36.46,160.6,6.66,245.4,6.66,Amlodipine; Glimepiride,None
+P0040,Zoya Iqbal,76,Female,O+,173.5,75.0,24.9,Yes,Yes,No,No,No,Current,2026-06-27,Follow-up,Endocrinology,Diabetes Management,High,151.7,94.5,75.7,95.7,14.2,36.53,140.8,6.29,195.8,7.41,Lisinopril; Glimepiride,None
+P0040,Zoya Iqbal,76,Female,O+,173.5,79.6,26.4,Yes,Yes,No,No,No,Current,2026-07-23,Follow-up,Endocrinology,Diabetes Management,High,146.6,87.3,74.9,98.4,15.9,36.84,116.3,7.09,194.9,8.33,Lisinopril; Glimepiride,None
+P0040,Zoya Iqbal,76,Female,O+,173.5,77.3,25.7,Yes,Yes,No,No,No,Current,2026-08-20,Follow-up,General Medicine,Routine Checkup,High,152.8,91.9,73.6,96.8,15.7,36.64,121.3,7.75,192.0,7.7,Losartan; Glimepiride,Penicillin
+P0040,Zoya Iqbal,76,Female,O+,173.5,78.5,26.1,Yes,Yes,No,No,No,Current,2026-09-21,Routine,Nephrology,Routine Checkup,High,161.5,84.2,68.5,96.1,18.2,36.48,146.4,7.34,193.4,5.72,Losartan; Glimepiride,None
+P0040,Zoya Iqbal,76,Female,O+,173.5,80.0,26.6,Yes,Yes,No,No,No,Current,2026-10-17,Routine,General Medicine,Diabetes Management,High,146.8,85.3,76.3,96.4,11.9,36.86,122.5,7.16,221.1,7.12,Amlodipine; Metformin,None
+P0041,Hassan Javed,80,Male,B+,147.4,72.3,33.3,Yes,No,No,No,No,Former,2026-01-10,Routine,General Medicine,Hyperlipidemia,Medium,147.8,76.1,64.1,98.3,16.4,36.64,130.2,6.16,222.6,6.35,Metformin,NSAIDs
+P0041,Hassan Javed,80,Male,B+,147.4,72.3,33.3,Yes,No,No,No,No,Former,2026-02-06,Screening,General Medicine,Hyperlipidemia,Medium,143.9,88.2,84.7,95.3,15.4,36.51,132.6,7.0,221.8,8.13,Metformin,None
+P0041,Hassan Javed,80,Male,B+,147.4,,32.7,Yes,No,No,No,No,Former,2026-03-06,Follow-up,Endocrinology,Diabetes Management,Medium,138.3,78.1,77.2,96.9,17.6,36.65,129.6,6.8,225.9,7.81,Metformin,Pollen
+P0041,Hassan Javed,80,Male,B+,147.4,72.6,33.4,Yes,No,No,No,No,Former,2026-04-06,Screening,Endocrinology,Hyperlipidemia,Medium,139.9,89.6,65.1,95.5,15.1,36.35,109.3,7.22,225.9,6.62,Metformin,None
+P0041,Hassan Javed,80,Male,B+,147.4,72.4,33.3,Yes,No,No,No,No,Former,2026-04-30,Emergency,Endocrinology,Diabetes Management,Low,133.3,92.2,81.2,97.8,17.6,36.57,118.9,7.26,236.3,5.69,Metformin,None
+P0041,Hassan Javed,80,Male,B+,147.4,69.7,32.1,Yes,No,No,No,No,Former,2026-05-30,Follow-up,General Medicine,Hyperlipidemia,Medium,140.3,84.9,85.6,97.0,17.7,36.49,104.9,6.88,197.2,7.11,Glimepiride,None
+P0041,Hassan Javed,80,Male,B+,147.4,72.4,33.3,Yes,No,No,No,No,Former,2026-06-27,Routine,General Medicine,Routine Checkup,Medium,134.4,87.5,67.6,96.5,16.5,36.85,141.5,6.97,235.5,7.85,Metformin,None
+P0041,Hassan Javed,80,Male,B+,147.4,70.0,32.2,Yes,No,No,No,No,Former,2026-07-24,Screening,General Medicine,Diabetes Management,Medium,148.4,74.9,81.9,97.0,16.5,36.6,105.0,6.95,232.0,7.78,Metformin,None
+P0041,Hassan Javed,80,Male,B+,147.4,73.2,33.7,Yes,No,No,No,No,Former,2026-08-23,Follow-up,Nephrology,Routine Checkup,Medium,133.0,81.1,75.8,96.2,18.4,36.72,136.9,6.91,237.9,8.68,Metformin,None
+P0041,Hassan Javed,80,Male,B+,147.4,68.6,31.6,Yes,No,No,No,No,Former,2026-09-19,Screening,Endocrinology,Hyperlipidemia,Medium,141.0,82.0,66.9,97.4,16.2,36.68,129.0,6.97,219.4,7.24,Metformin,NSAIDs
+P0041,Hassan Javed,80,Male,B+,147.4,69.6,32.0,Yes,No,No,No,No,Former,2026-10-18,Routine,General Medicine,Hyperlipidemia,Medium,153.8,75.4,74.6,97.2,16.5,37.01,148.2,6.84,229.5,5.24,Glimepiride,None
+P0042,Areeba Farooq,54,Female,A+,170.7,79.6,27.3,No,Yes,Yes,No,No,Never,2026-01-16,Screening,Cardiology,Hypertension,High,156.2,97.6,72.4,97.0,13.8,36.89,92.6,4.87,219.1,8.04,Amlodipine; Aspirin,Pollen
+P0042,Areeba Farooq,54,Female,A+,170.7,78.8,27.0,No,Yes,Yes,No,No,Never,2026-02-16,Routine,Emergency,Chest Pain,Medium,154.1,81.7,76.2,94.1,16.4,37.11,92.9,5.24,221.6,5.03,Amlodipine; Aspirin,Pollen
+P0042,Areeba Farooq,54,Female,A+,170.7,80.2,27.5,No,Yes,Yes,No,No,Never,2026-03-15,Emergency,General Medicine,Hypertension,Medium,154.1,94.2,93.4,96.1,15.5,36.73,90.5,5.64,235.4,8.48,Lisinopril; Atorvastatin,Pollen
+P0042,Areeba Farooq,54,Female,A+,170.7,80.8,27.7,No,Yes,Yes,No,No,Never,2026-04-10,Screening,Cardiology,Routine Checkup,High,159.6,93.3,68.7,95.7,19.2,36.48,99.1,5.69,219.1,9.58,Amlodipine; Atorvastatin,None
+P0042,Areeba Farooq,54,Female,A+,170.7,78.1,26.8,No,Yes,Yes,No,No,Never,2026-05-11,Follow-up,Cardiology,Routine Checkup,High,155.5,92.9,79.7,95.1,17.8,37.71,110.4,5.23,154.6,6.46,Amlodipine; Atorvastatin,None
+P0042,Areeba Farooq,54,Female,A+,170.7,75.9,26.1,No,Yes,Yes,No,No,Never,2026-06-07,Routine,Cardiology,Routine Checkup,Medium,157.6,89.6,66.6,96.2,17.5,36.09,87.6,5.16,191.2,6.58,Losartan; Atorvastatin,Dust
+P0042,Areeba Farooq,54,Female,A+,170.7,75.6,25.9,No,Yes,Yes,No,No,Never,2026-07-04,Follow-up,Cardiology,Chest Pain,Medium,153.5,91.1,82.5,95.0,14.8,37.04,77.2,5.64,201.8,7.96,Losartan; Atorvastatin,None
+P0042,Areeba Farooq,54,Female,A+,170.7,79.1,27.2,No,Yes,Yes,No,No,Never,2026-07-30,Follow-up,Cardiology,Hypertension,Medium,140.9,93.2,79.7,97.0,16.9,36.96,107.2,5.54,184.8,6.98,Amlodipine; Aspirin,Dust
+P0042,Areeba Farooq,54,Female,A+,170.7,77.6,26.6,No,Yes,Yes,No,No,Never,2026-08-31,Routine,Cardiology,Routine Checkup,Medium,143.0,95.3,79.1,94.5,15.7,36.26,100.5,5.13,167.7,8.68,Lisinopril; Aspirin,None
+P0043,Hamza Raza,46,Male,A+,168.6,79.9,28.1,No,Yes,No,No,No,Former,2026-01-09,Screening,Cardiology,Hypertension,Low,128.1,80.8,71.0,96.8,18.8,36.76,75.8,5.35,217.8,6.97,Amlodipine,None
+P0043,Hamza Raza,46,Male,A+,168.6,82.0,28.8,No,Yes,No,No,No,Former,2026-02-07,Emergency,Endocrinology,Kidney Monitoring,Low,144.6,81.4,93.8,96.4,16.2,37.18,84.5,5.22,214.6,5.4,Amlodipine,None
+P0043,Hamza Raza,46,Male,A+,168.6,78.8,27.7,No,Yes,No,No,No,Former,2026-03-08,Follow-up,Nephrology,Routine Checkup,Low,135.7,87.2,66.0,95.7,16.6,36.43,83.5,5.49,217.5,5.85,Losartan,None
+P0043,Hamza Raza,46,Male,A+,168.6,76.3,26.8,No,Yes,No,No,No,Former,2026-04-05,Routine,Emergency,Routine Checkup,Low,132.1,84.7,74.7,96.9,16.4,36.72,97.5,5.1,170.3,7.33,Lisinopril,None
+P0043,Hamza Raza,46,Male,A+,168.6,81.3,28.6,No,Yes,No,No,No,Former,2026-05-03,Screening,Endocrinology,Diabetes Management,Low,137.9,82.1,73.3,95.9,18.0,36.75,90.0,5.14,198.5,8.41,Losartan,None
+P0043,Hamza Raza,46,Male,A+,168.6,75.8,26.7,No,Yes,No,No,No,Former,2026-05-30,Routine,General Medicine,Chest Pain,Low,138.6,84.0,72.8,97.0,16.4,37.03,82.3,5.08,190.0,7.58,Losartan,None
+P0043,Hamza Raza,46,Male,A+,168.6,76.7,27.0,No,Yes,No,No,No,Former,2026-06-27,Routine,Nephrology,Hypertension,Low,134.6,87.8,74.4,97.4,15.7,36.61,97.3,5.45,193.1,6.09,Lisinopril,None
+P0043,Hamza Raza,46,Male,A+,168.6,78.7,27.7,No,Yes,No,No,No,Former,2026-07-28,Routine,Nephrology,Asthma,Low,141.0,79.8,71.6,96.7,15.2,36.59,116.7,4.99,218.2,7.41,Losartan,None
+P0043,Hamza Raza,46,Male,A+,168.6,78.4,27.6,No,Yes,No,No,No,Former,2026-08-23,Follow-up,General Medicine,Asthma,Low,127.7,84.8,77.6,96.2,15.1,36.81,107.2,4.35,244.3,7.63,Amlodipine,Penicillin
+P0043,Hamza Raza,46,Male,A+,168.6,77.8,27.4,No,Yes,No,No,No,Former,2026-09-19,Routine,General Medicine,Routine Checkup,Medium,135.3,85.4,67.4,97.9,14.2,37.26,133.6,5.77,231.0,7.02,Lisinopril,None
+P0043,Hamza Raza,46,Male,A+,168.6,78.1,27.5,No,Yes,No,No,No,Former,2026-10-19,Follow-up,Emergency,Routine Checkup,Low,128.2,81.3,61.1,97.9,13.6,36.77,87.3,4.7,212.3,6.77,Losartan,Dust
+P0044,Sana Javed,39,Male,O+,171.7,91.5,31.0,No,No,No,No,No,Never,2026-01-08,Routine,Cardiology,Routine Checkup,Low,118.6,73.7,68.6,96.5,16.4,36.46,98.8,5.03,210.3,8.48,None,None
+P0044,Sana Javed,39,Male,O+,171.7,95.8,32.5,No,No,No,No,No,Never,2026-02-06,Emergency,General Medicine,Diabetes Management,Low,107.5,73.3,89.8,96.2,15.7,37.58,94.8,5.75,216.1,8.43,None,None
+P0044,Sana Javed,39,Male,O+,171.7,90.2,30.6,No,No,No,No,No,Never,2026-03-06,Follow-up,Cardiology,Respiratory Infection,Low,122.3,71.4,79.0,96.6,16.9,36.74,103.2,5.24,178.1,8.11,None,Penicillin
+P0044,Sana Javed,39,Male,O+,171.7,93.3,31.7,No,No,No,No,No,Never,2026-04-03,Follow-up,General Medicine,Diabetes Management,Low,114.8,78.5,70.9,98.0,16.6,36.77,86.4,5.28,229.5,,None,None
+P0044,Sana Javed,39,Male,O+,171.7,92.2,31.3,No,No,No,No,No,Never,2026-04-30,Routine,General Medicine,Respiratory Infection,Low,118.5,70.3,71.0,97.3,17.3,36.89,75.4,5.54,206.4,6.11,None,Pollen
+P0044,Sana Javed,39,Male,O+,171.7,94.5,32.1,No,No,No,No,No,Never,2026-05-30,Screening,General Medicine,Respiratory Infection,Low,122.0,67.2,84.1,98.1,15.2,36.44,99.6,5.1,213.9,7.84,None,None
+P0044,Sana Javed,39,Male,O+,171.7,89.5,30.4,No,No,No,No,No,Never,2026-06-28,Follow-up,General Medicine,Diabetes Management,Low,115.2,77.4,75.6,96.2,14.2,36.7,100.4,5.34,198.8,7.4,None,Dust
+P0044,Sana Javed,39,Male,O+,171.7,89.5,30.4,No,No,No,No,No,Never,2026-07-26,Follow-up,General Medicine,Routine Checkup,Low,117.2,72.7,72.6,97.2,17.7,36.72,111.2,5.16,201.7,6.43,None,None
+P0044,Sana Javed,39,Male,O+,171.7,91.0,30.9,No,No,No,No,No,Never,2026-08-21,Routine,Pulmonology,Respiratory Infection,Low,115.2,78.7,84.1,98.5,17.2,36.71,95.1,4.94,181.9,5.97,None,None
+P0045,Maham Shah,56,Male,O+,182.5,65.5,19.7,No,No,Yes,No,No,Current,2026-01-10,Follow-up,General Medicine,Hypertension,Low,133.3,81.7,79.4,95.0,14.6,36.7,85.4,5.74,172.2,7.05,Atorvastatin,None
+P0045,Maham Shah,56,Male,O+,182.5,69.6,20.9,No,No,Yes,No,No,Current,2026-02-05,Follow-up,General Medicine,Hypertension,Low,134.7,81.7,73.5,95.8,19.0,37.0,96.6,5.5,162.4,6.84,Atorvastatin,NSAIDs
+P0045,Maham Shah,56,Male,O+,182.5,69.1,20.8,No,No,Yes,No,No,Current,2026-03-05,Follow-up,General Medicine,Routine Checkup,Medium,146.1,82.2,78.5,95.2,17.4,37.04,76.5,5.08,194.5,6.97,Aspirin,None
+P0045,Maham Shah,56,Male,O+,182.5,66.7,20.0,No,No,Yes,No,No,Current,2026-04-04,Routine,Emergency,Hypertension,Low,127.0,81.8,77.2,94.5,14.9,36.43,98.8,4.51,159.8,5.24,Aspirin,None
+P0045,Maham Shah,56,Male,O+,182.5,65.6,19.7,No,No,Yes,No,No,Current,2026-05-04,Follow-up,Cardiology,Routine Checkup,Low,135.4,76.3,69.8,95.4,17.8,36.85,81.3,5.45,,6.35,Aspirin,None
+P0045,Maham Shah,56,Male,O+,182.5,68.8,20.6,No,No,Yes,No,No,Current,2026-05-28,Screening,Emergency,Chest Pain,Low,137.1,81.9,75.3,95.9,17.2,36.56,91.1,5.61,158.2,8.9,Atorvastatin,Penicillin
+P0045,Maham Shah,56,Male,O+,182.5,67.7,20.3,No,No,Yes,No,No,Current,2026-06-27,Screening,Cardiology,Routine Checkup,Low,130.7,81.7,75.0,95.4,10.7,36.71,92.3,5.56,201.6,6.91,Atorvastatin,None
+P0045,Maham Shah,56,Male,O+,182.5,68.2,20.5,No,No,Yes,No,No,Current,2026-07-27,Follow-up,General Medicine,Chest Pain,Medium,143.1,82.1,86.0,94.8,17.6,36.54,95.4,5.28,189.9,7.35,Atorvastatin,Pollen
+P0045,Maham Shah,56,Male,O+,182.5,69.4,20.8,No,No,Yes,No,No,Current,2026-08-21,Follow-up,Emergency,Routine Checkup,Low,131.0,80.5,80.3,95.0,15.6,36.67,114.0,5.21,155.8,5.9,Aspirin,None
+P0046,Ayesha Raza,55,Female,A+,149.4,48.6,21.8,No,No,No,No,No,Never,2026-01-11,Follow-up,General Medicine,Routine Checkup,Low,124.1,79.6,69.5,97.0,17.1,36.72,114.6,,175.9,6.9,None,Penicillin
+P0046,Ayesha Raza,55,Female,A+,149.4,53.4,23.9,No,No,No,No,No,Never,2026-02-12,Routine,Nephrology,Chest Pain,Low,130.6,84.0,71.8,99.3,16.3,36.37,83.6,5.07,188.7,6.15,None,Pollen
+P0046,Ayesha Raza,55,Female,A+,149.4,55.2,24.7,No,No,No,No,No,Never,2026-03-10,Follow-up,General Medicine,Asthma,Low,123.4,83.0,63.8,95.6,14.2,36.7,110.0,4.99,169.4,6.88,None,None
+P0046,Ayesha Raza,55,Female,A+,149.4,55.1,24.7,No,No,No,No,No,Never,2026-04-07,Routine,Nephrology,Asthma,Low,126.4,73.3,79.4,96.4,18.1,37.05,92.8,4.68,219.2,7.49,None,None
+P0046,Ayesha Raza,55,Female,A+,149.4,53.5,24.0,No,No,No,No,No,Never,2026-05-05,Routine,General Medicine,Hypertension,Low,117.4,80.3,71.9,97.3,15.8,36.64,79.0,5.48,,6.54,None,Pollen
+P0046,Ayesha Raza,55,Female,A+,149.4,51.4,23.0,No,No,No,No,No,Never,2026-06-02,Routine,General Medicine,Routine Checkup,Low,110.8,84.0,74.2,97.0,12.7,36.24,92.0,5.89,165.4,7.96,None,None
+P0046,Ayesha Raza,55,Female,A+,149.4,55.3,24.8,No,No,No,No,No,Never,2026-07-01,Follow-up,Cardiology,Asthma,Low,126.1,82.5,67.9,98.4,16.4,36.81,94.0,5.02,178.0,6.66,None,Penicillin
+P0046,Ayesha Raza,55,Female,A+,149.4,53.8,24.1,No,No,No,No,No,Never,2026-07-29,Follow-up,Nephrology,Respiratory Infection,Low,117.7,78.5,72.8,96.9,16.7,36.74,55.0,5.09,185.7,8.74,None,None
+P0047,Bilal Farooq,36,Male,A+,162.7,89.7,33.9,Yes,No,No,No,No,Former,2026-01-07,Emergency,Endocrinology,Routine Checkup,Medium,118.2,77.0,94.4,95.8,15.5,37.78,155.0,6.74,221.3,7.45,Metformin,Penicillin
+P0047,Bilal Farooq,36,Male,A+,162.7,86.5,32.7,Yes,No,No,No,No,Former,2026-02-04,Routine,Endocrinology,Hyperlipidemia,Low,114.1,65.8,76.5,97.4,15.6,36.67,141.4,6.6,229.7,7.8,Metformin,None
+P0047,Bilal Farooq,36,Male,A+,162.7,91.3,34.5,Yes,No,No,No,No,Former,2026-03-02,Emergency,Endocrinology,Routine Checkup,Low,120.7,64.9,82.2,96.6,13.7,36.83,100.1,6.64,215.6,7.9,Glimepiride,Dust
+P0047,Bilal Farooq,36,Male,A+,162.7,86.5,32.7,Yes,No,No,No,No,Former,2026-04-02,Follow-up,General Medicine,Routine Checkup,Low,111.6,82.9,63.5,95.9,17.4,36.59,112.3,7.53,234.3,6.72,Metformin,None
+P0047,Bilal Farooq,36,Male,A+,162.7,87.6,33.1,Yes,No,No,No,No,Former,2026-04-27,Follow-up,General Medicine,Routine Checkup,Low,111.7,80.4,80.8,95.1,16.8,36.67,114.5,7.09,201.7,6.63,Glimepiride,None
+P0047,Bilal Farooq,36,Male,A+,162.7,89.3,33.8,Yes,No,No,No,No,Former,2026-05-28,Routine,Endocrinology,Diabetes Management,Medium,127.9,72.4,68.7,98.8,15.1,36.66,140.8,6.57,238.8,7.68,Glimepiride,Pollen
+P0047,Bilal Farooq,36,Male,A+,162.7,92.2,34.8,Yes,No,No,No,No,Former,2026-06-25,Screening,Endocrinology,Hyperlipidemia,Low,104.6,66.1,75.4,98.6,16.3,36.95,100.1,6.83,192.3,7.88,Metformin,None
+P0047,Bilal Farooq,36,Male,A+,162.7,89.3,33.7,Yes,No,No,No,No,Former,2026-07-24,Routine,Endocrinology,Routine Checkup,Low,119.1,72.1,65.4,97.6,16.9,36.92,134.7,6.59,,7.1,Metformin,None
+P0047,Bilal Farooq,36,Male,A+,162.7,86.4,32.7,Yes,No,No,No,No,Former,2026-08-17,Follow-up,Nephrology,Routine Checkup,Low,113.0,81.3,78.3,95.4,18.0,37.04,112.4,6.12,224.7,8.22,Metformin,None
+P0047,Bilal Farooq,36,Male,A+,162.7,87.4,33.0,Yes,No,No,No,No,Former,2026-09-18,Follow-up,Endocrinology,Diabetes Management,Low,123.4,79.7,77.7,95.6,17.3,36.83,104.9,6.28,244.7,6.92,Metformin,Pollen
+P0048,Areeba Ahmed,19,Female,B-,173.3,66.9,22.3,No,No,No,Yes,No,Never,2026-01-08,Follow-up,Pulmonology,Asthma,Low,111.5,66.2,69.3,96.1,18.6,36.75,61.8,4.99,186.3,7.29,Salbutamol,None
+P0048,Areeba Ahmed,19,Female,B-,173.3,68.0,22.6,No,No,No,Yes,No,Never,2026-02-03,Emergency,Pulmonology,Asthma,Low,111.5,67.0,79.8,95.2,14.4,37.39,113.4,5.2,194.1,5.46,Salbutamol,Pollen
+P0048,Areeba Ahmed,19,Female,B-,173.3,74.0,24.6,No,No,No,Yes,No,Never,2026-03-05,Emergency,General Medicine,Respiratory Infection,Low,123.7,68.8,68.3,91.8,20.8,36.44,86.4,5.43,204.7,6.9,Salbutamol,None
+P0048,Areeba Ahmed,19,Female,B-,173.3,69.8,23.3,No,No,No,Yes,No,Never,2026-04-02,Routine,General Medicine,Asthma,Low,120.1,66.6,79.2,93.8,19.1,36.87,92.7,6.04,203.7,8.28,Salbutamol,None
+P0048,Areeba Ahmed,19,Female,B-,173.3,67.9,22.6,No,No,No,Yes,No,Never,2026-05-01,Screening,Pulmonology,Respiratory Infection,Low,115.9,78.2,69.1,94.0,18.6,36.65,104.8,6.4,185.5,6.36,Salbutamol,None
+P0048,Areeba Ahmed,19,Female,B-,173.3,69.7,23.2,No,No,No,Yes,No,Never,2026-05-27,Routine,Emergency,Respiratory Infection,Low,108.8,81.9,71.6,94.4,19.5,36.92,111.2,5.35,196.9,6.43,Salbutamol,None
+P0048,Areeba Ahmed,19,Female,B-,173.3,70.3,23.4,No,No,No,Yes,No,Never,2026-06-23,Routine,Pulmonology,Respiratory Infection,Low,93.4,74.5,82.4,93.9,17.9,36.43,84.2,5.03,165.7,6.36,Salbutamol,Pollen
+P0048,Areeba Ahmed,19,Female,B-,173.3,69.3,23.1,No,No,No,Yes,No,Never,2026-07-23,Follow-up,Pulmonology,Respiratory Infection,Low,108.0,69.1,65.8,92.9,16.7,36.75,108.1,4.57,168.1,5.73,Salbutamol,None
+P0048,Areeba Ahmed,19,Female,B-,173.3,69.5,23.1,No,No,No,Yes,No,Never,2026-08-20,Follow-up,Pulmonology,Respiratory Infection,Low,106.7,72.8,71.0,94.9,19.3,36.36,94.6,5.16,187.8,7.93,Salbutamol,None
+P0048,Areeba Ahmed,19,Female,B-,173.3,66.2,22.0,No,No,No,Yes,No,Never,2026-09-18,Routine,General Medicine,Asthma,Low,90.0,71.6,71.1,94.9,15.5,36.54,99.1,4.84,185.4,6.54,Salbutamol,None
+P0048,Areeba Ahmed,19,Female,B-,173.3,67.7,22.5,No,No,No,Yes,No,Never,2026-10-13,Follow-up,General Medicine,Asthma,Low,116.5,66.9,74.9,94.1,18.3,36.45,64.2,5.38,195.4,5.31,Salbutamol,None
+P0048,Areeba Ahmed,19,Female,B-,173.3,66.7,22.2,No,No,No,Yes,No,Never,2026-11-13,Follow-up,Emergency,Respiratory Infection,Low,112.6,73.2,76.6,94.3,16.9,36.81,99.1,5.27,180.0,8.78,Salbutamol,Pollen
+P0049,Iqra Ahmed,27,Male,A+,153.8,91.2,38.5,No,No,No,No,No,Never,2026-01-05,Emergency,Pulmonology,Respiratory Infection,Low,110.3,71.3,87.4,94.5,19.5,36.76,91.1,5.62,201.4,8.11,None,None
+P0049,Iqra Ahmed,27,Male,A+,153.8,89.0,37.6,No,No,No,No,No,Never,2026-02-02,Screening,Pulmonology,Diabetes Management,Low,118.1,69.3,60.2,95.7,16.0,36.23,87.5,4.71,237.5,9.27,None,Penicillin
+P0049,Iqra Ahmed,27,Male,A+,153.8,88.8,37.5,No,No,No,No,No,Never,2026-03-03,Emergency,General Medicine,Chest Pain,Low,125.6,69.7,88.7,94.1,17.7,37.08,85.4,5.18,196.1,7.96,None,None
+P0049,Iqra Ahmed,27,Male,A+,153.8,89.2,37.7,No,No,No,No,No,Never,2026-03-30,Routine,General Medicine,Hyperlipidemia,Low,113.5,67.4,70.6,96.2,14.2,36.5,74.8,5.05,215.8,7.22,None,NSAIDs
+P0049,Iqra Ahmed,27,Male,A+,153.8,90.5,38.3,No,No,No,No,No,Never,2026-04-27,Screening,General Medicine,Routine Checkup,Low,110.8,72.9,67.5,97.6,13.2,36.89,91.7,,203.8,6.94,None,None
+P0049,Iqra Ahmed,27,Male,A+,153.8,90.3,38.2,No,No,No,No,No,Never,2026-05-29,Screening,General Medicine,Hyperlipidemia,Low,105.5,65.7,71.6,97.8,13.6,36.52,100.6,5.21,233.5,5.69,None,Penicillin
+P0049,Iqra Ahmed,27,Male,A+,153.8,89.0,37.6,No,No,No,No,No,Never,2026-06-24,Routine,General Medicine,Hyperlipidemia,Low,111.5,71.0,66.9,97.4,15.5,36.98,89.3,4.86,,6.93,None,None
+P0049,Iqra Ahmed,27,Male,A+,153.8,89.3,37.7,No,No,No,No,No,Never,2026-07-21,Routine,Pulmonology,Routine Checkup,Low,111.7,66.8,76.6,97.0,15.0,36.75,66.8,4.63,187.8,7.45,None,Dust
+P0049,Iqra Ahmed,27,Male,A+,153.8,87.2,36.9,No,No,No,No,No,Never,2026-08-19,Emergency,Nephrology,Hypertension,Low,121.5,71.7,81.2,97.0,15.8,37.46,85.8,4.74,209.3,6.3,None,None
+P0049,Iqra Ahmed,27,Male,A+,153.8,90.2,38.1,No,No,No,No,No,Never,2026-09-18,Follow-up,General Medicine,Routine Checkup,Low,98.9,64.9,68.9,99.2,18.5,36.88,97.3,4.55,210.8,6.55,None,None
+P0050,Iqra Khan,78,Male,O+,181.3,78.9,24.0,Yes,Yes,No,No,No,Current,2026-01-10,Follow-up,Endocrinology,Diabetes Management,High,149.8,88.2,71.1,96.2,16.0,36.63,128.8,7.56,203.5,6.72,Losartan; Metformin,None
+P0050,Iqra Khan,78,Male,O+,181.3,78.3,23.8,Yes,Yes,No,No,No,Current,2026-02-04,Routine,Endocrinology,Routine Checkup,High,151.9,87.8,89.8,96.3,12.9,36.3,149.4,7.47,183.7,8.38,Lisinopril; Metformin,Penicillin
+P0050,Iqra Khan,78,Male,O+,181.3,79.8,24.3,Yes,Yes,No,No,No,Current,2026-03-04,Follow-up,Endocrinology,Hyperlipidemia,High,149.7,89.7,83.9,97.3,17.3,36.83,142.1,7.04,212.2,7.82,Lisinopril; Metformin,Pollen
+P0050,Iqra Khan,78,Male,O+,181.3,76.3,23.2,Yes,Yes,No,No,No,Current,2026-04-04,Follow-up,Nephrology,Hyperlipidemia,High,161.1,86.3,72.8,99.6,14.6,36.52,137.7,6.7,211.9,6.57,Lisinopril; Glimepiride,None
+P0050,Iqra Khan,78,Male,O+,181.3,81.7,24.9,Yes,Yes,No,No,No,Current,2026-04-29,Routine,General Medicine,Diabetes Management,High,143.7,85.4,74.5,96.4,13.7,37.21,123.0,6.93,192.2,7.81,Amlodipine; Glimepiride,Dust
+P0050,Iqra Khan,78,Male,O+,181.3,82.5,25.1,Yes,Yes,No,No,No,Current,2026-05-27,Screening,Endocrinology,Diabetes Management,High,149.1,90.6,65.0,95.7,14.7,36.46,131.8,6.66,208.5,6.32,Losartan; Glimepiride,None
+P0050,Iqra Khan,78,Male,O+,181.3,76.2,23.2,Yes,Yes,No,No,No,Current,2026-06-24,Routine,General Medicine,Diabetes Management,High,146.4,84.2,79.8,97.5,14.7,36.56,125.6,6.69,204.3,6.81,Lisinopril; Metformin,None
+P0050,Iqra Khan,78,Male,O+,181.3,78.1,23.8,Yes,Yes,No,No,No,Current,2026-07-25,Follow-up,Endocrinology,Hyperlipidemia,High,165.8,92.6,73.6,97.1,18.6,36.34,165.6,6.93,170.7,6.35,Losartan; Metformin,None
+P0050,Iqra Khan,78,Male,O+,181.3,77.4,23.6,Yes,Yes,No,No,No,Current,2026-08-20,Emergency,General Medicine,Hyperlipidemia,High,155.8,84.1,75.8,99.6,17.2,37.43,128.8,6.99,198.3,6.68,Lisinopril; Glimepiride,None
+P0050,Iqra Khan,78,Male,O+,181.3,75.5,23.0,Yes,Yes,No,No,No,Current,2026-09-17,Follow-up,Nephrology,Hyperlipidemia,High,159.3,89.4,83.1,98.1,14.4,36.19,126.7,6.57,228.9,7.09,Amlodipine; Metformin,Pollen
+P0050,Iqra Khan,78,Male,O+,181.3,79.0,24.0,Yes,Yes,No,No,No,Current,2026-10-17,Emergency,General Medicine,Hyperlipidemia,High,157.3,98.7,82.8,94.5,11.8,38.06,139.5,7.03,188.7,6.52,Amlodipine; Glimepiride,None
+P0051,Sana Nawaz,44,Female,A-,171.3,71.9,24.5,No,No,No,Yes,No,Former,2026-01-17,Emergency,Pulmonology,Respiratory Infection,Low,128.1,86.6,86.6,93.7,17.6,36.7,82.5,5.0,195.7,8.13,Salbutamol,None
+P0051,Sana Nawaz,44,Female,A-,171.3,71.3,24.3,No,No,No,Yes,No,Former,2026-02-18,Screening,Pulmonology,Respiratory Infection,Low,123.8,71.4,75.2,94.1,14.6,36.73,89.3,5.64,178.1,5.85,Salbutamol,None
+P0051,Sana Nawaz,44,Female,A-,171.3,73.6,25.1,No,No,No,Yes,No,Former,2026-03-17,Screening,General Medicine,Asthma,Low,105.9,73.6,73.1,95.5,19.5,36.86,115.1,5.07,202.0,6.06,Salbutamol,None
+P0051,Sana Nawaz,44,Female,A-,171.3,72.0,24.5,No,No,No,Yes,No,Former,2026-04-14,Emergency,Pulmonology,Asthma,Low,133.0,74.5,84.4,95.0,17.5,37.32,99.1,5.19,170.7,7.02,Salbutamol,None
+P0051,Sana Nawaz,44,Female,A-,171.3,74.5,25.4,No,No,No,Yes,No,Former,2026-05-11,Screening,General Medicine,Asthma,Low,120.5,79.6,80.4,95.6,20.0,37.09,89.5,4.74,189.9,7.88,Salbutamol,None
+P0051,Sana Nawaz,44,Female,A-,171.3,72.1,24.6,No,No,No,Yes,No,Former,2026-06-10,Routine,Pulmonology,Respiratory Infection,Low,110.0,76.3,72.7,94.7,18.6,36.82,90.5,5.53,129.0,7.29,Salbutamol,None
+P0051,Sana Nawaz,44,Female,A-,171.3,71.6,24.4,No,No,No,Yes,No,Former,2026-07-07,Follow-up,Pulmonology,Respiratory Infection,Low,123.4,74.8,71.3,94.0,16.8,36.83,92.2,5.07,167.8,7.61,Salbutamol,None
+P0051,Sana Nawaz,44,Female,A-,171.3,73.2,25.0,No,No,No,Yes,No,Former,2026-08-01,Screening,General Medicine,Respiratory Infection,Low,110.1,77.5,85.7,96.1,19.6,36.88,125.8,4.38,169.6,7.95,Salbutamol,Dust
+P0051,Sana Nawaz,44,Female,A-,171.3,70.5,24.0,No,No,No,Yes,No,Former,2026-08-31,Follow-up,Pulmonology,Respiratory Infection,Low,115.9,76.2,71.4,95.5,19.5,36.97,75.1,4.61,177.9,10.0,Salbutamol,None
+P0051,Sana Nawaz,44,Female,A-,171.3,68.9,23.5,No,No,No,Yes,No,Former,2026-09-30,Routine,Pulmonology,Respiratory Infection,Low,129.3,74.0,75.5,94.5,20.2,36.51,66.4,5.31,141.2,6.8,Salbutamol,None
+P0051,Sana Nawaz,44,Female,A-,171.3,70.2,23.9,No,No,No,Yes,No,Former,2026-10-24,Routine,Pulmonology,Respiratory Infection,Low,122.5,72.6,81.7,94.4,21.1,36.57,113.1,5.41,177.4,,Salbutamol,None
+P0051,Sana Nawaz,44,Female,A-,171.3,70.6,24.1,No,No,No,Yes,No,Former,2026-11-24,Screening,General Medicine,Respiratory Infection,Low,107.9,79.0,68.6,94.3,19.5,36.91,65.4,5.17,186.3,7.15,Salbutamol,None
+P0052,Daniyal Farooq,48,Male,A+,175.6,79.0,25.6,No,No,No,No,No,Never,2026-01-11,Routine,Cardiology,Routine Checkup,Low,113.4,75.8,71.2,95.5,20.2,36.58,84.6,5.54,210.7,8.23,None,NSAIDs
+P0052,Daniyal Farooq,48,Male,A+,175.6,77.3,25.1,No,No,No,No,No,Never,2026-02-06,Routine,General Medicine,Routine Checkup,Low,121.9,77.8,70.4,98.5,17.1,36.86,73.6,5.79,163.5,8.84,None,None
+P0052,Daniyal Farooq,48,Male,A+,175.6,80.6,26.1,No,No,No,No,No,Never,2026-03-05,Routine,General Medicine,Hyperlipidemia,Low,128.4,69.5,70.2,94.5,16.6,36.23,109.0,5.61,169.5,7.62,None,None
+P0052,Daniyal Farooq,48,Male,A+,175.6,75.3,24.4,No,No,No,No,No,Never,2026-04-02,Routine,General Medicine,Hyperlipidemia,Low,121.0,74.5,73.6,96.4,18.8,36.74,95.5,5.27,196.1,7.68,None,None
+P0052,Daniyal Farooq,48,Male,A+,175.6,78.1,25.3,No,No,No,No,No,Never,2026-05-02,Follow-up,General Medicine,Routine Checkup,Low,126.0,75.7,75.5,95.8,16.0,36.36,97.8,4.54,184.3,5.63,None,None
+P0052,Daniyal Farooq,48,Male,A+,175.6,75.7,24.5,No,No,No,No,No,Never,2026-05-28,Routine,General Medicine,Routine Checkup,Low,110.0,76.2,75.4,97.4,16.9,36.7,87.9,4.82,170.1,5.78,None,Pollen
+P0052,Daniyal Farooq,48,Male,A+,175.6,78.1,25.3,No,No,No,No,No,Never,2026-06-26,Screening,General Medicine,Asthma,Low,111.9,73.7,69.9,97.8,15.3,36.65,85.5,4.71,166.3,6.72,None,Penicillin
+P0052,Daniyal Farooq,48,Male,A+,175.6,79.2,25.7,No,No,No,No,No,Never,2026-07-24,Emergency,General Medicine,Routine Checkup,Low,123.3,79.3,83.3,95.8,14.5,36.7,97.2,5.09,167.8,7.66,None,Dust
+P0052,Daniyal Farooq,48,Male,A+,175.6,78.3,25.4,No,No,No,No,No,Never,2026-08-22,Routine,Nephrology,Asthma,Low,125.5,78.8,72.7,95.0,17.9,36.8,74.0,4.92,182.2,7.78,None,None
+P0052,Daniyal Farooq,48,Male,A+,175.6,76.5,24.8,No,No,No,No,No,Never,2026-09-20,Routine,General Medicine,Routine Checkup,Low,132.5,85.9,73.4,96.4,15.7,36.82,68.6,5.0,203.8,6.05,None,None
+P0053,Zain Nawaz,47,Female,O+,162.9,98.9,37.3,No,No,No,No,No,Current,2026-01-10,Screening,General Medicine,Routine Checkup,Low,123.1,80.8,74.2,96.9,13.8,36.69,110.5,4.77,203.6,6.71,None,None
+P0053,Zain Nawaz,47,Female,O+,162.9,98.2,37.0,No,No,No,No,No,Current,2026-02-06,Follow-up,General Medicine,Diabetes Management,Low,123.2,72.9,83.0,98.9,19.0,36.46,100.5,5.5,221.7,6.75,None,Pollen
+P0053,Zain Nawaz,47,Female,O+,162.9,100.6,37.9,No,No,No,No,No,Current,2026-03-03,Follow-up,General Medicine,Respiratory Infection,Low,124.6,76.6,73.1,97.0,17.2,36.65,70.2,5.4,193.4,5.78,None,None
+P0053,Zain Nawaz,47,Female,O+,162.9,103.1,38.9,No,No,No,No,No,Current,2026-04-01,Follow-up,General Medicine,Hyperlipidemia,Low,118.2,74.6,78.3,97.8,17.5,36.01,118.0,5.42,252.3,6.32,None,
+P0053,Zain Nawaz,47,Female,O+,162.9,100.8,38.0,No,No,No,No,No,Current,2026-04-29,Routine,General Medicine,Hypertension,Low,119.7,78.0,70.5,96.7,17.6,37.01,108.3,5.14,169.5,6.95,None,None
+P0053,Zain Nawaz,47,Female,O+,162.9,98.5,37.1,No,No,No,No,No,Current,2026-05-30,Follow-up,Emergency,Routine Checkup,Low,129.9,70.6,72.0,98.0,17.4,36.9,96.5,5.45,232.7,7.53,None,None
+P0053,Zain Nawaz,47,Female,O+,162.9,100.6,37.9,No,No,No,No,No,Current,2026-06-27,Routine,General Medicine,Chest Pain,Low,121.9,81.0,70.9,97.2,17.3,36.33,87.7,5.49,209.2,8.57,None,None
+P0053,Zain Nawaz,47,Female,O+,162.9,101.4,38.2,No,No,No,No,No,Current,2026-07-24,Screening,Pulmonology,Hyperlipidemia,Low,126.6,71.3,67.8,97.2,17.4,36.41,89.0,5.11,215.5,7.09,None,None
+P0053,Zain Nawaz,47,Female,O+,162.9,99.3,37.4,No,No,No,No,No,Current,2026-08-18,Routine,Emergency,Hypertension,Low,125.0,77.0,75.6,97.6,19.1,36.51,67.7,,195.3,6.13,None,Pollen
+P0053,Zain Nawaz,47,Female,O+,162.9,99.9,37.6,No,No,No,No,No,Current,2026-09-17,Emergency,Endocrinology,Respiratory Infection,Low,113.8,80.7,66.0,96.2,16.8,37.87,89.1,4.79,207.8,8.1,None,None
+P0053,Zain Nawaz,47,Female,O+,162.9,96.5,36.3,No,No,No,No,No,Current,2026-10-15,Follow-up,Cardiology,Hyperlipidemia,Low,124.3,70.9,76.1,96.2,14.5,36.74,127.4,5.46,210.5,7.46,None,NSAIDs
+P0054,Rayan Butt,67,Female,A+,175.3,102.0,33.2,No,No,Yes,No,No,Current,2026-01-10,Routine,Cardiology,Hypertension,Low,127.0,90.3,76.6,93.7,14.6,36.38,90.0,5.27,198.9,7.88,Atorvastatin,Dust
+P0054,Rayan Butt,67,Female,A+,175.3,101.3,33.0,No,No,Yes,No,No,Current,2026-02-09,Emergency,General Medicine,Hypertension,Medium,139.4,82.3,73.8,95.8,13.1,37.54,71.7,5.07,218.9,9.4,Atorvastatin,None
+P0054,Rayan Butt,67,Female,A+,175.3,103.6,33.7,No,No,Yes,No,No,Current,2026-03-08,Routine,Cardiology,Routine Checkup,Medium,132.3,81.6,72.2,96.3,13.5,36.36,83.1,5.44,230.2,8.48,Aspirin,Penicillin
+P0054,Rayan Butt,67,Female,A+,175.3,103.5,33.7,No,No,Yes,No,No,Current,2026-04-08,Follow-up,General Medicine,Chest Pain,Medium,132.3,83.1,77.7,95.7,17.4,36.91,94.9,5.05,209.9,6.5,Atorvastatin,None
+P0054,Rayan Butt,67,Female,A+,175.3,104.5,34.0,No,No,Yes,No,No,Current,2026-05-02,Follow-up,Cardiology,Chest Pain,Medium,144.7,87.2,78.3,96.5,17.9,36.77,90.3,5.51,191.7,6.38,Aspirin,Penicillin
+P0054,Rayan Butt,67,Female,A+,175.3,100.9,32.8,No,No,Yes,No,No,Current,2026-06-01,Routine,General Medicine,Chest Pain,Medium,136.0,82.3,77.2,95.2,15.9,36.69,85.3,4.93,227.5,5.0,Atorvastatin,None
+P0054,Rayan Butt,67,Female,A+,175.3,102.3,33.3,No,No,Yes,No,No,Current,2026-07-01,Routine,Emergency,Chest Pain,Low,146.8,85.1,69.9,95.0,17.3,36.4,90.8,5.2,201.1,9.8,Aspirin,Dust
+P0054,Rayan Butt,67,Female,A+,175.3,104.0,33.8,No,No,Yes,No,No,Current,2026-07-29,Follow-up,Emergency,Routine Checkup,Medium,135.2,83.1,71.6,94.4,17.6,36.56,55.8,5.82,193.6,6.85,Aspirin,None
+P0054,Rayan Butt,67,Female,A+,175.3,102.1,33.2,No,No,Yes,No,No,Current,2026-08-25,Follow-up,Cardiology,Chest Pain,Medium,141.9,84.9,74.1,95.5,13.2,36.82,94.4,5.89,208.1,6.16,Atorvastatin,None
+P0055,Ali Ahmed,22,Male,A+,177.6,76.7,24.3,No,No,No,No,No,Never,2026-01-12,Routine,Nephrology,Diabetes Management,Low,113.9,67.9,73.2,98.2,16.8,36.89,85.1,5.13,175.9,7.05,None,None
+P0055,Ali Ahmed,22,Male,A+,177.6,76.0,24.1,No,No,No,No,No,Never,2026-02-07,Follow-up,Emergency,Chest Pain,Low,106.9,70.2,83.1,98.0,16.9,36.8,89.5,5.9,192.4,6.35,None,None
+P0055,Ali Ahmed,22,Male,A+,177.6,74.2,23.5,No,No,No,No,No,Never,2026-03-10,Screening,Nephrology,Chest Pain,Low,115.7,74.2,68.4,97.6,15.3,36.59,84.0,5.6,172.9,8.47,None,None
+P0055,Ali Ahmed,22,Male,A+,177.6,74.0,23.5,No,No,No,No,No,Never,2026-04-07,Routine,Endocrinology,Chest Pain,Low,105.9,69.1,69.5,98.3,16.2,37.02,99.4,5.09,171.0,7.66,None,Pollen
+P0055,Ali Ahmed,22,Male,A+,177.6,73.9,23.4,No,No,No,No,No,Never,2026-05-06,Routine,Nephrology,Routine Checkup,Low,104.1,68.0,70.6,97.7,17.9,36.36,83.0,5.07,192.3,6.57,None,Dust
+P0055,Ali Ahmed,22,Male,A+,177.6,74.0,23.5,No,No,No,No,No,Never,2026-05-31,Emergency,General Medicine,Hypertension,Low,133.3,67.0,72.2,97.3,16.1,36.87,98.0,5.19,171.7,7.93,None,NSAIDs
+P0055,Ali Ahmed,22,Male,A+,177.6,75.4,23.9,No,No,No,No,No,Never,2026-06-28,Follow-up,Nephrology,Routine Checkup,Low,110.2,76.2,72.8,96.4,14.9,36.8,90.8,4.72,193.2,6.62,None,None
+P0055,Ali Ahmed,22,Male,A+,177.6,73.5,23.3,No,No,No,No,No,Never,2026-07-29,Screening,Pulmonology,Hypertension,Low,124.4,72.7,67.2,95.2,13.4,36.57,82.5,5.12,137.1,7.01,None,None
+P0055,Ali Ahmed,22,Male,A+,177.6,72.8,23.1,No,No,No,No,No,Never,2026-08-22,Screening,Emergency,Hypertension,Low,106.0,72.7,64.7,98.7,16.1,36.67,115.9,5.19,185.2,6.35,None,Dust
+P0056,Zain Malik,23,Male,A+,170.1,79.6,27.5,No,No,No,No,No,Never,2026-01-18,Follow-up,Pulmonology,Chest Pain,Low,108.8,68.6,62.2,97.1,16.2,36.9,105.7,5.13,218.0,6.4,None,None
+P0056,Zain Malik,23,Male,A+,170.1,77.5,26.8,No,No,No,No,No,Never,2026-02-13,Follow-up,Emergency,Hypertension,Low,101.0,66.7,70.4,95.6,15.4,36.61,111.6,5.25,196.5,7.4,None,None
+P0056,Zain Malik,23,Male,A+,170.1,73.0,25.2,No,No,No,No,No,Never,2026-03-11,Routine,Emergency,Hyperlipidemia,Low,100.0,70.4,58.0,98.8,16.9,36.54,75.4,5.56,158.0,6.08,None,None
+P0056,Zain Malik,23,Male,A+,170.1,75.9,26.2,No,No,No,No,No,Never,2026-04-11,Follow-up,Nephrology,Kidney Monitoring,Low,119.1,68.6,61.1,96.3,14.8,36.54,77.6,5.04,189.2,8.82,None,None
+P0056,Zain Malik,23,Male,A+,170.1,77.2,26.7,No,No,No,No,No,Never,2026-05-09,Routine,Cardiology,Hyperlipidemia,Low,110.6,68.4,76.3,98.0,16.0,36.5,96.1,5.12,173.7,6.59,None,None
+P0056,Zain Malik,23,Male,A+,170.1,74.9,25.9,No,No,No,No,No,Never,2026-06-04,Routine,General Medicine,Routine Checkup,Low,119.3,74.3,87.6,97.3,17.0,36.77,90.5,5.11,183.3,7.62,None,Pollen
+P0056,Zain Malik,23,Male,A+,170.1,78.7,27.2,No,No,No,No,No,Never,2026-07-04,Routine,General Medicine,Respiratory Infection,Low,108.2,76.8,73.7,97.3,15.8,36.5,77.5,5.8,210.1,8.23,None,Pollen
+P0056,Zain Malik,23,Male,A+,170.1,75.3,26.0,No,No,No,No,No,Never,2026-07-29,Follow-up,General Medicine,Respiratory Infection,Low,116.1,69.5,70.1,96.8,19.2,36.24,99.5,5.11,166.5,6.82,None,NSAIDs
+P0056,Zain Malik,23,Male,A+,170.1,77.0,26.6,No,No,No,No,No,Never,2026-08-27,Emergency,General Medicine,Diabetes Management,Low,122.9,74.5,86.5,96.2,13.6,36.19,93.0,5.3,156.7,8.15,None,None
+P0056,Zain Malik,23,Male,A+,170.1,75.6,26.1,No,No,No,No,No,Never,2026-09-27,Routine,Nephrology,Asthma,Low,105.0,77.6,69.6,98.7,12.8,36.73,113.4,4.89,175.1,6.7,None,Pollen
+P0057,Fahad Farooq,35,Male,A+,170.1,86.7,30.0,No,No,No,No,No,Never,2026-01-08,Routine,Endocrinology,Routine Checkup,Low,108.1,75.7,73.7,97.8,15.5,36.47,105.8,5.01,211.4,5.55,None,Penicillin
+P0057,Fahad Farooq,35,Male,A+,170.1,87.9,30.4,No,No,No,No,No,Never,2026-02-06,Follow-up,General Medicine,Chest Pain,Low,113.6,81.7,65.0,97.7,17.6,36.52,86.4,5.25,181.3,6.64,None,None
+P0057,Fahad Farooq,35,Male,A+,170.1,90.2,31.2,No,No,No,No,No,Never,2026-03-07,Routine,Nephrology,Respiratory Infection,Low,110.9,80.7,79.9,97.7,14.7,36.44,87.1,5.22,176.2,7.59,None,Penicillin
+P0057,Fahad Farooq,35,Male,A+,170.1,88.5,30.6,No,No,No,No,No,Never,2026-04-01,Follow-up,Emergency,Routine Checkup,Low,117.9,76.0,78.6,95.9,16.3,36.61,90.5,5.5,225.5,8.5,None,None
+P0057,Fahad Farooq,35,Male,A+,170.1,88.1,30.4,No,No,No,No,No,Never,2026-04-29,Routine,General Medicine,Routine Checkup,Low,118.3,76.4,64.5,96.1,18.3,36.77,83.3,5.16,227.6,8.03,None,None
+P0057,Fahad Farooq,35,Male,A+,170.1,90.5,31.3,No,No,No,No,No,Never,2026-05-28,Follow-up,Nephrology,Routine Checkup,Low,118.1,65.7,70.6,100.0,16.0,36.51,76.9,5.82,223.3,8.51,None,None
+P0057,Fahad Farooq,35,Male,A+,170.1,91.0,31.4,No,No,No,No,No,Never,2026-06-25,Follow-up,Cardiology,Respiratory Infection,Low,117.0,69.9,72.4,95.3,12.5,36.91,86.4,5.11,223.0,8.5,None,Pollen
+P0057,Fahad Farooq,35,Male,A+,170.1,86.1,29.8,No,No,No,No,No,Never,2026-07-26,Follow-up,Nephrology,Kidney Monitoring,Low,121.4,60.8,68.5,97.0,14.8,36.59,119.6,5.59,195.7,6.63,None,None
+P0058,Fatima Ali,48,Female,A+,170.4,62.1,21.4,No,Yes,No,No,No,Former,2026-01-20,Routine,General Medicine,Hyperlipidemia,Low,142.9,81.9,76.1,95.5,15.3,36.4,90.9,5.64,167.0,7.82,Losartan,Penicillin
+P0058,Fatima Ali,48,Female,A+,170.4,63.4,21.8,No,Yes,No,No,No,Former,2026-02-17,Routine,General Medicine,Hyperlipidemia,Medium,150.8,81.4,66.2,96.0,17.5,36.98,91.9,4.45,165.9,7.65,Losartan,None
+P0058,Fatima Ali,48,Female,A+,170.4,62.2,21.4,No,Yes,No,No,No,Former,2026-03-14,Routine,General Medicine,Respiratory Infection,Low,141.6,86.9,66.4,97.4,17.2,36.99,106.2,4.86,163.4,6.66,Losartan,None
+P0058,Fatima Ali,48,Female,A+,170.4,56.2,19.4,No,Yes,No,No,No,Former,2026-04-13,Screening,Pulmonology,Routine Checkup,Low,137.0,96.2,82.8,96.0,16.2,36.33,80.3,4.78,173.9,6.92,Amlodipine,Penicillin
+P0058,Fatima Ali,48,Female,A+,170.4,59.1,20.3,No,Yes,No,No,No,Former,2026-05-13,Follow-up,General Medicine,Routine Checkup,Low,142.4,82.9,60.8,96.9,14.1,37.12,91.3,5.44,197.6,6.15,Lisinopril,None
+P0058,Fatima Ali,48,Female,A+,170.4,62.7,21.6,No,Yes,No,No,No,Former,2026-06-07,Screening,General Medicine,Asthma,Low,134.5,86.3,77.5,97.7,16.5,36.86,110.3,5.72,177.4,7.26,Losartan,None
+P0058,Fatima Ali,48,Female,A+,170.4,62.5,21.5,No,Yes,No,No,No,Former,2026-07-08,Routine,General Medicine,Routine Checkup,Low,147.9,76.5,78.1,94.5,15.4,37.16,95.1,5.23,191.7,5.38,Losartan,None
+P0058,Fatima Ali,48,Female,A+,170.4,59.8,20.6,No,Yes,No,No,No,Former,2026-08-01,Routine,Pulmonology,Hypertension,Low,130.7,90.2,72.2,96.4,15.2,36.56,92.9,4.76,173.3,6.74,Losartan,Pollen
+P0058,Fatima Ali,48,Female,A+,170.4,65.3,22.5,No,Yes,No,No,No,Former,2026-09-02,Routine,Endocrinology,Routine Checkup,Low,130.5,80.0,65.6,98.1,15.4,36.76,130.0,5.2,190.7,7.62,Losartan,Penicillin
+P0058,Fatima Ali,48,Female,A+,170.4,60.5,20.8,No,Yes,No,No,No,Former,2026-09-29,Follow-up,Pulmonology,Routine Checkup,Low,130.3,80.0,69.4,94.6,15.7,36.57,111.9,5.35,165.3,6.64,Lisinopril,Dust
+P0058,Fatima Ali,48,Female,A+,170.4,61.8,21.3,No,Yes,No,No,No,Former,2026-10-27,Routine,General Medicine,Respiratory Infection,Low,139.3,91.0,78.2,99.4,15.9,36.63,80.5,5.44,180.1,7.75,Losartan,None
+P0059,Maham Butt,60,Female,A+,160.2,75.2,29.3,No,Yes,No,No,No,Never,2026-01-19,Routine,General Medicine,Routine Checkup,Low,140.8,80.4,70.7,97.8,13.2,36.61,92.3,5.75,215.8,5.92,Amlodipine,None
+P0059,Maham Butt,60,Female,A+,160.2,78.1,30.4,No,Yes,No,No,No,Never,2026-02-12,Routine,Nephrology,Kidney Monitoring,Low,140.7,78.4,67.9,98.4,15.4,36.67,102.1,5.98,208.2,8.19,Amlodipine,None
+P0059,Maham Butt,60,Female,A+,160.2,77.0,30.0,No,Yes,No,No,No,Never,2026-03-12,Emergency,General Medicine,Respiratory Infection,Medium,158.1,90.5,72.2,98.1,16.1,36.66,69.9,5.07,214.7,8.85,Losartan,None
+P0059,Maham Butt,60,Female,A+,160.2,78.8,30.7,No,Yes,No,No,No,Never,2026-04-13,Follow-up,Cardiology,Respiratory Infection,Low,142.2,82.1,82.7,97.6,16.5,36.6,100.6,5.26,215.2,7.83,Amlodipine,None
+P0059,Maham Butt,60,Female,A+,160.2,79.1,30.8,No,Yes,No,No,No,Never,2026-05-09,Routine,Cardiology,Chest Pain,Medium,158.4,77.3,85.6,96.8,16.5,36.35,115.0,5.21,206.9,5.16,Amlodipine,None
+P0059,Maham Butt,60,Female,A+,160.2,77.0,30.0,No,Yes,No,No,No,Never,2026-06-05,Routine,General Medicine,Respiratory Infection,Low,155.7,87.2,72.3,97.1,16.1,36.04,97.2,4.72,237.3,8.69,Losartan,None
+P0059,Maham Butt,60,Female,A+,160.2,73.9,28.8,No,Yes,No,No,No,Never,2026-07-02,Follow-up,Pulmonology,Hypertension,Medium,151.7,94.5,82.0,98.0,17.8,36.71,68.9,5.21,219.2,6.96,Lisinopril,None
+P0059,Maham Butt,60,Female,A+,160.2,78.0,30.4,No,Yes,No,No,No,Never,2026-07-31,Routine,Cardiology,Kidney Monitoring,Low,146.5,82.1,75.9,98.8,13.7,36.82,108.1,5.38,237.6,9.14,Amlodipine,None
+P0059,Maham Butt,60,Female,A+,160.2,78.3,30.5,No,Yes,No,No,No,Never,2026-08-27,Routine,General Medicine,Hypertension,Low,138.3,84.7,69.3,96.2,16.5,36.8,114.7,4.9,197.6,8.65,Amlodipine,None
+P0060,Ahmed Nawaz,48,Male,A+,166.7,76.1,27.4,No,Yes,No,No,No,Never,2026-01-16,Follow-up,Cardiology,Hypertension,Low,134.2,91.7,80.9,96.1,16.9,36.9,139.2,4.94,233.8,7.12,Lisinopril,Pollen
+P0060,Ahmed Nawaz,48,Male,A+,166.7,75.2,27.1,No,Yes,No,No,No,Never,2026-02-13,Routine,General Medicine,Routine Checkup,Low,139.6,81.9,71.1,97.0,16.3,36.98,104.1,4.71,197.9,7.27,Amlodipine,None
+P0060,Ahmed Nawaz,48,Male,A+,166.7,74.2,26.7,No,Yes,No,No,No,Never,2026-03-14,Screening,General Medicine,Hypertension,Low,130.4,84.3,90.2,97.3,14.7,36.8,92.2,4.86,215.9,8.17,Lisinopril,None
+P0060,Ahmed Nawaz,48,Male,A+,166.7,67.8,24.4,No,Yes,No,No,No,Never,2026-04-08,Routine,General Medicine,Hyperlipidemia,Low,154.8,85.5,74.1,98.1,16.7,36.89,93.6,4.77,183.0,8.53,Losartan,None
+P0060,Ahmed Nawaz,48,Male,A+,166.7,73.1,26.3,No,Yes,No,No,No,Never,2026-05-09,Follow-up,Nephrology,Routine Checkup,Low,126.9,81.9,73.4,97.2,17.7,37.16,122.7,5.52,175.3,6.48,Losartan,None
+P0060,Ahmed Nawaz,48,Male,A+,166.7,74.6,26.8,No,Yes,No,No,No,Never,2026-06-07,Follow-up,General Medicine,Hypertension,Low,146.7,89.0,71.8,96.2,14.7,36.53,103.9,5.38,152.5,6.6,Amlodipine,None
+P0060,Ahmed Nawaz,48,Male,A+,166.7,73.8,26.6,No,Yes,No,No,No,Never,2026-07-04,Follow-up,General Medicine,Hyperlipidemia,Low,132.0,83.4,74.8,96.2,13.5,36.32,93.7,4.74,171.7,8.76,Losartan,None
+P0060,Ahmed Nawaz,48,Male,A+,166.7,72.7,26.2,No,Yes,No,No,No,Never,2026-07-30,Follow-up,Nephrology,Chest Pain,Low,140.9,93.1,68.8,96.2,13.9,36.73,78.9,5.04,161.6,8.17,Losartan,NSAIDs
+P0060,Ahmed Nawaz,48,Male,A+,166.7,72.2,26.0,No,Yes,No,No,No,Never,2026-08-27,Routine,General Medicine,Respiratory Infection,Low,153.4,89.3,71.2,100.0,14.6,36.99,77.0,5.11,153.7,7.36,Losartan,None
+P0061,Huzaifa Siddiqui,45,Male,A+,166.6,77.7,28.0,No,Yes,No,No,No,Current,2026-01-15,Routine,Emergency,Routine Checkup,Low,130.1,85.6,70.2,96.7,15.9,36.84,91.5,4.93,215.8,4.07,Amlodipine,None
+P0061,Huzaifa Siddiqui,45,Male,A+,166.6,77.2,27.8,No,Yes,No,No,No,Current,2026-02-11,Routine,General Medicine,Routine Checkup,Low,135.9,81.0,69.6,97.1,15.4,36.59,84.8,4.8,209.1,7.41,Losartan,None
+P0061,Huzaifa Siddiqui,45,Male,A+,166.6,82.1,29.6,No,Yes,No,No,No,Current,2026-03-12,Routine,Emergency,Routine Checkup,Low,134.1,78.8,62.8,98.8,18.7,36.47,89.1,5.09,230.0,5.81,Amlodipine,None
+P0061,Huzaifa Siddiqui,45,Male,A+,166.6,78.9,28.4,No,Yes,No,No,No,Current,2026-04-08,Screening,General Medicine,Hypertension,Low,125.7,79.8,72.6,94.7,15.5,36.61,95.5,5.01,190.1,5.28,Lisinopril,None
+P0061,Huzaifa Siddiqui,45,Male,A+,166.6,77.2,27.8,No,Yes,No,No,No,Current,2026-05-06,Routine,Pulmonology,Routine Checkup,Low,121.2,87.4,64.6,97.1,14.8,36.6,117.3,5.39,228.3,7.43,Lisinopril,Penicillin
+P0061,Huzaifa Siddiqui,45,Male,A+,166.6,77.0,27.7,No,Yes,No,No,No,Current,2026-06-05,Emergency,Pulmonology,Routine Checkup,Low,142.7,85.1,86.7,96.9,17.2,36.27,75.8,4.4,222.1,7.77,Lisinopril,None
+P0061,Huzaifa Siddiqui,45,Male,A+,166.6,77.4,27.9,No,Yes,No,No,No,Current,2026-07-04,Follow-up,Pulmonology,Diabetes Management,Low,133.5,83.4,66.1,96.8,14.3,36.96,108.2,5.7,178.7,9.0,Losartan,None
+P0061,Huzaifa Siddiqui,45,Male,A+,166.6,77.3,27.9,No,Yes,No,No,No,Current,2026-08-01,Routine,General Medicine,Routine Checkup,Low,130.7,77.1,78.8,97.8,18.0,36.8,60.4,4.76,216.4,6.73,Losartan,None
+P0061,Huzaifa Siddiqui,45,Male,A+,166.6,78.0,28.1,No,Yes,No,No,No,Current,2026-08-26,Screening,Endocrinology,Hypertension,Low,126.9,83.4,56.8,95.4,15.5,37.29,73.0,4.76,211.9,8.87,Losartan,None
+P0061,Huzaifa Siddiqui,45,Male,A+,166.6,76.4,27.5,No,Yes,No,No,No,Current,2026-09-23,Routine,General Medicine,Routine Checkup,Low,141.3,76.0,77.3,97.0,15.7,36.29,85.3,5.62,204.2,7.38,Amlodipine,Penicillin
+P0061,Huzaifa Siddiqui,45,Male,A+,166.6,75.9,27.3,No,Yes,No,No,No,Current,2026-10-20,Routine,General Medicine,Hyperlipidemia,Low,133.9,86.7,70.7,96.7,18.9,36.46,116.2,4.8,219.8,7.81,Amlodipine,None
+P0062,Huzaifa Butt,77,Male,B-,171.5,61.4,20.9,Yes,Yes,No,No,No,Current,2026-01-15,Routine,Endocrinology,Hyperlipidemia,High,145.5,87.1,66.4,95.7,17.6,36.61,105.0,6.78,212.5,6.34,Lisinopril; Glimepiride,None
+P0062,Huzaifa Butt,77,Male,B-,171.5,60.5,20.6,Yes,Yes,No,No,No,Current,2026-02-14,Follow-up,General Medicine,Hyperlipidemia,High,162.0,86.4,77.9,96.6,16.2,36.35,128.9,6.69,200.1,7.19,Losartan; Glimepiride,None
+P0062,Huzaifa Butt,77,Male,B-,171.5,64.0,21.8,Yes,Yes,No,No,No,Current,2026-03-13,Follow-up,General Medicine,Routine Checkup,High,153.0,88.8,74.8,96.9,13.5,36.43,153.9,7.03,165.7,7.45,Lisinopril; Metformin,None
+P0062,Huzaifa Butt,77,Male,B-,171.5,62.2,21.2,Yes,Yes,No,No,No,Current,2026-04-10,Emergency,Endocrinology,Routine Checkup,High,163.7,93.2,78.3,97.5,14.0,37.97,145.3,6.69,208.6,6.59,Amlodipine; Metformin,None
+P0062,Huzaifa Butt,77,Male,B-,171.5,61.7,21.0,Yes,Yes,No,No,No,Current,2026-05-10,Follow-up,General Medicine,Hyperlipidemia,High,159.4,94.4,74.8,94.7,14.5,37.05,119.2,7.31,208.7,6.37,Lisinopril; Metformin,None
+P0062,Huzaifa Butt,77,Male,B-,171.5,64.0,21.8,Yes,Yes,No,No,No,Current,2026-06-04,Emergency,Endocrinology,Routine Checkup,High,161.8,87.3,86.0,97.6,14.6,37.19,155.4,7.01,168.1,5.32,Amlodipine; Glimepiride,None
+P0062,Huzaifa Butt,77,Male,B-,171.5,64.8,22.0,Yes,Yes,No,No,No,Current,2026-07-02,Follow-up,General Medicine,Routine Checkup,High,152.0,89.6,75.1,96.8,16.6,36.77,139.8,7.97,212.4,6.02,Lisinopril; Metformin,None
+P0062,Huzaifa Butt,77,Male,B-,171.5,63.5,21.6,Yes,Yes,No,No,No,Current,2026-08-01,Routine,Endocrinology,Hyperlipidemia,High,157.4,94.7,74.2,97.2,15.2,36.9,153.4,6.98,193.9,8.69,Lisinopril; Glimepiride,None
+P0062,Huzaifa Butt,77,Male,B-,171.5,62.3,21.2,Yes,Yes,No,No,No,Current,2026-08-30,Follow-up,Endocrinology,Diabetes Management,High,153.6,99.6,76.7,96.4,17.1,36.78,157.6,6.82,199.4,7.0,Lisinopril; Metformin,None
+P0062,Huzaifa Butt,77,Male,B-,171.5,60.8,20.7,Yes,Yes,No,No,No,Current,2026-09-26,Emergency,Endocrinology,Hyperlipidemia,High,170.3,86.4,84.9,97.1,17.9,37.59,130.7,7.04,202.8,6.54,Lisinopril; Glimepiride,Pollen
+P0063,Sana Raza,28,Male,AB+,177.0,53.0,16.9,No,No,No,No,No,Current,2026-01-16,Routine,General Medicine,Diabetes Management,Low,106.8,75.7,80.8,96.8,15.5,36.82,82.3,4.74,198.7,6.65,None,None
+P0063,Sana Raza,28,Male,AB+,177.0,49.5,15.8,No,No,No,No,No,Current,2026-02-13,Emergency,General Medicine,Routine Checkup,Low,118.6,74.9,85.4,97.1,16.3,36.89,91.4,5.36,160.2,9.65,None,Dust
+P0063,Sana Raza,28,Male,AB+,177.0,48.5,15.5,No,No,No,No,No,Current,2026-03-09,Emergency,Cardiology,Respiratory Infection,Low,137.2,76.0,81.4,95.3,14.8,38.25,154.3,5.62,196.7,7.62,None,None
+P0063,Sana Raza,28,Male,AB+,177.0,51.4,16.4,No,No,No,No,No,Current,2026-04-10,Screening,General Medicine,Chest Pain,Low,104.1,68.6,68.3,95.6,15.2,36.43,100.7,5.43,154.7,6.8,None,None
+P0063,Sana Raza,28,Male,AB+,177.0,51.9,16.6,No,No,No,No,No,Current,2026-05-04,Follow-up,Cardiology,Asthma,Low,109.0,72.3,72.5,96.9,14.0,37.01,108.0,4.83,172.6,6.87,None,None
+P0063,Sana Raza,28,Male,AB+,177.0,51.6,16.5,No,No,No,No,No,Current,2026-06-03,Follow-up,Emergency,Chest Pain,Low,120.1,76.2,71.2,95.2,17.1,36.74,98.4,5.88,163.2,4.23,None,None
+P0063,Sana Raza,28,Male,AB+,177.0,50.5,16.1,No,No,No,No,No,Current,2026-07-03,Screening,General Medicine,Respiratory Infection,Low,103.3,74.6,69.5,96.4,14.9,36.77,92.6,5.27,181.2,7.03,None,None
+P0063,Sana Raza,28,Male,AB+,177.0,54.8,17.5,No,No,No,No,No,Current,2026-07-30,Screening,Pulmonology,Respiratory Infection,Low,102.6,69.9,72.6,96.7,17.6,36.62,88.5,5.49,210.6,8.51,None,None
+P0063,Sana Raza,28,Male,AB+,177.0,51.3,16.4,No,No,No,No,No,Current,2026-08-25,Routine,Emergency,Routine Checkup,Low,106.1,76.7,73.2,97.0,14.1,36.72,63.6,5.0,167.9,7.39,None,None
+P0063,Sana Raza,28,Male,AB+,177.0,54.3,17.3,No,No,No,No,No,Current,2026-09-24,Routine,General Medicine,Routine Checkup,Low,106.9,68.0,76.0,97.0,16.3,36.64,83.1,5.77,158.2,7.79,None,None
+P0063,Sana Raza,28,Male,AB+,177.0,50.2,16.0,No,No,No,No,No,Current,2026-10-20,Routine,General Medicine,Hyperlipidemia,Low,111.4,64.7,86.0,97.1,16.7,36.56,82.2,5.87,143.5,7.38,None,None
+P0063,Sana Raza,28,Male,AB+,177.0,46.2,14.7,No,No,No,No,No,Current,2026-11-17,Screening,Cardiology,Routine Checkup,Low,109.8,71.5,63.8,98.5,15.1,36.64,83.1,5.17,201.5,9.57,None,None
+P0064,Areeba Khan,54,Female,B+,158.5,45.3,18.0,No,No,No,No,No,Current,2026-01-13,Routine,Pulmonology,Hyperlipidemia,Low,117.4,76.8,72.8,97.2,14.6,36.92,90.7,5.35,156.5,6.92,None,None
+P0064,Areeba Khan,54,Female,B+,158.5,,17.4,No,No,No,No,No,Current,2026-02-07,Routine,Nephrology,Routine Checkup,Low,115.4,76.1,75.8,96.2,15.9,36.64,107.8,4.99,167.6,,None,None
+P0064,Areeba Khan,54,Female,B+,158.5,47.2,18.8,No,No,No,No,No,Current,2026-03-10,Routine,General Medicine,Diabetes Management,Low,113.7,80.0,73.4,96.5,16.5,36.27,113.9,,162.4,6.51,None,None
+P0064,Areeba Khan,54,Female,B+,158.5,47.0,18.7,No,No,No,No,No,Current,2026-04-07,Routine,Cardiology,Hypertension,Low,125.0,75.3,74.6,97.0,14.4,36.54,87.6,5.29,178.2,7.31,None,None
+P0064,Areeba Khan,54,Female,B+,158.5,45.2,18.0,No,No,No,No,No,Current,2026-05-04,Follow-up,Cardiology,Respiratory Infection,Low,145.0,77.8,71.6,96.0,18.3,36.41,98.4,5.03,174.6,5.68,None,None
+P0064,Areeba Khan,54,Female,B+,158.5,45.1,18.0,No,No,No,No,No,Current,2026-06-02,Follow-up,Endocrinology,Routine Checkup,Low,131.1,79.2,58.8,97.7,15.8,36.62,90.4,4.64,181.5,5.74,None,Pollen
+P0064,Areeba Khan,54,Female,B+,158.5,47.1,18.7,No,No,No,No,No,Current,2026-06-30,Follow-up,Emergency,Asthma,Low,131.8,74.7,65.3,95.6,16.4,36.52,110.0,4.96,161.8,7.33,None,None
+P0064,Areeba Khan,54,Female,B+,158.5,44.7,17.8,No,No,No,No,No,Current,2026-07-29,Emergency,Pulmonology,Respiratory Infection,Low,119.5,78.8,89.5,96.9,16.9,36.65,107.5,5.1,182.4,6.79,None,Pollen
+P0064,Areeba Khan,54,Female,B+,158.5,43.7,17.4,No,No,No,No,No,Current,2026-08-23,Screening,General Medicine,Diabetes Management,Low,125.5,75.8,62.1,98.2,19.2,37.02,108.3,5.28,162.8,7.17,None,None
+P0064,Areeba Khan,54,Female,B+,158.5,42.7,17.0,No,No,No,No,No,Current,2026-09-21,Routine,General Medicine,Routine Checkup,Low,123.4,74.3,72.4,98.1,14.8,36.97,93.5,6.01,183.7,7.0,None,None
+P0064,Areeba Khan,54,Female,B+,158.5,42.0,16.7,No,No,No,No,No,Current,2026-10-19,Screening,General Medicine,Diabetes Management,Low,124.7,66.5,69.9,97.2,16.1,36.6,90.7,4.93,178.2,7.16,None,None
+P0065,Omar Iqbal,52,Female,A-,166.9,59.5,21.4,No,Yes,No,No,No,Former,2026-01-13,Routine,General Medicine,Routine Checkup,Low,135.3,82.6,68.8,96.0,13.4,36.58,113.1,5.27,206.1,7.85,Lisinopril,Dust
+P0065,Omar Iqbal,52,Female,A-,166.9,61.0,21.9,No,Yes,No,No,No,Former,2026-02-10,Follow-up,General Medicine,Hypertension,Low,140.1,82.2,75.5,96.2,16.8,36.8,97.2,5.4,151.2,7.26,Amlodipine,None
+P0065,Omar Iqbal,52,Female,A-,166.9,57.5,20.6,No,Yes,No,No,No,Former,2026-03-09,Routine,General Medicine,Chest Pain,Low,134.6,87.1,75.9,97.6,16.0,36.74,103.5,5.32,185.6,8.19,Lisinopril,None
+P0065,Omar Iqbal,52,Female,A-,166.9,54.8,19.7,No,Yes,No,No,No,Former,2026-04-09,Routine,Emergency,Hypertension,Low,146.5,93.0,64.4,97.1,15.4,36.63,104.6,4.75,158.1,6.8,Lisinopril,None
+P0065,Omar Iqbal,52,Female,A-,166.9,57.7,20.7,No,Yes,No,No,No,Former,2026-05-07,Follow-up,Endocrinology,Routine Checkup,Low,146.0,80.7,63.6,96.7,16.1,36.39,79.2,5.26,164.4,5.65,Losartan,None
+P0065,Omar Iqbal,52,Female,A-,166.9,57.5,20.6,No,Yes,No,No,No,Former,2026-06-03,Emergency,General Medicine,Routine Checkup,Low,131.8,79.7,84.7,95.4,13.3,36.69,83.2,5.28,177.7,7.84,Losartan,None
+P0065,Omar Iqbal,52,Female,A-,166.9,59.2,21.2,No,Yes,No,No,No,Former,2026-06-29,Routine,General Medicine,Diabetes Management,Low,143.5,88.8,59.5,98.6,15.7,37.01,69.5,5.29,167.9,7.67,Lisinopril,None
+P0065,Omar Iqbal,52,Female,A-,166.9,58.6,21.0,No,Yes,No,No,No,Former,2026-07-27,Routine,General Medicine,Hyperlipidemia,Low,147.0,86.2,64.3,97.1,19.9,37.11,55.4,5.22,194.8,6.92,Lisinopril,None
+P0066,Anaya Hassan,47,Male,B+,181.3,63.6,19.4,Yes,No,No,No,No,Former,2026-01-09,Screening,Endocrinology,Routine Checkup,Low,117.3,77.7,76.7,99.3,18.1,36.75,116.6,7.57,189.4,6.44,Metformin,None
+P0066,Anaya Hassan,47,Male,B+,181.3,66.7,20.3,Yes,No,No,No,No,Former,2026-02-07,Routine,General Medicine,Diabetes Management,Low,112.5,67.4,73.3,97.1,15.2,36.58,135.8,7.49,182.0,7.19,Glimepiride,None
+P0066,Anaya Hassan,47,Male,B+,181.3,67.6,20.6,Yes,No,No,No,No,Former,2026-03-07,Follow-up,Nephrology,Routine Checkup,Low,121.6,78.2,64.9,97.0,18.1,37.22,149.2,6.59,204.1,6.62,Glimepiride,None
+P0066,Anaya Hassan,47,Male,B+,181.3,67.8,20.6,Yes,No,No,No,No,Former,2026-04-02,Routine,Endocrinology,Hyperlipidemia,Medium,124.2,76.5,74.4,97.5,15.6,36.72,156.1,7.05,196.8,7.2,Glimepiride,None
+P0066,Anaya Hassan,47,Male,B+,181.3,65.8,20.0,Yes,No,No,No,No,Former,2026-04-30,Follow-up,Endocrinology,Hyperlipidemia,Low,122.1,78.3,70.7,95.0,16.9,36.73,115.1,7.27,170.8,8.15,Glimepiride,None
+P0066,Anaya Hassan,47,Male,B+,181.3,65.8,20.0,Yes,No,No,No,No,Former,2026-05-30,Emergency,General Medicine,Hyperlipidemia,Low,125.8,73.0,66.4,97.3,15.6,37.32,113.1,7.27,172.6,7.23,Metformin,None
+P0066,Anaya Hassan,47,Male,B+,181.3,68.6,20.9,Yes,No,No,No,No,Former,2026-06-26,Routine,Endocrinology,Routine Checkup,Low,109.7,75.4,66.3,95.9,16.4,36.56,111.7,7.46,212.6,5.17,Glimepiride,None
+P0066,Anaya Hassan,47,Male,B+,181.3,67.5,20.5,Yes,No,No,No,No,Former,2026-07-24,Follow-up,General Medicine,Hyperlipidemia,Low,114.2,77.9,64.3,98.3,16.6,36.49,142.1,7.78,192.1,7.65,Metformin,None
+P0066,Anaya Hassan,47,Male,B+,181.3,70.1,21.3,Yes,No,No,No,No,Former,2026-08-23,Screening,General Medicine,Diabetes Management,Low,108.8,74.0,79.7,96.8,15.7,36.49,116.0,6.36,184.7,6.11,Glimepiride,None
+P0066,Anaya Hassan,47,Male,B+,181.3,65.8,20.0,Yes,No,No,No,No,Former,2026-09-16,Routine,Endocrinology,Routine Checkup,Low,113.9,75.8,78.4,97.1,15.1,36.67,99.2,6.95,188.8,6.17,Glimepiride,None
+P0066,Anaya Hassan,47,Male,B+,181.3,65.8,20.0,Yes,No,No,No,No,Former,2026-10-15,Screening,Endocrinology,Routine Checkup,Medium,117.9,79.4,72.9,97.1,16.8,36.55,150.5,7.0,180.6,6.87,Metformin,None
+P0066,Anaya Hassan,47,Male,B+,181.3,67.8,20.6,Yes,No,No,No,No,Former,2026-11-15,Routine,General Medicine,Routine Checkup,Low,115.2,79.5,74.1,96.1,15.9,36.56,135.2,7.66,189.3,7.63,Metformin,None
+P0067,Zain Iqbal,68,Female,O+,161.3,72.1,27.7,Yes,No,No,No,Yes,Former,2026-01-19,Follow-up,Endocrinology,Routine Checkup,Medium,126.7,80.7,68.5,96.1,18.0,37.16,126.7,7.12,227.0,8.83,Metformin,None
+P0067,Zain Iqbal,68,Female,O+,161.3,73.1,28.1,Yes,No,No,No,Yes,Former,2026-02-17,Follow-up,General Medicine,Routine Checkup,Medium,128.3,83.6,79.2,97.0,16.2,36.27,119.3,7.32,227.1,7.47,Glimepiride,None
+P0067,Zain Iqbal,68,Female,O+,161.3,72.7,27.9,Yes,No,No,No,Yes,Former,2026-03-17,Follow-up,Nephrology,Hyperlipidemia,Medium,124.3,80.5,69.6,97.1,17.8,36.79,148.3,6.77,211.2,7.12,Metformin,None
+P0067,Zain Iqbal,68,Female,O+,161.3,72.1,27.7,Yes,No,No,No,Yes,Former,2026-04-16,Emergency,Endocrinology,Hyperlipidemia,Medium,143.7,82.8,88.4,95.2,16.6,38.38,133.8,7.32,238.5,7.41,Glimepiride,Penicillin
+P0067,Zain Iqbal,68,Female,O+,161.3,68.2,26.2,Yes,No,No,No,Yes,Former,2026-05-14,Follow-up,Endocrinology,Diabetes Management,Medium,123.1,83.6,63.5,95.1,17.4,36.74,137.1,6.85,171.1,5.91,Metformin,Dust
+P0067,Zain Iqbal,68,Female,O+,161.3,,26.8,Yes,No,No,No,Yes,Former,2026-06-10,Follow-up,Nephrology,Hyperlipidemia,Medium,135.6,82.1,69.9,97.2,16.4,36.09,139.7,7.05,206.2,5.81,Metformin,None
+P0067,Zain Iqbal,68,Female,O+,161.3,70.3,27.0,Yes,No,No,No,Yes,Former,2026-07-07,Follow-up,Endocrinology,Routine Checkup,Medium,128.5,75.0,77.4,97.9,17.1,36.91,126.5,6.93,214.3,7.27,Metformin,None
+P0067,Zain Iqbal,68,Female,O+,161.3,72.5,27.9,Yes,No,No,No,Yes,Former,2026-08-05,Follow-up,Endocrinology,Diabetes Management,Medium,128.0,70.4,76.3,96.2,15.6,36.26,116.5,6.47,218.2,6.71,Metformin,None
+P0067,Zain Iqbal,68,Female,O+,161.3,69.4,26.7,Yes,No,No,No,Yes,Former,2026-09-01,Routine,Endocrinology,Routine Checkup,Medium,132.2,79.5,73.2,96.3,15.7,37.0,119.4,6.64,194.9,5.97,Metformin,None
+P0067,Zain Iqbal,68,Female,O+,161.3,65.3,25.1,Yes,No,No,No,Yes,Former,2026-09-30,Routine,Nephrology,Diabetes Management,Medium,136.0,80.1,68.0,97.2,16.3,36.44,135.0,7.42,191.9,6.23,Glimepiride,Dust
+P0067,Zain Iqbal,68,Female,O+,161.3,70.1,26.9,Yes,No,No,No,Yes,Former,2026-10-27,Routine,General Medicine,Diabetes Management,Medium,128.2,80.8,68.6,96.4,18.3,36.35,137.3,7.61,208.3,5.77,Glimepiride,None
+P0067,Zain Iqbal,68,Female,O+,161.3,67.4,25.9,Yes,No,No,No,Yes,Former,2026-11-27,Screening,General Medicine,Diabetes Management,High,127.2,78.7,83.9,96.1,14.5,36.42,139.5,6.99,179.9,6.74,Glimepiride,None
+P0068,Anaya Javed,34,Male,O+,160.6,103.2,40.0,No,No,No,No,No,Never,2026-01-16,Routine,General Medicine,Hypertension,Low,114.3,76.7,73.8,96.8,14.6,36.66,104.6,5.02,215.9,6.02,None,None
+P0068,Anaya Javed,34,Male,O+,160.6,98.7,38.3,No,No,No,No,No,Never,2026-02-13,Follow-up,General Medicine,Routine Checkup,Low,106.7,72.5,84.8,96.3,16.7,36.77,83.2,5.26,199.9,6.74,None,Dust
+P0068,Anaya Javed,34,Male,O+,160.6,102.5,39.7,No,No,No,No,No,Never,2026-03-15,Screening,General Medicine,Respiratory Infection,Low,118.3,72.5,68.2,96.5,13.8,36.63,94.2,5.8,217.5,6.24,None,None
+P0068,Anaya Javed,34,Male,O+,160.6,100.5,39.0,No,No,No,No,No,Never,2026-04-10,Emergency,General Medicine,Routine Checkup,Low,134.3,64.8,93.0,94.9,17.2,36.63,90.3,5.12,212.6,7.56,None,None
+P0068,Anaya Javed,34,Male,O+,160.6,101.0,39.2,No,No,No,No,No,Never,2026-05-08,Routine,General Medicine,Hypertension,Low,117.7,72.6,74.5,97.9,16.0,35.96,117.2,5.1,193.2,5.98,None,None
+P0068,Anaya Javed,34,Male,O+,160.6,104.3,40.4,No,No,No,No,No,Never,2026-06-07,Routine,General Medicine,Diabetes Management,Low,119.9,78.4,69.7,97.1,16.6,36.54,85.6,5.5,227.6,7.17,None,None
+P0068,Anaya Javed,34,Male,O+,160.6,100.1,38.8,No,No,No,No,No,Never,2026-07-03,Follow-up,General Medicine,Routine Checkup,Low,115.9,74.9,73.5,95.8,15.6,36.8,115.7,5.1,217.9,7.98,None,None
+P0068,Anaya Javed,34,Male,O+,160.6,104.7,40.6,No,No,No,No,No,Never,2026-08-02,Follow-up,Cardiology,Routine Checkup,Low,109.9,83.4,76.6,98.3,15.5,36.91,113.4,4.82,205.1,4.96,None,Penicillin
+P0068,Anaya Javed,34,Male,O+,160.6,105.7,41.0,No,No,No,No,No,Never,2026-08-29,Follow-up,General Medicine,Routine Checkup,Low,126.2,65.6,75.3,97.8,15.5,36.74,96.1,,189.4,7.27,None,Pollen
+P0069,Ali Hassan,78,Male,A+,169.8,90.5,31.4,Yes,No,No,No,No,Never,2026-01-15,Follow-up,General Medicine,Diabetes Management,Medium,132.9,91.2,61.9,98.7,16.1,36.84,150.0,7.3,212.9,7.7,Glimepiride,None
+P0069,Ali Hassan,78,Male,A+,169.8,87.7,30.4,Yes,No,No,No,No,Never,2026-02-14,Routine,General Medicine,Routine Checkup,Medium,136.8,71.8,69.5,96.7,14.4,36.89,126.7,6.78,220.1,7.46,Metformin,None
+P0069,Ali Hassan,78,Male,A+,169.8,88.7,30.8,Yes,No,No,No,No,Never,2026-03-14,Follow-up,General Medicine,Routine Checkup,Medium,142.5,84.5,70.6,97.7,14.5,36.46,126.2,7.52,228.9,6.82,Glimepiride,None
+P0069,Ali Hassan,78,Male,A+,169.8,87.3,30.3,Yes,No,No,No,No,Never,2026-04-08,Emergency,Nephrology,Routine Checkup,Medium,138.8,80.4,76.2,98.6,16.5,36.82,123.1,6.8,244.5,5.42,Metformin,None
+P0069,Ali Hassan,78,Male,A+,169.8,86.2,29.9,Yes,No,No,No,No,Never,2026-05-07,Follow-up,General Medicine,Diabetes Management,Medium,143.6,80.6,77.5,96.2,16.0,36.67,115.0,6.55,215.6,7.23,Metformin,None
+P0069,Ali Hassan,78,Male,A+,169.8,90.3,31.3,Yes,No,No,No,No,Never,2026-06-05,Follow-up,Endocrinology,Diabetes Management,Medium,137.8,82.8,67.0,98.6,19.1,36.74,168.9,6.76,203.5,6.39,Glimepiride,None
+P0069,Ali Hassan,78,Male,A+,169.8,91.0,31.6,Yes,No,No,No,No,Never,2026-07-04,Routine,General Medicine,Routine Checkup,Medium,145.4,79.2,60.7,95.9,18.6,36.87,131.0,7.65,261.2,7.06,Glimepiride,None
+P0069,Ali Hassan,78,Male,A+,169.8,85.7,29.7,Yes,No,No,No,No,Never,2026-07-30,Routine,General Medicine,Diabetes Management,Medium,146.0,73.8,83.7,96.3,18.6,36.61,106.5,7.45,251.2,6.19,Metformin,None
+P0070,Maham Raza,38,Female,A+,175.6,59.4,19.2,No,No,No,No,No,Never,2026-01-12,Follow-up,General Medicine,Routine Checkup,Low,126.3,67.9,76.3,97.0,16.4,36.52,86.7,5.2,168.6,7.43,None,None
+P0070,Maham Raza,38,Female,A+,175.6,60.0,19.5,No,No,No,No,No,Never,2026-02-05,Screening,Pulmonology,Routine Checkup,Low,130.5,81.0,69.0,97.7,15.1,36.7,102.1,5.59,194.1,7.17,None,None
+P0070,Maham Raza,38,Female,A+,175.6,60.2,19.5,No,No,No,No,No,Never,2026-03-06,Routine,Emergency,Asthma,Low,117.5,70.9,69.3,96.2,16.7,36.68,98.5,5.32,170.3,5.64,None,NSAIDs
+P0070,Maham Raza,38,Female,A+,175.6,60.2,19.5,No,No,No,No,No,Never,2026-04-04,Routine,General Medicine,Routine Checkup,Low,110.7,67.0,68.5,98.3,17.3,36.46,87.3,5.46,167.7,7.18,None,Pollen
+P0070,Maham Raza,38,Female,A+,175.6,58.1,18.8,No,No,No,No,No,Never,2026-05-04,Routine,General Medicine,Routine Checkup,Low,105.5,73.0,76.9,95.6,16.4,36.9,64.4,5.11,207.6,7.65,None,None
+P0070,Maham Raza,38,Female,A+,175.6,60.0,19.4,No,No,No,No,No,Never,2026-05-30,Follow-up,Endocrinology,Kidney Monitoring,Low,112.6,73.6,68.6,96.8,14.2,36.82,94.6,4.63,195.9,6.92,None,None
+P0070,Maham Raza,38,Female,A+,175.6,61.8,20.1,No,No,No,No,No,Never,2026-06-25,Follow-up,General Medicine,Hyperlipidemia,Low,117.3,76.1,74.4,98.2,17.1,36.59,82.4,5.18,164.3,6.05,None,NSAIDs
+P0070,Maham Raza,38,Female,A+,175.6,60.6,19.7,No,No,No,No,No,Never,2026-07-25,Follow-up,General Medicine,Routine Checkup,Low,116.1,66.1,72.0,98.9,18.3,36.77,74.8,4.86,162.7,8.38,None,None
+P0070,Maham Raza,38,Female,A+,175.6,59.9,19.4,No,No,No,No,No,Never,2026-08-21,Follow-up,General Medicine,Hypertension,Low,119.6,69.3,68.2,96.3,18.1,37.18,93.7,5.11,167.2,7.1,None,None
+P0070,Maham Raza,38,Female,A+,175.6,59.4,19.3,No,No,No,No,No,Never,2026-09-18,Follow-up,General Medicine,Diabetes Management,Low,114.2,71.4,76.6,95.2,18.4,36.73,101.2,5.45,165.3,6.19,None,None
+P0071,Fahad Siddiqui,52,Female,A+,168.1,73.3,26.0,No,No,No,No,No,Former,2026-01-12,Routine,General Medicine,Hyperlipidemia,Low,117.0,81.7,68.5,96.5,12.5,36.29,109.9,5.42,154.6,6.47,None,None
+P0071,Fahad Siddiqui,52,Female,A+,168.1,79.8,28.2,No,No,No,No,No,Former,2026-02-07,Follow-up,Endocrinology,Routine Checkup,Low,130.2,68.6,72.3,96.7,15.9,36.65,82.1,4.14,228.9,7.43,None,None
+P0071,Fahad Siddiqui,52,Female,A+,168.1,79.6,28.2,No,No,No,No,No,Former,2026-03-05,Screening,General Medicine,Diabetes Management,Low,118.5,70.9,78.8,96.8,15.8,36.87,82.0,5.04,213.5,5.56,None,None
+P0071,Fahad Siddiqui,52,Female,A+,168.1,75.7,26.8,No,No,No,No,No,Former,2026-04-03,Screening,Emergency,Diabetes Management,Low,123.4,70.5,71.8,94.7,13.7,37.0,97.5,5.08,161.6,6.02,None,None
+P0071,Fahad Siddiqui,52,Female,A+,168.1,78.1,27.7,No,No,No,No,No,Former,2026-05-04,Routine,Nephrology,Routine Checkup,Low,124.5,69.5,69.8,97.2,15.4,36.58,96.9,5.73,210.6,8.24,None,None
+P0071,Fahad Siddiqui,52,Female,A+,168.1,79.4,28.1,No,No,No,No,No,Former,2026-05-31,Routine,Emergency,Hyperlipidemia,Low,129.6,77.0,77.3,96.4,17.3,36.95,102.2,5.25,220.8,6.21,None,None
+P0071,Fahad Siddiqui,52,Female,A+,168.1,77.5,27.4,No,No,No,No,No,Former,2026-06-29,Routine,General Medicine,Routine Checkup,Low,124.4,72.7,72.5,97.1,14.8,36.84,80.5,6.0,206.0,5.93,None,None
+P0071,Fahad Siddiqui,52,Female,A+,168.1,77.5,27.4,No,No,No,No,No,Former,2026-07-25,Follow-up,General Medicine,Routine Checkup,Low,128.7,81.1,73.6,99.4,13.4,36.5,88.2,5.99,240.4,8.39,None,None
+P0071,Fahad Siddiqui,52,Female,A+,168.1,77.7,27.5,No,No,No,No,No,Former,2026-08-20,Follow-up,General Medicine,Respiratory Infection,Low,123.3,80.3,62.0,97.1,14.4,36.63,83.2,4.98,212.1,7.32,None,Dust
+P0072,Usman Butt,50,Female,A+,180.0,66.2,20.4,No,Yes,No,No,No,Never,2026-01-19,Emergency,Cardiology,Routine Checkup,Low,164.8,82.6,82.6,96.4,17.9,36.55,121.0,4.83,172.7,8.5,Losartan,None
+P0072,Usman Butt,50,Female,A+,180.0,69.6,21.5,No,Yes,No,No,No,Never,2026-02-19,Routine,Pulmonology,Routine Checkup,Low,127.7,88.0,75.2,99.0,17.6,36.79,120.4,5.39,169.7,5.96,Amlodipine,None
+P0072,Usman Butt,50,Female,A+,180.0,69.0,21.3,No,Yes,No,No,No,Never,2026-03-18,Routine,Endocrinology,Asthma,Low,150.4,85.9,66.5,95.2,17.0,36.48,113.0,5.69,150.2,7.65,Losartan,None
+P0072,Usman Butt,50,Female,A+,180.0,68.9,21.3,No,Yes,No,No,No,Never,2026-04-12,Routine,General Medicine,Diabetes Management,Low,141.9,71.5,70.2,97.8,16.2,36.74,94.5,4.83,177.7,7.15,Amlodipine,None
+P0072,Usman Butt,50,Female,A+,180.0,68.8,21.2,No,Yes,No,No,No,Never,2026-05-13,Routine,General Medicine,Respiratory Infection,Low,139.9,87.5,64.4,98.8,17.1,36.63,86.0,5.58,158.2,9.36,Losartan,None
+P0072,Usman Butt,50,Female,A+,180.0,67.9,20.9,No,Yes,No,No,No,Never,2026-06-09,Follow-up,Pulmonology,Routine Checkup,Low,144.6,88.3,78.6,96.5,16.1,37.01,89.4,5.4,174.1,7.31,Amlodipine,Pollen
+P0072,Usman Butt,50,Female,A+,180.0,69.6,21.5,No,Yes,No,No,No,Never,2026-07-09,Routine,Cardiology,Routine Checkup,Low,141.0,81.2,67.1,99.0,14.5,36.73,105.4,5.09,160.0,6.32,Losartan,None
+P0072,Usman Butt,50,Female,A+,180.0,67.9,20.9,No,Yes,No,No,No,Never,2026-08-02,Routine,General Medicine,Diabetes Management,Low,143.7,83.3,77.4,95.7,17.8,36.7,99.3,4.96,155.9,5.43,Lisinopril,None
+P0073,Rayan Nawaz,71,Male,B+,175.7,71.2,23.1,No,Yes,Yes,Yes,No,Never,2026-01-14,Screening,Cardiology,Hypertension,High,154.4,97.5,82.2,94.6,20.1,36.97,93.8,5.17,172.5,5.59,Lisinopril; Salbutamol; Aspirin,NSAIDs
+P0073,Rayan Nawaz,71,Male,B+,175.7,66.6,21.6,No,Yes,Yes,Yes,No,Never,2026-02-14,Screening,Emergency,Chest Pain,High,164.6,86.8,79.8,93.2,19.1,36.91,108.7,5.39,163.8,7.39,Lisinopril; Salbutamol; Atorvastatin,Penicillin
+P0073,Rayan Nawaz,71,Male,B+,175.7,69.8,22.6,No,Yes,Yes,Yes,No,Never,2026-03-11,Follow-up,General Medicine,Chest Pain,High,153.8,98.9,82.4,92.5,18.3,37.0,113.6,4.8,165.7,7.57,Amlodipine; Salbutamol; Atorvastatin,Dust
+P0073,Rayan Nawaz,71,Male,B+,175.7,70.7,22.9,No,Yes,Yes,Yes,No,Never,2026-04-11,Routine,General Medicine,Hypertension,High,149.6,90.6,77.7,93.2,18.2,36.41,79.1,5.39,183.2,7.21,Losartan; Salbutamol; Atorvastatin,NSAIDs
+P0073,Rayan Nawaz,71,Male,B+,175.7,68.7,22.2,No,Yes,Yes,Yes,No,Never,2026-05-05,Routine,Emergency,Chest Pain,High,137.5,98.5,85.7,92.5,16.4,36.41,106.7,5.17,190.4,7.19,Amlodipine; Salbutamol; Atorvastatin,None
+P0073,Rayan Nawaz,71,Male,B+,175.7,68.9,22.3,No,Yes,Yes,Yes,No,Never,2026-06-05,Follow-up,Cardiology,Chest Pain,High,165.1,102.6,80.0,92.4,15.6,36.92,91.7,6.24,164.7,9.21,Lisinopril; Salbutamol; Atorvastatin,Dust
+P0073,Rayan Nawaz,71,Male,B+,175.7,70.9,23.0,No,Yes,Yes,Yes,No,Never,2026-07-03,Routine,Cardiology,Chest Pain,High,161.7,93.1,74.0,92.9,18.8,36.23,102.5,5.17,154.7,6.77,Lisinopril; Salbutamol; Atorvastatin,Penicillin
+P0073,Rayan Nawaz,71,Male,B+,175.7,66.0,21.4,No,Yes,Yes,Yes,No,Never,2026-07-30,Routine,General Medicine,Chest Pain,High,162.3,89.9,79.0,91.9,18.6,36.97,114.0,5.76,209.1,5.05,Losartan; Salbutamol; Aspirin,Penicillin
+P0073,Rayan Nawaz,71,Male,B+,175.7,70.0,22.7,No,Yes,Yes,Yes,No,Never,2026-08-25,Follow-up,Cardiology,Hypertension,High,147.2,86.9,81.0,94.2,18.5,36.5,67.8,5.53,164.8,5.95,Lisinopril; Salbutamol; Aspirin,None
+P0073,Rayan Nawaz,71,Male,B+,175.7,69.6,22.5,No,Yes,Yes,Yes,No,Never,2026-09-22,Routine,Cardiology,Routine Checkup,High,155.8,104.3,70.8,93.2,18.8,36.44,101.4,5.47,179.7,8.48,Amlodipine; Salbutamol; Aspirin,None
+P0073,Rayan Nawaz,71,Male,B+,175.7,65.7,21.3,No,Yes,Yes,Yes,No,Never,2026-10-23,Routine,Cardiology,Chest Pain,High,163.1,98.5,77.0,95.6,18.8,36.15,105.7,4.95,199.0,7.65,Losartan; Salbutamol; Atorvastatin,None
+P0073,Rayan Nawaz,71,Male,B+,175.7,70.0,22.7,No,Yes,Yes,Yes,No,Never,2026-11-21,Follow-up,Cardiology,Chest Pain,High,155.0,91.5,81.2,91.9,15.2,36.76,70.2,4.85,146.1,5.45,Lisinopril; Salbutamol; Aspirin,None
+P0074,Anaya Siddiqui,45,Male,B+,175.6,76.3,24.8,Yes,No,Yes,No,No,Former,2026-01-18,Follow-up,Cardiology,Routine Checkup,Medium,121.8,73.7,77.4,97.9,15.3,36.7,110.3,7.44,211.7,7.91,Glimepiride; Aspirin,None
+P0074,Anaya Siddiqui,45,Male,B+,175.6,72.4,23.5,Yes,No,Yes,No,No,Former,2026-02-13,Follow-up,Cardiology,Routine Checkup,High,130.4,76.1,82.4,95.9,13.4,36.77,133.2,7.13,206.4,8.6,Metformin; Atorvastatin,None
+P0074,Anaya Siddiqui,45,Male,B+,175.6,77.1,25.0,Yes,No,Yes,No,No,Former,2026-03-16,Routine,General Medicine,Routine Checkup,Medium,129.0,79.1,90.0,94.8,17.7,36.67,107.8,6.93,186.2,7.68,Glimepiride; Atorvastatin,None
+P0074,Anaya Siddiqui,45,Male,B+,175.6,76.7,24.9,Yes,No,Yes,No,No,Former,2026-04-09,Follow-up,Cardiology,Routine Checkup,Medium,127.0,82.5,73.5,95.6,15.7,36.33,131.9,6.85,191.6,7.46,Glimepiride; Aspirin,None
+P0074,Anaya Siddiqui,45,Male,B+,175.6,75.8,24.6,Yes,No,Yes,No,No,Former,2026-05-11,Follow-up,General Medicine,Hypertension,Medium,131.4,80.6,70.7,96.8,17.4,36.47,148.4,7.11,193.2,7.46,Metformin; Atorvastatin,Pollen
+P0074,Anaya Siddiqui,45,Male,B+,175.6,77.1,25.0,Yes,No,Yes,No,No,Former,2026-06-07,Follow-up,General Medicine,Hypertension,Medium,124.6,82.9,79.9,95.2,17.5,36.75,132.5,6.95,226.3,6.39,Glimepiride; Atorvastatin,None
+P0074,Anaya Siddiqui,45,Male,B+,175.6,76.1,24.7,Yes,No,Yes,No,No,Former,2026-07-04,Routine,Cardiology,Routine Checkup,Medium,127.7,72.7,63.5,96.0,12.8,36.91,153.4,6.94,219.4,7.08,Glimepiride; Aspirin,None
+P0074,Anaya Siddiqui,45,Male,B+,175.6,76.9,24.9,Yes,No,Yes,No,No,Former,2026-07-31,Routine,General Medicine,Hypertension,Medium,123.6,80.6,82.8,95.4,19.9,36.57,145.0,7.27,183.4,6.68,Glimepiride; Atorvastatin,None
+P0074,Anaya Siddiqui,45,Male,B+,175.6,77.1,25.0,Yes,No,Yes,No,No,Former,2026-08-28,Follow-up,Cardiology,Routine Checkup,Medium,129.3,78.7,79.2,95.1,15.1,36.64,123.0,7.76,212.4,6.13,Metformin; Atorvastatin,Pollen
+P0074,Anaya Siddiqui,45,Male,B+,175.6,75.4,24.4,Yes,No,Yes,No,No,Former,2026-09-25,Follow-up,Cardiology,Hypertension,Medium,123.2,80.0,79.2,95.4,15.8,36.97,134.5,7.01,198.7,8.94,Metformin; Atorvastatin,None
+P0075,Fahad Iqbal,35,Male,A+,173.0,80.6,26.9,No,No,No,No,No,Never,2026-01-20,Screening,Endocrinology,Hypertension,Low,116.5,63.5,63.2,96.4,17.7,36.51,79.8,5.21,178.7,6.31,None,None
+P0075,Fahad Iqbal,35,Male,A+,173.0,84.7,28.3,No,No,No,No,No,Never,2026-02-17,Screening,Emergency,Routine Checkup,Low,126.4,69.2,78.6,97.5,17.5,36.68,89.2,5.53,225.2,8.67,None,None
+P0075,Fahad Iqbal,35,Male,A+,173.0,80.4,26.9,No,No,No,No,No,Never,2026-03-21,Follow-up,General Medicine,Routine Checkup,Low,120.4,66.4,69.0,96.5,17.8,36.55,98.8,5.27,194.3,7.95,None,None
+P0075,Fahad Iqbal,35,Male,A+,173.0,81.0,27.1,No,No,No,No,No,Never,2026-04-18,Routine,General Medicine,Hypertension,Low,122.7,73.1,66.5,96.5,18.9,36.87,107.7,4.84,195.6,6.42,None,NSAIDs
+P0075,Fahad Iqbal,35,Male,A+,173.0,81.9,27.4,No,No,No,No,No,Never,2026-05-14,Screening,Pulmonology,Routine Checkup,Low,122.5,65.4,74.1,98.4,15.7,36.57,105.9,4.86,207.6,6.06,None,None
+P0075,Fahad Iqbal,35,Male,A+,173.0,84.2,28.1,No,No,No,No,No,Never,2026-06-11,Routine,General Medicine,Asthma,Low,127.7,73.5,78.1,97.4,15.4,36.22,116.4,4.83,232.9,,None,Pollen
+P0075,Fahad Iqbal,35,Male,A+,173.0,80.8,27.0,No,No,No,No,No,Never,2026-07-09,Emergency,General Medicine,Diabetes Management,Low,119.7,72.2,89.0,96.7,13.5,36.81,89.3,5.21,212.5,8.3,None,Penicillin
+P0075,Fahad Iqbal,35,Male,A+,173.0,82.0,27.4,No,No,No,No,No,Never,2026-08-08,Follow-up,Pulmonology,Respiratory Infection,Low,114.4,74.4,66.2,95.6,13.9,37.03,77.3,5.03,245.9,6.37,None,NSAIDs
+P0075,Fahad Iqbal,35,Male,A+,173.0,82.5,27.6,No,No,No,No,No,Never,2026-09-03,Follow-up,General Medicine,Routine Checkup,Low,128.3,69.2,69.0,97.4,16.9,36.87,79.3,5.01,211.9,8.36,None,None
+P0075,Fahad Iqbal,35,Male,A+,173.0,83.8,28.0,No,No,No,No,No,Never,2026-10-02,Follow-up,Cardiology,Hypertension,Low,115.0,73.4,63.0,94.8,17.9,36.72,95.1,4.76,191.7,8.16,None,None
+P0075,Fahad Iqbal,35,Male,A+,173.0,,28.4,No,No,No,No,No,Never,2026-10-28,Follow-up,Cardiology,Hyperlipidemia,Low,111.6,79.2,74.3,97.0,18.1,36.77,90.6,5.68,230.5,8.3,None,None
+P0076,Omar Ahmed,19,Male,B+,188.9,70.1,19.7,No,No,Yes,No,No,Never,2026-01-12,Routine,Cardiology,Chest Pain,Low,122.5,81.8,83.1,95.4,17.5,36.74,120.8,5.58,166.7,9.43,Atorvastatin,None
+P0076,Omar Ahmed,19,Male,B+,188.9,67.7,19.0,No,No,Yes,No,No,Never,2026-02-11,Routine,Emergency,Routine Checkup,Low,117.1,72.4,75.2,95.2,14.9,36.77,97.9,4.85,148.2,7.41,Aspirin,None
+P0076,Omar Ahmed,19,Male,B+,188.9,73.8,20.7,No,No,Yes,No,No,Never,2026-03-08,Emergency,General Medicine,Hypertension,Medium,152.9,67.2,71.9,93.5,16.8,37.88,102.6,5.11,165.5,6.56,Aspirin,Dust
+P0076,Omar Ahmed,19,Male,B+,188.9,66.9,18.7,No,No,Yes,No,No,Never,2026-04-06,Routine,Cardiology,Hypertension,Low,121.1,78.0,71.8,96.8,18.9,36.54,114.3,4.37,197.4,6.24,Aspirin,Penicillin
+P0076,Omar Ahmed,19,Male,B+,188.9,72.1,20.2,No,No,Yes,No,No,Never,2026-05-06,Emergency,Cardiology,Routine Checkup,Low,121.2,86.6,88.4,97.0,13.6,37.43,84.0,5.74,181.3,5.01,Aspirin,Penicillin
+P0076,Omar Ahmed,19,Male,B+,188.9,67.3,18.9,No,No,Yes,No,No,Never,2026-06-04,Follow-up,Emergency,Hypertension,Low,111.1,78.3,79.2,95.2,16.6,36.73,99.5,4.73,189.1,8.13,Aspirin,Penicillin
+P0076,Omar Ahmed,19,Male,B+,188.9,66.6,18.7,No,No,Yes,No,No,Never,2026-06-30,Follow-up,Cardiology,Chest Pain,Low,124.7,67.8,78.7,95.1,15.3,36.74,81.4,5.38,179.0,6.48,Atorvastatin,Dust
+P0076,Omar Ahmed,19,Male,B+,188.9,69.7,19.5,No,No,Yes,No,No,Never,2026-07-28,Routine,Cardiology,Chest Pain,Medium,116.9,68.9,78.2,96.6,16.5,35.84,105.1,5.53,172.6,8.09,Atorvastatin,None
+P0076,Omar Ahmed,19,Male,B+,188.9,68.2,19.1,No,No,Yes,No,No,Never,2026-08-27,Follow-up,Cardiology,Hypertension,Medium,113.2,77.5,84.9,96.7,17.1,36.28,72.0,5.26,177.4,6.6,Atorvastatin,Dust
+P0076,Omar Ahmed,19,Male,B+,188.9,70.2,19.7,No,No,Yes,No,No,Never,2026-09-20,Emergency,Emergency,Hypertension,Low,134.4,89.0,81.1,94.9,14.6,37.09,104.0,5.01,162.5,8.48,Atorvastatin,Pollen
+P0076,Omar Ahmed,19,Male,B+,188.9,69.3,19.4,No,No,Yes,No,No,Never,2026-10-20,Follow-up,Cardiology,Routine Checkup,Low,124.3,81.0,81.0,95.4,18.3,36.92,112.8,5.71,175.7,7.49,Aspirin,Dust
+P0077,Omar Khan,40,Female,B+,166.2,88.6,32.1,No,No,No,No,Yes,Current,2026-01-14,Screening,Nephrology,Kidney Monitoring,Low,125.8,84.1,74.7,96.3,17.0,36.7,88.4,4.9,199.6,6.92,None,None
+P0077,Omar Khan,40,Female,B+,166.2,89.5,32.4,No,No,No,No,Yes,Current,2026-02-10,Screening,Nephrology,Kidney Monitoring,Low,115.4,68.8,68.6,96.3,12.2,36.45,116.0,5.33,201.2,7.5,None,None
+P0077,Omar Khan,40,Female,B+,166.2,85.5,30.9,No,No,No,No,Yes,Current,2026-03-11,Emergency,Nephrology,Kidney Monitoring,Low,129.1,80.4,82.0,94.6,19.6,36.39,88.4,4.84,189.4,6.65,None,None
+P0077,Omar Khan,40,Female,B+,166.2,89.1,32.2,No,No,No,No,Yes,Current,2026-04-07,Emergency,Nephrology,Kidney Monitoring,Low,122.6,74.5,84.5,98.1,19.3,36.74,91.9,5.29,196.2,7.86,None,None
+P0077,Omar Khan,40,Female,B+,166.2,90.2,32.7,No,No,No,No,Yes,Current,2026-05-08,Routine,Nephrology,Kidney Monitoring,Low,123.3,73.5,69.2,97.0,16.5,36.82,96.5,5.17,225.9,6.43,None,None
+P0077,Omar Khan,40,Female,B+,166.2,89.8,32.5,No,No,No,No,Yes,Current,2026-06-03,Routine,Nephrology,Kidney Monitoring,Low,115.1,66.5,65.8,97.5,13.4,36.34,100.1,5.12,195.5,6.61,None,None
+P0077,Omar Khan,40,Female,B+,166.2,89.0,32.2,No,No,No,No,Yes,Current,2026-07-01,Follow-up,General Medicine,Kidney Monitoring,Low,115.7,70.5,60.1,97.4,16.1,36.57,76.4,5.2,216.6,7.2,None,None
+P0077,Omar Khan,40,Female,B+,166.2,88.3,32.0,No,No,No,No,Yes,Current,2026-07-27,Follow-up,Nephrology,Kidney Monitoring,Low,117.8,80.5,66.6,97.0,17.8,36.78,86.5,4.6,167.1,9.18,None,None
+P0077,Omar Khan,40,Female,B+,166.2,87.6,31.7,No,No,No,No,Yes,Current,2026-08-28,Emergency,General Medicine,Kidney Monitoring,Low,116.8,66.9,74.2,95.4,17.5,37.65,100.0,5.53,208.3,6.8,None,None
+P0078,Hamza Malik,70,Female,A+,150.0,56.9,25.3,No,No,No,No,No,Current,2026-01-11,Follow-up,General Medicine,Respiratory Infection,Low,123.6,74.5,74.3,96.2,16.4,36.46,65.8,5.7,185.2,6.77,None,None
+P0078,Hamza Malik,70,Female,A+,150.0,57.9,25.8,No,No,No,No,No,Current,2026-02-04,Follow-up,Pulmonology,Hypertension,Low,136.8,77.2,71.4,96.4,16.6,36.37,100.6,5.31,174.3,7.55,None,None
+P0078,Hamza Malik,70,Female,A+,150.0,56.7,25.2,No,No,No,No,No,Current,2026-03-05,Emergency,General Medicine,Respiratory Infection,Low,128.2,77.2,90.5,95.3,16.0,36.47,103.1,4.99,166.3,7.87,None,None
+P0078,Hamza Malik,70,Female,A+,150.0,55.9,24.9,No,No,No,No,No,Current,2026-04-04,Screening,Nephrology,Hyperlipidemia,Low,136.0,63.9,66.9,95.1,15.6,37.19,88.7,5.16,193.1,7.12,None,None
+P0078,Hamza Malik,70,Female,A+,150.0,57.0,25.3,No,No,No,No,No,Current,2026-05-03,Screening,Pulmonology,Routine Checkup,Low,140.4,78.3,79.4,96.0,18.2,36.82,77.5,5.38,166.3,7.13,None,None
+P0078,Hamza Malik,70,Female,A+,150.0,55.6,24.7,No,No,No,No,No,Current,2026-05-28,Follow-up,Pulmonology,Routine Checkup,Low,135.9,81.7,68.0,98.6,17.2,36.54,81.2,5.12,172.0,8.36,None,None
+P0078,Hamza Malik,70,Female,A+,150.0,58.2,25.9,No,No,No,No,No,Current,2026-06-27,Routine,General Medicine,Hypertension,Low,138.2,82.4,67.3,96.3,15.6,36.52,69.9,5.44,184.2,5.76,None,Pollen
+P0078,Hamza Malik,70,Female,A+,150.0,58.3,25.9,No,No,No,No,No,Current,2026-07-25,Follow-up,General Medicine,Respiratory Infection,Low,123.3,78.8,70.0,96.9,16.4,37.1,68.0,5.51,132.8,8.49,None,None
+P0079,Sana Farooq,18,Male,O+,182.4,72.4,21.8,No,No,No,No,No,Never,2026-01-13,Routine,General Medicine,Chest Pain,Low,109.7,72.5,68.1,96.5,18.3,36.65,86.6,5.14,,6.07,None,Dust
+P0079,Sana Farooq,18,Male,O+,182.4,72.5,21.8,No,No,No,No,No,Never,2026-02-09,Routine,Pulmonology,Routine Checkup,Low,104.1,73.1,63.4,98.4,15.3,37.11,79.6,5.16,200.8,6.78,None,None
+P0079,Sana Farooq,18,Male,O+,182.4,74.9,22.5,No,No,No,No,No,Never,2026-03-07,Follow-up,General Medicine,Routine Checkup,Low,114.7,77.3,70.4,95.6,12.5,37.42,99.9,5.25,183.0,5.67,None,NSAIDs
+P0079,Sana Farooq,18,Male,O+,182.4,72.8,21.9,No,No,No,No,No,Never,2026-04-04,Screening,General Medicine,Asthma,Low,109.8,82.2,70.9,95.8,15.9,36.77,72.8,5.34,199.8,7.24,None,None
+P0079,Sana Farooq,18,Male,O+,182.4,72.1,21.7,No,No,No,No,No,Never,2026-05-02,Follow-up,Pulmonology,Hypertension,Low,125.6,76.0,61.2,95.2,14.5,37.09,105.4,5.77,178.2,6.89,None,None
+P0079,Sana Farooq,18,Male,O+,182.4,73.4,22.1,No,No,No,No,No,Never,2026-05-31,Follow-up,General Medicine,Diabetes Management,Low,121.3,64.1,88.1,96.6,17.1,36.92,84.5,5.49,193.7,6.39,None,Penicillin
+P0079,Sana Farooq,18,Male,O+,182.4,73.4,22.1,No,No,No,No,No,Never,2026-06-28,Follow-up,General Medicine,Asthma,Low,116.2,61.8,68.3,97.3,17.7,36.75,113.9,5.5,169.2,6.96,None,None
+P0079,Sana Farooq,18,Male,O+,182.4,74.8,22.5,No,No,No,No,No,Never,2026-07-27,Follow-up,Nephrology,Routine Checkup,Low,109.8,69.3,71.5,97.8,15.3,36.43,109.3,5.34,196.1,7.86,None,None
+P0079,Sana Farooq,18,Male,O+,182.4,72.6,21.8,No,No,No,No,No,Never,2026-08-23,Routine,Nephrology,Hypertension,Low,102.1,70.6,75.3,96.9,14.4,36.32,123.7,5.31,163.2,7.56,None,None
+P0079,Sana Farooq,18,Male,O+,182.4,72.9,21.9,No,No,No,No,No,Never,2026-09-21,Follow-up,Nephrology,Asthma,Low,104.1,68.3,73.7,94.9,15.9,36.99,79.4,4.71,175.5,6.76,None,None
+P0079,Sana Farooq,18,Male,O+,182.4,71.5,21.5,No,No,No,No,No,Never,2026-10-18,Follow-up,General Medicine,Diabetes Management,Low,113.0,67.2,73.1,98.5,15.9,36.4,97.9,5.14,175.3,7.58,None,None
+P0079,Sana Farooq,18,Male,O+,182.4,75.3,22.6,No,No,No,No,No,Never,2026-11-14,Emergency,Cardiology,Asthma,Low,125.6,72.7,73.2,97.1,16.2,37.76,88.4,4.86,197.0,7.78,None,None
+P0080,Hira Iqbal,74,Female,A+,163.9,110.0,40.9,No,Yes,No,No,No,Never,2026-01-18,Routine,Cardiology,Respiratory Infection,Medium,159.8,90.3,72.8,95.3,14.7,36.97,68.9,5.67,217.0,6.35,Amlodipine,None
+P0080,Hira Iqbal,74,Female,A+,163.9,110.5,41.1,No,Yes,No,No,No,Never,2026-02-19,Routine,Cardiology,Routine Checkup,Medium,147.5,89.4,82.9,96.9,14.4,36.36,101.9,4.93,212.4,5.48,Amlodipine,None
+P0080,Hira Iqbal,74,Female,A+,163.9,110.4,41.1,No,Yes,No,No,No,Never,2026-03-15,Follow-up,General Medicine,Diabetes Management,Medium,165.8,92.6,80.6,96.8,16.5,37.0,113.6,5.39,202.1,6.94,Losartan,None
+P0080,Hira Iqbal,74,Female,A+,163.9,108.4,40.3,No,Yes,No,No,No,Never,2026-04-14,Routine,Pulmonology,Diabetes Management,Medium,157.9,92.5,68.7,98.6,13.8,37.11,104.8,4.47,236.7,8.07,Amlodipine,None
+P0080,Hira Iqbal,74,Female,A+,163.9,107.7,40.1,No,Yes,No,No,No,Never,2026-05-12,Routine,Cardiology,Hyperlipidemia,Medium,154.1,81.6,66.1,98.0,16.7,36.6,100.3,5.05,206.9,6.34,Lisinopril,None
+P0080,Hira Iqbal,74,Female,A+,163.9,107.7,40.1,No,Yes,No,No,No,Never,2026-06-09,Follow-up,Pulmonology,Asthma,Medium,151.1,100.6,65.8,96.8,16.1,36.67,93.1,5.6,216.2,7.95,Losartan,Pollen
+P0080,Hira Iqbal,74,Female,A+,163.9,112.0,41.7,No,Yes,No,No,No,Never,2026-07-05,Routine,General Medicine,Respiratory Infection,Medium,147.5,94.0,76.3,98.9,14.5,36.84,89.8,5.38,204.1,7.58,Amlodipine,None
+P0080,Hira Iqbal,74,Female,A+,163.9,110.3,41.1,No,Yes,No,No,No,Never,2026-08-05,Follow-up,Emergency,Routine Checkup,Medium,152.9,90.8,85.3,97.1,15.1,37.17,95.4,,194.7,5.85,Amlodipine,None
+P0080,Hira Iqbal,74,Female,A+,163.9,110.7,41.2,No,Yes,No,No,No,Never,2026-08-30,Follow-up,General Medicine,Chest Pain,Medium,145.9,94.2,80.3,97.4,16.6,36.38,115.8,5.82,213.8,6.51,Amlodipine,Dust
+P0080,Hira Iqbal,74,Female,A+,163.9,110.2,41.0,No,Yes,No,No,No,Never,2026-09-30,Routine,Endocrinology,Routine Checkup,Medium,146.2,87.3,68.6,96.8,18.7,37.19,112.5,5.24,183.5,7.32,Losartan,None
+P0081,Hira Ahmed,52,Male,O+,169.0,77.5,27.1,No,Yes,No,No,No,Never,2026-01-22,Emergency,Cardiology,Routine Checkup,Low,149.8,87.1,74.4,94.7,17.5,36.43,85.8,5.41,200.1,5.65,Amlodipine,None
+P0081,Hira Ahmed,52,Male,O+,169.0,78.7,27.6,No,Yes,No,No,No,Never,2026-02-17,Screening,Cardiology,Routine Checkup,Low,135.8,96.1,60.6,95.4,18.6,36.82,105.1,5.35,218.3,7.4,Lisinopril,Dust
+P0081,Hira Ahmed,52,Male,O+,169.0,79.5,27.8,No,Yes,No,No,No,Never,2026-03-16,Routine,Pulmonology,Chest Pain,Low,152.4,87.1,64.6,98.8,14.5,36.78,96.1,5.05,221.8,7.34,Lisinopril,None
+P0081,Hira Ahmed,52,Male,O+,169.0,80.1,28.1,No,Yes,No,No,No,Never,2026-04-14,Follow-up,Cardiology,Kidney Monitoring,Low,138.3,74.8,80.4,97.4,15.8,36.59,85.8,5.88,208.9,5.36,Lisinopril,None
+P0081,Hira Ahmed,52,Male,O+,169.0,75.1,26.3,No,Yes,No,No,No,Never,2026-05-13,Follow-up,Pulmonology,Routine Checkup,Low,150.8,85.0,61.9,97.4,16.2,36.59,84.7,4.83,197.6,7.35,Amlodipine,Pollen
+P0081,Hira Ahmed,52,Male,O+,169.0,79.2,27.7,No,Yes,No,No,No,Never,2026-06-08,Screening,General Medicine,Routine Checkup,Low,131.5,84.4,77.0,98.9,18.7,36.5,119.1,5.22,226.8,7.89,Losartan,None
+P0081,Hira Ahmed,52,Male,O+,169.0,73.7,25.8,No,Yes,No,No,No,Never,2026-07-10,Routine,General Medicine,Diabetes Management,Low,144.9,86.4,66.5,96.7,16.2,36.56,100.0,4.59,202.3,7.12,Losartan,
+P0081,Hira Ahmed,52,Male,O+,169.0,78.0,27.3,No,Yes,No,No,No,Never,2026-08-03,Follow-up,Cardiology,Asthma,Medium,141.5,84.1,69.5,97.4,18.1,36.67,122.1,5.33,214.9,9.51,Lisinopril,None
+P0081,Hira Ahmed,52,Male,O+,169.0,76.0,26.6,No,Yes,No,No,No,Never,2026-09-02,Screening,Nephrology,Routine Checkup,Low,125.0,87.0,65.5,97.4,14.3,37.15,108.3,6.0,159.6,8.65,Amlodipine,Dust
+P0081,Hira Ahmed,52,Male,O+,169.0,74.1,25.9,No,Yes,No,No,No,Never,2026-10-02,Follow-up,Pulmonology,Routine Checkup,Low,137.0,86.0,79.0,97.3,17.7,36.33,93.5,5.45,184.2,6.24,Amlodipine,None
+P0082,Ayesha Ali,26,Female,A+,179.8,94.4,29.2,No,Yes,No,Yes,No,Former,2026-01-14,Emergency,Pulmonology,Respiratory Infection,Medium,150.7,83.6,88.7,90.9,17.1,37.33,88.8,5.54,225.5,9.31,Amlodipine; Salbutamol,None
+P0082,Ayesha Ali,26,Female,A+,179.8,92.8,28.7,No,Yes,No,Yes,No,Former,2026-02-12,Screening,Pulmonology,Respiratory Infection,Low,111.5,81.4,71.7,93.4,19.1,36.34,112.1,5.37,200.8,7.04,Lisinopril; Salbutamol,None
+P0082,Ayesha Ali,26,Female,A+,179.8,92.7,28.7,No,Yes,No,Yes,No,Former,2026-03-13,Routine,Pulmonology,Asthma,Low,117.4,85.8,80.1,94.0,19.1,37.01,117.1,5.0,181.2,5.78,Lisinopril; Salbutamol,None
+P0082,Ayesha Ali,26,Female,A+,179.8,,28.7,No,Yes,No,Yes,No,Former,2026-04-07,Screening,Pulmonology,Asthma,Low,127.9,74.6,82.5,94.4,22.2,36.41,123.8,5.69,200.6,6.7,Losartan; Salbutamol,None
+P0082,Ayesha Ali,26,Female,A+,179.8,97.8,30.3,No,Yes,No,Yes,No,Former,2026-05-08,Follow-up,Pulmonology,Respiratory Infection,Low,126.2,81.3,72.2,94.2,18.0,36.7,99.8,5.48,212.1,7.8,Lisinopril; Salbutamol,Penicillin
+P0082,Ayesha Ali,26,Female,A+,179.8,93.7,29.0,No,Yes,No,Yes,No,Former,2026-06-03,Routine,General Medicine,Asthma,Low,126.9,80.1,75.3,94.5,18.4,36.56,111.5,5.49,240.1,6.5,Amlodipine; Salbutamol,Pollen
+P0082,Ayesha Ali,26,Female,A+,179.8,94.1,29.1,No,Yes,No,Yes,No,Former,2026-06-30,Routine,Pulmonology,Asthma,Low,123.6,77.2,73.1,95.2,17.1,36.69,94.3,5.49,223.3,5.26,Amlodipine; Salbutamol,Pollen
+P0082,Ayesha Ali,26,Female,A+,179.8,98.0,30.3,No,Yes,No,Yes,No,Former,2026-07-31,Follow-up,General Medicine,Asthma,Low,128.9,78.7,74.6,93.0,20.7,36.78,84.3,4.84,208.3,8.03,Amlodipine; Salbutamol,Penicillin
+P0082,Ayesha Ali,26,Female,A+,179.8,96.5,29.8,No,Yes,No,Yes,No,Former,2026-08-26,Follow-up,General Medicine,Asthma,Medium,118.3,77.3,81.7,94.7,17.3,36.94,115.2,5.32,197.0,6.64,Losartan; Salbutamol,None
+P0082,Ayesha Ali,26,Female,A+,179.8,93.9,29.0,No,Yes,No,Yes,No,Former,2026-09-24,Follow-up,General Medicine,Respiratory Infection,Medium,136.3,90.8,85.3,92.8,18.0,36.83,92.6,5.82,237.3,6.28,Amlodipine; Salbutamol,None
+P0082,Ayesha Ali,26,Female,A+,179.8,91.6,28.3,No,Yes,No,Yes,No,Former,2026-10-23,Routine,Emergency,Asthma,Low,109.7,73.0,69.8,93.8,18.8,36.43,81.8,4.87,187.9,6.55,Lisinopril; Salbutamol,None
+P0083,Zoya Ahmed,37,Male,O+,153.6,74.2,31.4,No,No,No,No,No,Current,2026-01-11,Follow-up,Nephrology,Hypertension,Low,107.3,73.1,82.4,96.1,15.8,36.37,70.1,4.92,199.9,6.69,None,None
+P0083,Zoya Ahmed,37,Male,O+,153.6,,31.6,No,No,No,No,No,Current,2026-02-10,Screening,General Medicine,Respiratory Infection,Low,117.9,69.5,74.0,95.5,17.3,36.79,92.8,5.59,202.1,6.48,None,None
+P0083,Zoya Ahmed,37,Male,O+,153.6,74.9,31.7,No,No,No,No,No,Current,2026-03-07,Screening,General Medicine,Routine Checkup,Low,120.0,77.3,68.6,97.4,16.0,36.4,77.2,4.97,224.7,8.06,None,None
+P0083,Zoya Ahmed,37,Male,O+,153.6,75.5,32.0,No,No,No,No,No,Current,2026-04-05,Screening,Cardiology,Routine Checkup,Low,118.7,75.8,63.6,96.2,14.5,36.98,116.8,4.44,236.2,7.19,None,NSAIDs
+P0083,Zoya Ahmed,37,Male,O+,153.6,74.7,31.7,No,No,No,No,No,Current,2026-05-05,Routine,General Medicine,Hyperlipidemia,Low,119.5,72.3,75.9,96.9,15.1,36.43,86.1,5.27,172.7,6.32,None,Penicillin
+P0083,Zoya Ahmed,37,Male,O+,153.6,79.9,33.9,No,No,No,No,No,Current,2026-05-31,Follow-up,General Medicine,Kidney Monitoring,Low,126.0,74.1,77.2,95.6,13.6,36.71,98.0,5.58,197.8,7.29,None,None
+P0083,Zoya Ahmed,37,Male,O+,153.6,75.1,31.8,No,No,No,No,No,Current,2026-06-29,Routine,Nephrology,Respiratory Infection,Low,112.8,76.7,78.2,97.7,14.4,36.72,78.3,5.23,191.7,8.38,None,Dust
+P0083,Zoya Ahmed,37,Male,O+,153.6,77.8,33.0,No,No,No,No,No,Current,2026-07-26,Routine,General Medicine,Hypertension,Low,114.7,66.6,78.0,97.1,18.3,36.76,91.7,5.73,180.3,6.51,None,None
+P0083,Zoya Ahmed,37,Male,O+,153.6,75.3,31.9,No,No,No,No,No,Current,2026-08-21,Screening,General Medicine,Diabetes Management,Low,120.1,71.1,67.4,97.1,17.4,36.69,81.5,4.78,211.7,6.55,None,NSAIDs
+P0084,Rayan Farooq,52,Male,O+,156.7,83.6,34.0,No,Yes,No,No,No,Never,2026-01-09,Follow-up,Endocrinology,Routine Checkup,Low,145.0,91.5,56.8,98.3,16.5,36.31,110.9,5.26,214.9,8.1,Lisinopril,None
+P0084,Rayan Farooq,52,Male,O+,156.7,79.7,32.5,No,Yes,No,No,No,Never,2026-02-04,Screening,General Medicine,Routine Checkup,Low,135.4,81.0,69.3,97.4,15.3,36.86,116.0,5.59,187.9,8.49,Amlodipine,None
+P0084,Rayan Farooq,52,Male,O+,156.7,80.1,32.6,No,Yes,No,No,No,Never,2026-03-04,Follow-up,General Medicine,Hyperlipidemia,Low,132.4,85.5,77.1,98.3,15.3,36.69,98.4,4.98,221.2,7.46,Amlodipine,Pollen
+P0084,Rayan Farooq,52,Male,O+,156.7,82.3,33.5,No,Yes,No,No,No,Never,2026-03-31,Routine,Cardiology,Routine Checkup,Low,137.1,86.6,74.1,98.1,14.4,37.03,100.3,5.02,198.3,6.1,Amlodipine,None
+P0084,Rayan Farooq,52,Male,O+,156.7,83.1,33.8,No,Yes,No,No,No,Never,2026-04-29,Screening,Cardiology,Kidney Monitoring,Low,139.8,89.6,71.4,96.4,15.7,36.1,82.8,5.53,229.5,8.51,Lisinopril,Penicillin
+P0084,Rayan Farooq,52,Male,O+,156.7,81.2,33.1,No,Yes,No,No,No,Never,2026-05-27,Follow-up,General Medicine,Routine Checkup,Low,131.0,85.2,72.1,98.6,16.3,36.7,101.1,5.34,219.3,6.38,Lisinopril,None
+P0084,Rayan Farooq,52,Male,O+,156.7,80.5,32.8,No,Yes,No,No,No,Never,2026-06-23,Follow-up,General Medicine,Routine Checkup,Medium,146.9,85.4,64.1,97.4,16.1,36.65,90.6,5.19,197.5,9.53,Amlodipine,None
+P0084,Rayan Farooq,52,Male,O+,156.7,81.1,33.0,No,Yes,No,No,No,Never,2026-07-23,Follow-up,General Medicine,Routine Checkup,Low,130.1,81.3,73.9,96.1,16.4,37.13,102.6,4.69,192.8,6.81,Lisinopril,Penicillin
+P0084,Rayan Farooq,52,Male,O+,156.7,79.3,32.3,No,Yes,No,No,No,Never,2026-08-22,Follow-up,Emergency,Routine Checkup,Low,148.2,91.7,73.4,96.8,16.9,36.65,69.2,5.4,224.1,8.54,Losartan,None
+P0084,Rayan Farooq,52,Male,O+,156.7,,33.2,No,Yes,No,No,No,Never,2026-09-15,Screening,General Medicine,Hypertension,Low,140.4,86.5,76.4,98.2,14.9,36.66,93.7,5.0,178.9,7.12,Losartan,None
+P0085,Rayan Iqbal,37,Female,O+,153.6,75.2,31.9,No,No,No,No,No,Former,2026-01-10,Follow-up,Nephrology,Routine Checkup,Low,99.3,75.5,75.6,96.7,15.0,36.55,87.1,5.09,199.2,6.76,None,NSAIDs
+P0085,Rayan Iqbal,37,Female,O+,153.6,72.3,30.7,No,No,No,No,No,Former,2026-02-07,Routine,Pulmonology,Routine Checkup,Low,115.1,74.4,68.9,97.5,14.6,36.62,58.8,5.61,204.8,7.77,None,Pollen
+P0085,Rayan Iqbal,37,Female,O+,153.6,70.9,30.0,No,No,No,No,No,Former,2026-03-05,Follow-up,General Medicine,Kidney Monitoring,Low,115.1,70.0,80.6,97.4,14.9,36.63,94.0,5.18,212.9,7.17,None,None
+P0085,Rayan Iqbal,37,Female,O+,153.6,75.1,31.8,No,No,No,No,No,Former,2026-04-04,Follow-up,General Medicine,Routine Checkup,Low,115.5,80.2,78.9,98.1,14.2,36.7,110.3,5.3,218.0,5.71,None,None
+P0085,Rayan Iqbal,37,Female,O+,153.6,70.9,30.0,No,No,No,No,No,Former,2026-05-02,Follow-up,General Medicine,Routine Checkup,Low,133.8,71.5,63.4,97.0,14.7,36.92,78.7,5.29,187.4,9.7,None,NSAIDs
+P0085,Rayan Iqbal,37,Female,O+,153.6,71.3,30.2,No,No,No,No,No,Former,2026-05-31,Follow-up,Endocrinology,Hypertension,Low,127.6,70.6,59.2,95.8,17.4,36.64,90.0,5.61,194.0,7.73,None,Penicillin
+P0085,Rayan Iqbal,37,Female,O+,153.6,74.0,31.4,No,No,No,No,No,Former,2026-06-28,Routine,General Medicine,Asthma,Low,114.7,71.0,81.6,97.6,15.4,36.54,107.4,5.24,205.1,7.21,None,None
+P0085,Rayan Iqbal,37,Female,O+,153.6,75.0,31.8,No,No,No,No,No,Former,2026-07-23,Follow-up,General Medicine,Routine Checkup,Low,115.9,76.9,78.0,98.0,17.4,36.86,121.4,5.01,205.2,6.89,None,None
+P0085,Rayan Iqbal,37,Female,O+,153.6,69.9,29.6,No,No,No,No,No,Former,2026-08-23,Routine,Nephrology,Respiratory Infection,Low,120.2,69.5,65.2,97.2,14.9,36.56,94.6,5.48,193.3,6.11,None,None
+P0085,Rayan Iqbal,37,Female,O+,153.6,74.5,31.6,No,No,No,No,No,Former,2026-09-16,Routine,Emergency,Hypertension,Low,129.7,68.4,67.6,97.4,15.1,36.51,95.7,5.74,184.4,8.6,None,None
+P0086,Hassan Shah,24,Male,O+,160.9,69.0,26.7,No,No,No,No,No,Never,2026-01-16,Screening,Nephrology,Respiratory Infection,Low,111.6,64.4,67.8,95.9,18.2,36.45,72.7,5.29,208.4,6.98,None,None
+P0086,Hassan Shah,24,Male,O+,160.9,72.3,27.9,No,No,No,No,No,Never,2026-02-16,Follow-up,Nephrology,Kidney Monitoring,Low,102.5,68.9,80.6,98.3,16.7,36.22,73.9,4.96,204.9,5.85,None,None
+P0086,Hassan Shah,24,Male,O+,160.9,68.4,26.4,No,No,No,No,No,Never,2026-03-15,Screening,General Medicine,Hyperlipidemia,Low,103.4,63.6,72.5,97.4,14.6,36.74,114.0,5.89,191.9,6.93,None,None
+P0086,Hassan Shah,24,Male,O+,160.9,70.3,27.2,No,No,No,No,No,Never,2026-04-11,Follow-up,Nephrology,Routine Checkup,Low,109.5,73.6,65.3,96.7,16.8,36.75,97.7,5.09,,8.16,None,None
+P0086,Hassan Shah,24,Male,O+,160.9,73.4,28.4,No,No,No,No,No,Never,2026-05-10,Routine,Pulmonology,Hyperlipidemia,Low,111.4,67.4,70.4,96.7,16.8,36.52,109.9,4.71,178.6,6.96,None,None
+P0086,Hassan Shah,24,Male,O+,160.9,70.0,27.0,No,No,No,No,No,Never,2026-06-07,Routine,General Medicine,Kidney Monitoring,Low,108.2,72.0,78.1,98.5,16.2,36.76,89.3,5.37,215.0,8.43,None,Penicillin
+P0086,Hassan Shah,24,Male,O+,160.9,68.7,26.5,No,No,No,No,No,Never,2026-07-04,Screening,General Medicine,Routine Checkup,Low,117.6,68.2,61.5,97.9,16.7,36.67,78.3,5.16,199.9,5.49,None,None
+P0086,Hassan Shah,24,Male,O+,160.9,72.9,28.2,No,No,No,No,No,Never,2026-08-03,Emergency,General Medicine,Hypertension,Low,117.6,74.8,79.4,96.0,14.1,37.24,71.7,5.15,212.2,5.65,None,None
+P0086,Hassan Shah,24,Male,O+,160.9,70.1,27.1,No,No,No,No,No,Never,2026-08-31,Routine,Endocrinology,Respiratory Infection,Low,109.2,81.4,62.3,98.3,18.5,36.89,87.0,5.7,202.2,6.39,None,None
+P0086,Hassan Shah,24,Male,O+,160.9,70.8,27.3,No,No,No,No,No,Never,2026-09-26,Follow-up,Cardiology,Routine Checkup,Low,101.9,72.2,65.1,95.8,15.8,36.96,98.6,5.38,205.7,6.76,None,None
+P0086,Hassan Shah,24,Male,O+,160.9,69.5,26.8,No,No,No,No,No,Never,2026-10-25,Screening,Pulmonology,Routine Checkup,Low,108.2,64.7,69.2,98.3,14.4,37.03,85.5,5.94,165.7,6.96,None,None
+P0087,Bilal Raza,59,Male,O+,172.0,63.1,21.3,Yes,No,No,No,No,Never,2026-01-17,Screening,General Medicine,Diabetes Management,Low,133.0,82.2,80.8,95.8,18.3,37.17,124.5,6.42,171.1,6.64,Metformin,None
+P0087,Bilal Raza,59,Male,O+,172.0,64.5,21.8,Yes,No,No,No,No,Never,2026-02-15,Emergency,Nephrology,Diabetes Management,Low,136.0,88.3,84.6,97.8,15.6,37.63,116.9,6.52,212.4,6.72,Metformin,None
+P0087,Bilal Raza,59,Male,O+,172.0,64.0,21.6,Yes,No,No,No,No,Never,2026-03-15,Routine,Endocrinology,Routine Checkup,Medium,139.4,79.2,76.7,97.6,18.8,36.79,140.5,6.99,182.1,5.89,Metformin,NSAIDs
+P0087,Bilal Raza,59,Male,O+,172.0,61.8,20.9,Yes,No,No,No,No,Never,2026-04-13,Routine,Endocrinology,Diabetes Management,Low,122.4,79.7,70.2,95.8,18.9,36.5,115.1,6.92,218.6,4.93,Metformin,Dust
+P0087,Bilal Raza,59,Male,O+,172.0,62.9,21.3,Yes,No,No,No,No,Never,2026-05-11,Routine,Endocrinology,Routine Checkup,Low,123.0,76.3,72.5,97.2,16.7,36.7,109.3,6.88,206.9,6.43,Glimepiride,Pollen
+P0087,Bilal Raza,59,Male,O+,172.0,59.5,20.1,Yes,No,No,No,No,Never,2026-06-05,Follow-up,General Medicine,Hyperlipidemia,Low,123.2,84.0,83.0,99.3,16.1,36.81,142.3,7.45,201.6,8.03,Metformin,None
+P0087,Bilal Raza,59,Male,O+,172.0,60.4,20.4,Yes,No,No,No,No,Never,2026-07-04,Routine,Endocrinology,Diabetes Management,Low,116.4,75.7,70.4,97.1,16.8,36.75,126.1,6.68,211.8,7.0,Metformin,Dust
+P0087,Bilal Raza,59,Male,O+,172.0,61.9,20.9,Yes,No,No,No,No,Never,2026-07-31,Screening,General Medicine,Diabetes Management,Low,132.5,79.8,81.3,98.2,18.9,36.84,138.1,6.83,210.9,6.44,Glimepiride,None
+P0087,Bilal Raza,59,Male,O+,172.0,64.4,21.8,Yes,No,No,No,No,Never,2026-08-30,Screening,Endocrinology,Diabetes Management,Low,136.8,80.4,79.5,97.0,19.4,36.89,116.5,7.02,193.3,6.85,Metformin,None
+P0087,Bilal Raza,59,Male,O+,172.0,60.9,20.6,Yes,No,No,No,No,Never,2026-09-28,Emergency,Nephrology,Diabetes Management,Medium,132.1,62.3,80.9,96.8,15.0,37.6,150.9,7.18,214.5,8.21,Metformin,None
+P0088,Hira Siddiqui,60,Male,AB+,172.7,80.9,27.1,No,No,No,No,No,Current,2026-01-18,Routine,Cardiology,Routine Checkup,Low,122.9,75.0,60.9,97.3,18.3,36.44,107.3,5.18,176.2,6.21,None,None
+P0088,Hira Siddiqui,60,Male,AB+,172.7,79.0,26.5,No,No,No,No,No,Current,2026-02-19,Follow-up,General Medicine,Diabetes Management,Low,122.2,71.7,72.6,97.0,13.3,36.7,73.9,5.2,200.9,7.56,None,None
+P0088,Hira Siddiqui,60,Male,AB+,172.7,79.6,26.7,No,No,No,No,No,Current,2026-03-15,Routine,General Medicine,Hyperlipidemia,Low,130.0,71.4,67.6,97.7,17.3,36.72,114.2,5.38,173.8,5.88,None,NSAIDs
+P0088,Hira Siddiqui,60,Male,AB+,172.7,77.4,25.9,No,No,No,No,No,Current,2026-04-13,Follow-up,Pulmonology,Routine Checkup,Low,108.5,82.6,75.9,97.1,14.2,36.68,94.8,5.47,182.9,7.76,None,None
+P0088,Hira Siddiqui,60,Male,AB+,172.7,81.8,27.4,No,No,No,No,No,Current,2026-05-10,Screening,General Medicine,Respiratory Infection,Low,131.8,79.4,82.0,95.4,17.9,36.58,108.4,5.24,185.6,6.6,None,NSAIDs
+P0088,Hira Siddiqui,60,Male,AB+,172.7,82.7,27.7,No,No,No,No,No,Current,2026-06-09,Screening,Pulmonology,Routine Checkup,Low,113.5,92.0,73.2,97.6,15.3,36.7,94.9,4.83,193.5,8.28,None,Penicillin
+P0088,Hira Siddiqui,60,Male,AB+,172.7,77.7,26.1,No,No,No,No,No,Current,2026-07-07,Screening,General Medicine,Hypertension,Low,120.6,77.1,67.4,97.0,16.2,36.76,90.1,4.95,189.6,6.99,None,None
+P0088,Hira Siddiqui,60,Male,AB+,172.7,81.7,27.4,No,No,No,No,No,Current,2026-08-05,Screening,General Medicine,Hyperlipidemia,Low,133.3,78.0,71.6,96.8,12.7,36.88,95.7,5.49,205.9,7.76,None,None
+P0088,Hira Siddiqui,60,Male,AB+,172.7,77.7,26.0,No,No,No,No,No,Current,2026-09-02,Routine,Cardiology,Hyperlipidemia,Low,130.8,75.9,63.4,99.5,15.9,36.43,82.0,5.14,174.8,8.4,None,Penicillin
+P0088,Hira Siddiqui,60,Male,AB+,172.7,81.4,27.3,No,No,No,No,No,Current,2026-09-30,Follow-up,Pulmonology,Hyperlipidemia,Low,137.7,76.6,72.0,94.5,15.7,36.97,105.5,5.17,238.6,6.72,None,None
+P0088,Hira Siddiqui,60,Male,AB+,172.7,80.2,26.9,No,No,No,No,No,Current,2026-10-29,Screening,General Medicine,Routine Checkup,Low,125.6,77.7,58.9,97.4,16.1,36.42,90.4,5.11,209.8,6.04,None,None
+P0089,Areeba Shah,25,Male,O+,170.5,62.4,21.5,No,No,No,No,No,Never,2026-01-15,Routine,General Medicine,Routine Checkup,Low,116.5,73.6,74.8,96.7,14.4,36.34,66.9,5.82,138.2,8.29,None,None
+P0089,Areeba Shah,25,Male,O+,170.5,63.2,21.7,No,No,No,No,No,Never,2026-02-12,Emergency,General Medicine,Routine Checkup,Low,114.7,62.3,67.8,98.4,15.5,37.48,96.3,4.74,185.3,6.68,None,None
+P0089,Areeba Shah,25,Male,O+,170.5,61.5,21.1,No,No,No,No,No,Never,2026-03-10,Follow-up,Cardiology,Hypertension,Low,112.4,69.6,77.7,97.3,15.2,36.33,108.6,4.94,179.3,9.45,None,None
+P0089,Areeba Shah,25,Male,O+,170.5,62.4,21.5,No,No,No,No,No,Never,2026-04-08,Follow-up,General Medicine,Routine Checkup,Low,126.1,70.6,72.1,96.1,17.3,36.56,107.3,4.62,187.9,6.46,None,None
+P0089,Areeba Shah,25,Male,O+,170.5,63.2,21.7,No,No,No,No,No,Never,2026-05-06,Routine,Endocrinology,Chest Pain,Low,104.7,70.7,74.1,98.6,16.0,36.64,96.1,4.47,156.4,6.72,None,Dust
+P0089,Areeba Shah,25,Male,O+,170.5,60.3,20.8,No,No,No,No,No,Never,2026-06-03,Routine,Pulmonology,Routine Checkup,Low,112.6,74.6,70.4,97.4,14.8,36.72,109.1,5.63,201.9,7.39,None,None
+P0089,Areeba Shah,25,Male,O+,170.5,61.3,21.1,No,No,No,No,No,Never,2026-07-01,Follow-up,Nephrology,Hypertension,Low,121.9,78.6,67.9,97.8,15.3,36.87,104.1,5.63,169.1,8.11,None,None
+P0089,Areeba Shah,25,Male,O+,170.5,60.7,20.9,No,No,No,No,No,Never,2026-07-31,Routine,Endocrinology,Hypertension,Low,121.5,69.9,76.3,97.0,17.6,36.75,78.0,5.22,206.8,7.6,None,None
+P0089,Areeba Shah,25,Male,O+,170.5,62.7,21.6,No,No,No,No,No,Never,2026-08-29,Follow-up,Endocrinology,Asthma,Low,117.3,61.1,74.4,96.8,15.3,36.65,68.7,4.57,200.4,7.56,None,NSAIDs
+P0089,Areeba Shah,25,Male,O+,170.5,63.2,21.7,No,No,No,No,No,Never,2026-09-26,Routine,General Medicine,Hypertension,Low,102.5,71.3,69.3,95.6,13.8,36.5,82.4,5.3,196.8,7.61,None,None
+P0089,Areeba Shah,25,Male,O+,170.5,64.6,22.2,No,No,No,No,No,Never,2026-10-24,Follow-up,Emergency,Hyperlipidemia,Low,95.7,62.6,74.3,96.7,13.8,36.44,78.1,5.51,199.8,8.74,None,None
+P0090,Zoya Malik,35,Male,A+,155.3,81.2,33.7,No,No,Yes,No,No,Never,2026-01-17,Follow-up,Cardiology,Chest Pain,Low,125.3,76.1,69.8,96.1,15.4,36.76,90.1,5.51,212.0,6.22,Atorvastatin,None
+P0090,Zoya Malik,35,Male,A+,155.3,84.4,35.0,No,No,Yes,No,No,Never,2026-02-13,Emergency,Cardiology,Routine Checkup,Low,118.0,76.4,85.9,95.9,15.8,37.65,65.6,5.08,192.8,9.58,Aspirin,None
+P0090,Zoya Malik,35,Male,A+,155.3,82.1,34.0,No,No,Yes,No,No,Never,2026-03-15,Routine,Cardiology,Chest Pain,Medium,128.9,79.9,84.3,94.5,17.9,36.69,115.9,5.2,171.1,7.95,Atorvastatin,
+P0090,Zoya Malik,35,Male,A+,155.3,85.8,35.6,No,No,Yes,No,No,Never,2026-04-13,Follow-up,Cardiology,Hypertension,Low,118.7,72.4,84.9,95.4,15.9,36.38,85.1,5.35,184.6,6.56,Atorvastatin,None
+P0090,Zoya Malik,35,Male,A+,155.3,87.9,36.4,No,No,Yes,No,No,Never,2026-05-09,Follow-up,Cardiology,Routine Checkup,Medium,118.7,76.0,74.9,95.2,16.1,36.93,98.1,5.58,226.8,7.31,Aspirin,None
+P0090,Zoya Malik,35,Male,A+,155.3,82.2,34.1,No,No,Yes,No,No,Never,2026-06-08,Emergency,Cardiology,Chest Pain,Low,123.9,71.1,95.4,96.8,15.1,37.99,95.3,5.55,247.9,8.62,Aspirin,None
+P0090,Zoya Malik,35,Male,A+,155.3,82.4,34.2,No,No,Yes,No,No,Never,2026-07-03,Follow-up,Emergency,Chest Pain,Low,123.6,83.0,66.8,95.1,19.0,36.77,75.1,5.24,226.4,4.55,Atorvastatin,Dust
+P0090,Zoya Malik,35,Male,A+,155.3,82.6,34.3,No,No,Yes,No,No,Never,2026-07-31,Follow-up,Cardiology,Routine Checkup,Low,119.3,71.9,68.3,94.8,17.3,36.76,91.0,4.84,201.3,7.84,Atorvastatin,None
+P0090,Zoya Malik,35,Male,A+,155.3,81.0,33.6,No,No,Yes,No,No,Never,2026-08-31,Follow-up,Cardiology,Hypertension,Low,118.9,81.1,76.8,96.5,13.7,36.62,62.9,5.05,189.2,8.38,Aspirin,None
+P0091,Omar Malik,33,Male,B+,147.2,92.8,42.8,No,No,Yes,No,No,Never,2026-01-17,Routine,Cardiology,Chest Pain,Medium,129.3,77.9,77.7,95.8,16.7,36.6,79.3,5.56,208.4,8.05,Atorvastatin,None
+P0091,Omar Malik,33,Male,B+,147.2,87.1,40.2,No,No,Yes,No,No,Never,2026-02-10,Routine,Emergency,Routine Checkup,Low,118.7,84.4,69.2,94.7,17.7,36.63,90.3,5.58,195.1,5.63,Atorvastatin,None
+P0091,Omar Malik,33,Male,B+,147.2,,40.8,No,No,Yes,No,No,Never,2026-03-12,Routine,Emergency,Chest Pain,Low,128.5,72.4,73.0,94.3,15.4,36.78,123.7,5.28,207.0,7.96,Atorvastatin,None
+P0091,Omar Malik,33,Male,B+,147.2,89.9,41.5,No,No,Yes,No,No,Never,2026-04-07,Routine,General Medicine,Chest Pain,Low,123.1,84.2,73.5,96.3,16.2,36.95,88.8,5.08,221.2,7.46,Atorvastatin,None
+P0091,Omar Malik,33,Male,B+,147.2,89.4,41.3,No,No,Yes,No,No,Never,2026-05-09,Follow-up,Cardiology,Chest Pain,Low,125.3,68.6,79.3,96.2,12.5,36.75,102.4,5.4,222.4,6.77,Aspirin,None
+P0091,Omar Malik,33,Male,B+,147.2,87.4,40.3,No,No,Yes,No,No,Never,2026-06-04,Screening,Cardiology,Hypertension,Low,126.3,69.1,71.8,95.6,17.0,37.12,88.4,4.9,191.5,6.41,Atorvastatin,Dust
+P0091,Omar Malik,33,Male,B+,147.2,89.9,41.5,No,No,Yes,No,No,Never,2026-07-04,Routine,General Medicine,Hypertension,Low,117.1,75.1,73.0,95.1,16.1,36.49,96.3,5.3,204.8,6.27,Aspirin,Dust
+P0091,Omar Malik,33,Male,B+,147.2,92.5,42.7,No,No,Yes,No,No,Never,2026-07-29,Routine,Cardiology,Routine Checkup,Low,120.1,78.7,72.5,96.6,15.8,36.6,83.4,5.11,215.5,7.27,Aspirin,Penicillin
+P0091,Omar Malik,33,Male,B+,147.2,89.7,41.4,No,No,Yes,No,No,Never,2026-08-25,Routine,Cardiology,Chest Pain,Low,126.2,76.6,79.3,95.3,13.4,36.65,86.4,4.84,197.8,7.24,Atorvastatin,None
+P0091,Omar Malik,33,Male,B+,147.2,86.3,39.8,No,No,Yes,No,No,Never,2026-09-25,Routine,General Medicine,Chest Pain,Low,115.4,75.6,71.1,96.1,18.0,36.91,107.4,4.72,203.6,7.57,Aspirin,None
+P0092,Omar Qureshi,59,Female,B+,168.5,78.1,27.5,No,No,No,No,No,Former,2026-01-11,Routine,General Medicine,Diabetes Management,Low,127.1,82.5,78.7,96.0,19.1,36.74,95.6,4.63,196.8,8.15,None,None
+P0092,Omar Qureshi,59,Female,B+,168.5,81.5,28.7,No,No,No,No,No,Former,2026-02-08,Routine,General Medicine,Routine Checkup,Low,135.6,77.2,81.4,95.7,14.5,37.17,100.7,5.1,207.0,6.29,None,None
+P0092,Omar Qureshi,59,Female,B+,168.5,77.9,27.5,No,No,No,No,No,Former,2026-03-10,Routine,General Medicine,Diabetes Management,Low,121.0,84.1,85.0,98.9,17.0,36.63,90.9,5.34,200.4,8.42,None,Penicillin
+P0092,Omar Qureshi,59,Female,B+,168.5,79.9,28.1,No,No,No,No,No,Former,2026-04-04,Routine,General Medicine,Kidney Monitoring,Low,138.6,71.3,63.8,96.1,13.7,36.33,77.4,5.63,202.4,7.13,None,Pollen
+P0092,Omar Qureshi,59,Female,B+,168.5,79.4,28.0,No,No,No,No,No,Former,2026-05-03,Follow-up,Emergency,Routine Checkup,Low,128.1,79.8,74.3,98.9,16.8,36.84,85.7,5.49,190.8,7.21,None,None
+P0092,Omar Qureshi,59,Female,B+,168.5,78.3,27.6,No,No,No,No,No,Former,2026-06-01,Routine,General Medicine,Diabetes Management,Low,128.6,76.5,73.3,96.5,19.0,36.64,100.5,4.97,224.8,7.83,None,None
+P0092,Omar Qureshi,59,Female,B+,168.5,79.7,28.1,No,No,No,No,No,Former,2026-06-26,Routine,Cardiology,Diabetes Management,Low,121.3,82.8,67.9,96.0,14.9,36.56,98.1,5.22,188.3,7.07,None,None
+P0092,Omar Qureshi,59,Female,B+,168.5,81.6,28.8,No,No,No,No,No,Former,2026-07-28,Emergency,Endocrinology,Routine Checkup,Low,136.5,73.1,84.4,93.9,15.7,36.55,81.5,5.11,224.2,8.21,None,None
+P0092,Omar Qureshi,59,Female,B+,168.5,78.9,27.8,No,No,No,No,No,Former,2026-08-25,Emergency,Emergency,Hypertension,Low,127.5,85.5,83.5,95.8,18.1,37.09,99.7,4.93,198.1,5.65,None,None
+P0093,Saad Sheikh,64,Female,O+,163.8,69.5,25.9,No,No,No,No,No,Current,2026-01-14,Follow-up,Nephrology,Routine Checkup,Low,128.5,79.4,74.5,97.7,15.0,36.31,111.1,5.33,160.8,7.38,None,None
+P0093,Saad Sheikh,64,Female,O+,163.8,69.8,26.0,No,No,No,No,No,Current,2026-02-12,Follow-up,General Medicine,Chest Pain,Low,128.4,80.5,81.7,97.2,14.6,36.38,116.7,5.38,186.1,6.76,None,None
+P0093,Saad Sheikh,64,Female,O+,163.8,68.6,25.6,No,No,No,No,No,Current,2026-03-14,Screening,Endocrinology,Routine Checkup,Low,107.9,77.1,66.6,96.8,16.0,37.14,96.6,5.32,186.9,7.97,None,Penicillin
+P0093,Saad Sheikh,64,Female,O+,163.8,72.5,27.0,No,No,No,No,No,Current,2026-04-10,Routine,General Medicine,Diabetes Management,Low,132.2,71.7,79.3,96.3,16.8,36.38,125.4,4.7,209.2,4.98,None,Penicillin
+P0093,Saad Sheikh,64,Female,O+,163.8,67.7,25.3,No,No,No,No,No,Current,2026-05-10,Screening,General Medicine,Hyperlipidemia,Low,128.7,77.5,75.0,97.4,17.1,36.77,101.9,4.89,185.0,8.71,None,None
+P0093,Saad Sheikh,64,Female,O+,163.8,69.7,26.0,No,No,No,No,No,Current,2026-06-07,Routine,Pulmonology,Routine Checkup,Low,133.7,75.1,69.7,95.7,18.2,36.81,78.3,5.29,198.9,8.09,None,None
+P0093,Saad Sheikh,64,Female,O+,163.8,70.6,26.3,No,No,No,No,No,Current,2026-07-01,Follow-up,General Medicine,Kidney Monitoring,Low,137.4,84.4,82.5,98.2,18.6,37.04,114.0,5.19,154.8,9.58,None,None
+P0093,Saad Sheikh,64,Female,O+,163.8,68.6,25.6,No,No,No,No,No,Current,2026-08-02,Follow-up,General Medicine,Routine Checkup,Low,130.0,81.1,78.4,95.9,17.0,37.01,127.2,5.45,169.7,5.83,None,None
+P0094,Sana Qureshi,63,Male,B+,172.1,82.7,27.9,Yes,No,Yes,No,No,Current,2026-01-16,Routine,Emergency,Routine Checkup,Medium,138.6,80.3,82.9,95.9,18.0,36.72,132.1,6.9,230.7,8.8,Glimepiride; Aspirin,None
+P0094,Sana Qureshi,63,Male,B+,172.1,,27.3,Yes,No,Yes,No,No,Current,2026-02-12,Follow-up,Emergency,Hypertension,Medium,136.4,75.1,78.8,95.8,14.7,36.36,126.2,7.23,233.5,6.22,Metformin; Atorvastatin,NSAIDs
+P0094,Sana Qureshi,63,Male,B+,172.1,82.2,27.8,Yes,No,Yes,No,No,Current,2026-03-13,Emergency,General Medicine,Routine Checkup,High,161.4,81.5,84.7,96.5,15.7,36.11,128.5,7.16,239.3,6.22,Glimepiride; Aspirin,None
+P0094,Sana Qureshi,63,Male,B+,172.1,79.8,26.9,Yes,No,Yes,No,No,Current,2026-04-11,Routine,General Medicine,Routine Checkup,High,140.7,82.2,69.9,93.1,18.3,36.76,147.5,7.33,206.7,6.78,Glimepiride; Aspirin,None
+P0094,Sana Qureshi,63,Male,B+,172.1,81.7,27.6,Yes,No,Yes,No,No,Current,2026-05-09,Follow-up,Cardiology,Routine Checkup,Medium,131.4,92.8,85.0,97.1,17.3,36.47,105.1,7.52,199.0,8.68,Metformin; Atorvastatin,Penicillin
+P0094,Sana Qureshi,63,Male,B+,172.1,79.6,26.9,Yes,No,Yes,No,No,Current,2026-06-06,Routine,Emergency,Hypertension,High,147.1,89.6,77.9,94.9,18.0,36.19,136.7,7.26,181.1,8.07,Metformin; Atorvastatin,None
+P0094,Sana Qureshi,63,Male,B+,172.1,80.3,27.1,Yes,No,Yes,No,No,Current,2026-06-30,Follow-up,Cardiology,Routine Checkup,High,137.5,79.9,79.3,95.4,17.6,36.84,136.8,7.1,217.5,6.8,Metformin; Atorvastatin,Dust
+P0094,Sana Qureshi,63,Male,B+,172.1,77.2,26.1,Yes,No,Yes,No,No,Current,2026-07-31,Routine,Cardiology,Routine Checkup,High,143.8,79.7,70.7,97.1,17.0,36.94,136.8,6.97,191.0,,Glimepiride; Aspirin,Pollen
+P0094,Sana Qureshi,63,Male,B+,172.1,76.6,25.9,Yes,No,Yes,No,No,Current,2026-08-28,Routine,General Medicine,Routine Checkup,High,134.3,81.4,81.1,95.5,17.3,36.71,130.2,6.8,221.6,5.57,Metformin; Atorvastatin,None
+P0094,Sana Qureshi,63,Male,B+,172.1,79.1,26.7,Yes,No,Yes,No,No,Current,2026-09-24,Routine,Cardiology,Hypertension,High,146.9,82.6,88.8,95.8,16.0,36.66,138.5,6.79,198.6,7.11,Glimepiride; Atorvastatin,Pollen
+P0094,Sana Qureshi,63,Male,B+,172.1,82.3,27.8,Yes,No,Yes,No,No,Current,2026-10-21,Routine,General Medicine,Hypertension,Medium,140.1,95.6,77.3,96.5,14.9,37.05,119.4,7.16,221.2,7.55,Metformin; Aspirin,None
+P0094,Sana Qureshi,63,Male,B+,172.1,77.1,26.0,Yes,No,Yes,No,No,Current,2026-11-17,Emergency,General Medicine,Chest Pain,High,151.4,78.1,92.8,95.1,16.9,37.16,117.6,7.21,218.7,6.46,Glimepiride; Aspirin,None
+P0095,Zain Farooq,77,Male,B+,174.3,67.9,22.4,No,Yes,No,No,No,Never,2026-01-17,Follow-up,Emergency,Hyperlipidemia,Medium,168.0,96.8,70.8,98.8,14.8,36.75,80.9,5.85,148.3,5.66,Lisinopril,None
+P0095,Zain Farooq,77,Male,B+,174.3,69.3,22.8,No,Yes,No,No,No,Never,2026-02-16,Screening,General Medicine,Routine Checkup,Medium,156.8,98.7,70.5,96.2,16.7,36.89,101.7,5.55,174.4,7.23,Lisinopril,None
+P0095,Zain Farooq,77,Male,B+,174.3,70.4,23.2,No,Yes,No,No,No,Never,2026-03-12,Follow-up,Endocrinology,Asthma,Medium,160.9,94.3,76.3,95.5,12.3,37.02,106.6,5.19,190.5,9.03,Amlodipine,None
+P0095,Zain Farooq,77,Male,B+,174.3,70.5,23.2,No,Yes,No,No,No,Never,2026-04-10,Follow-up,General Medicine,Asthma,Medium,161.6,96.4,76.1,96.8,15.2,36.49,97.5,4.86,209.6,5.8,Lisinopril,None
+P0095,Zain Farooq,77,Male,B+,174.3,69.3,22.8,No,Yes,No,No,No,Never,2026-05-09,Follow-up,Emergency,Diabetes Management,Medium,150.0,89.7,83.7,97.2,16.8,36.58,88.2,5.19,223.1,6.81,Lisinopril,None
+P0095,Zain Farooq,77,Male,B+,174.3,70.3,23.1,No,Yes,No,No,No,Never,2026-06-06,Routine,General Medicine,Routine Checkup,Medium,165.3,88.7,57.9,95.9,16.6,36.76,99.8,5.01,194.9,6.6,Amlodipine,None
+P0095,Zain Farooq,77,Male,B+,174.3,71.1,23.4,No,Yes,No,No,No,Never,2026-07-06,Emergency,Cardiology,Routine Checkup,Medium,165.2,86.5,78.3,97.1,17.4,37.93,94.4,4.69,193.6,8.29,Losartan,None
+P0095,Zain Farooq,77,Male,B+,174.3,68.3,22.5,No,Yes,No,No,No,Never,2026-08-02,Routine,General Medicine,Routine Checkup,Medium,161.7,94.8,78.5,97.2,15.3,36.7,93.6,5.71,196.0,7.01,Amlodipine,None
+P0095,Zain Farooq,77,Male,B+,174.3,68.4,22.5,No,Yes,No,No,No,Never,2026-08-27,Routine,General Medicine,Hypertension,Medium,152.2,83.8,73.9,96.2,15.1,36.52,91.2,4.91,182.4,6.94,Lisinopril,None
+P0095,Zain Farooq,77,Male,B+,174.3,68.8,22.6,No,Yes,No,No,No,Never,2026-09-26,Follow-up,General Medicine,Routine Checkup,Medium,155.8,90.5,73.2,96.4,15.3,36.7,70.4,5.72,216.9,7.27,Lisinopril,None
+P0096,Sana Iqbal,66,Female,AB+,169.2,88.1,30.8,No,No,No,Yes,No,Never,2026-01-07,Routine,General Medicine,Respiratory Infection,Medium,134.6,80.3,72.0,91.9,20.1,36.58,109.5,5.32,229.6,7.9,Salbutamol,None
+P0096,Sana Iqbal,66,Female,AB+,169.2,88.0,30.7,No,No,No,Yes,No,Never,2026-02-06,Follow-up,Pulmonology,Respiratory Infection,Low,129.9,74.6,73.4,92.7,17.6,36.33,70.4,5.24,217.6,7.07,Salbutamol,None
+P0096,Sana Iqbal,66,Female,AB+,169.2,86.7,30.3,No,No,No,Yes,No,Never,2026-03-06,Follow-up,Emergency,Asthma,Low,121.1,82.7,72.6,94.9,19.8,36.78,104.0,4.48,199.1,8.2,Salbutamol,Dust
+P0096,Sana Iqbal,66,Female,AB+,169.2,85.1,29.7,No,No,No,Yes,No,Never,2026-04-03,Follow-up,General Medicine,Respiratory Infection,Low,128.5,77.2,72.4,93.6,19.1,37.12,106.0,5.09,226.3,7.45,Salbutamol,None
+P0096,Sana Iqbal,66,Female,AB+,169.2,86.9,30.4,No,No,No,Yes,No,Never,2026-04-27,Follow-up,Pulmonology,Asthma,Low,126.7,75.3,77.8,94.9,18.0,36.42,110.8,5.56,172.2,8.44,Salbutamol,None
+P0096,Sana Iqbal,66,Female,AB+,169.2,87.1,30.4,No,No,No,Yes,No,Never,2026-05-27,Routine,General Medicine,Asthma,Low,122.2,69.1,81.3,95.8,17.3,36.63,83.6,5.0,227.3,7.32,Salbutamol,NSAIDs
+P0096,Sana Iqbal,66,Female,AB+,169.2,84.6,29.6,No,No,No,Yes,No,Never,2026-06-25,Routine,Pulmonology,Asthma,Low,130.7,79.9,81.1,94.2,17.9,36.63,75.8,5.42,213.1,7.54,Salbutamol,None
+P0096,Sana Iqbal,66,Female,AB+,169.2,87.6,30.6,No,No,No,Yes,No,Never,2026-07-21,Follow-up,Pulmonology,Respiratory Infection,Low,141.7,81.1,84.1,94.1,18.2,37.0,104.7,5.1,189.2,6.9,Salbutamol,Penicillin
+P0096,Sana Iqbal,66,Female,AB+,169.2,84.5,29.5,No,No,No,Yes,No,Never,2026-08-19,Routine,General Medicine,Respiratory Infection,Low,126.4,76.4,75.0,95.6,17.1,37.27,77.9,4.71,238.4,8.42,Salbutamol,None
+P0096,Sana Iqbal,66,Female,AB+,169.2,81.8,28.6,No,No,No,Yes,No,Never,2026-09-14,Follow-up,Pulmonology,Asthma,Low,125.9,88.3,87.1,94.2,17.1,36.77,98.6,5.41,162.5,10.26,Salbutamol,Penicillin
+P0096,Sana Iqbal,66,Female,AB+,169.2,87.1,30.4,No,No,No,Yes,No,Never,2026-10-12,Routine,Pulmonology,Asthma,Low,132.4,81.5,75.3,94.9,19.6,36.79,96.4,5.69,179.3,6.3,Salbutamol,Dust
+P0097,Maryam Raza,38,Female,A+,174.8,48.0,15.7,No,Yes,No,No,No,Former,2026-01-21,Routine,Cardiology,Routine Checkup,Low,124.0,80.4,68.3,96.7,17.0,36.8,112.4,5.07,205.2,7.77,Losartan,None
+P0097,Maryam Raza,38,Female,A+,174.8,48.3,15.8,No,Yes,No,No,No,Former,2026-02-17,Routine,General Medicine,Respiratory Infection,Low,131.4,78.4,60.3,98.4,15.7,36.59,89.9,5.64,193.9,6.13,Amlodipine,Pollen
+P0097,Maryam Raza,38,Female,A+,174.8,45.7,15.0,No,Yes,No,No,No,Former,2026-03-17,Screening,Pulmonology,Hypertension,Low,137.8,81.5,75.7,97.3,16.8,36.19,87.0,5.4,155.1,7.47,Losartan,None
+P0097,Maryam Raza,38,Female,A+,174.8,51.3,16.8,No,Yes,No,No,No,Former,2026-04-16,Follow-up,General Medicine,Hypertension,Low,152.0,85.0,63.8,97.4,18.4,36.65,115.6,4.91,184.7,4.61,Lisinopril,None
+P0097,Maryam Raza,38,Female,A+,174.8,48.6,15.9,No,Yes,No,No,No,Former,2026-05-15,Follow-up,Emergency,Routine Checkup,Low,131.8,82.9,76.4,96.7,18.0,36.45,128.9,5.59,171.6,6.81,Losartan,None
+P0097,Maryam Raza,38,Female,A+,174.8,,15.9,No,Yes,No,No,No,Former,2026-06-09,Screening,Pulmonology,Routine Checkup,Low,117.6,81.7,80.7,95.6,13.6,36.76,120.8,5.31,143.7,5.42,Amlodipine,Dust
+P0097,Maryam Raza,38,Female,A+,174.8,51.1,16.7,No,Yes,No,No,No,Former,2026-07-09,Routine,Nephrology,Routine Checkup,Medium,136.5,88.7,77.5,96.8,15.7,36.63,110.2,4.97,209.1,6.35,Losartan,None
+P0097,Maryam Raza,38,Female,A+,174.8,46.5,15.2,No,Yes,No,No,No,Former,2026-08-05,Routine,General Medicine,Hyperlipidemia,Low,132.7,82.1,65.3,96.6,16.9,36.96,100.4,5.22,171.5,6.6,Losartan,None
+P0097,Maryam Raza,38,Female,A+,174.8,47.0,15.4,No,Yes,No,No,No,Former,2026-09-05,Follow-up,General Medicine,Hyperlipidemia,Low,129.8,88.8,66.4,97.3,15.9,36.72,103.7,5.22,192.3,7.07,Amlodipine,None
+P0097,Maryam Raza,38,Female,A+,174.8,47.1,15.4,No,Yes,No,No,No,Former,2026-10-02,Follow-up,Emergency,Hypertension,Low,117.6,72.9,81.9,96.4,17.4,36.3,84.3,5.44,176.2,7.64,Losartan,None
+P0097,Maryam Raza,38,Female,A+,174.8,50.0,16.4,No,Yes,No,No,No,Former,2026-10-29,Follow-up,Pulmonology,Routine Checkup,Low,143.4,77.4,65.4,96.7,16.5,36.65,107.5,5.18,175.9,9.51,Amlodipine,Dust
+P0098,Ahmed Malik,24,Female,A+,170.1,71.3,24.7,No,No,No,No,No,Never,2026-01-17,Screening,Cardiology,Routine Checkup,Low,109.3,66.7,74.1,98.8,16.1,36.81,88.5,5.02,189.8,6.99,None,NSAIDs
+P0098,Ahmed Malik,24,Female,A+,170.1,67.5,23.3,No,No,No,No,No,Never,2026-02-13,Emergency,General Medicine,Respiratory Infection,Low,118.5,71.9,76.7,97.2,17.4,37.0,113.2,4.74,157.1,6.81,None,None
+P0098,Ahmed Malik,24,Female,A+,170.1,71.0,24.5,No,No,No,No,No,Never,2026-03-13,Screening,General Medicine,Asthma,Low,107.9,74.9,72.6,97.9,15.7,37.09,69.6,5.53,180.1,6.08,None,Dust
+P0098,Ahmed Malik,24,Female,A+,170.1,69.8,24.1,No,No,No,No,No,Never,2026-04-11,Follow-up,General Medicine,Kidney Monitoring,Low,122.6,78.5,73.6,99.3,17.4,36.61,83.7,5.64,163.7,6.69,None,None
+P0098,Ahmed Malik,24,Female,A+,170.1,68.2,23.6,No,No,No,No,No,Never,2026-05-05,Follow-up,General Medicine,Diabetes Management,Low,126.1,73.5,79.6,97.6,18.0,36.84,95.5,5.58,222.7,6.83,None,Dust
+P0098,Ahmed Malik,24,Female,A+,170.1,68.5,23.7,No,No,No,No,No,Never,2026-06-03,Screening,General Medicine,Routine Checkup,Low,119.0,68.2,77.5,97.2,15.7,36.93,102.2,5.35,196.3,7.3,None,None
+P0098,Ahmed Malik,24,Female,A+,170.1,70.4,24.3,No,No,No,No,No,Never,2026-07-02,Screening,General Medicine,Respiratory Infection,Low,115.4,76.8,62.5,96.9,13.9,36.61,116.2,5.58,189.9,6.92,None,None
+P0098,Ahmed Malik,24,Female,A+,170.1,68.8,23.8,No,No,No,No,No,Never,2026-07-31,Screening,General Medicine,Routine Checkup,Low,98.6,76.0,67.8,95.8,17.2,36.84,95.5,5.97,189.4,6.46,None,None
+P0098,Ahmed Malik,24,Female,A+,170.1,66.0,22.8,No,No,No,No,No,Never,2026-08-29,Follow-up,Endocrinology,Routine Checkup,Low,112.4,71.7,65.9,96.8,16.7,36.7,70.8,5.1,169.6,7.29,None,None
+P0099,Usman Iqbal,56,Female,B+,172.8,47.2,15.8,Yes,No,No,No,No,Current,2026-01-16,Routine,Endocrinology,Routine Checkup,Low,134.8,84.2,67.4,97.7,16.1,37.16,109.2,6.73,163.4,7.24,Glimepiride,None
+P0099,Usman Iqbal,56,Female,B+,172.8,46.6,15.6,Yes,No,No,No,No,Current,2026-02-12,Routine,General Medicine,Routine Checkup,Low,129.0,73.0,71.4,97.7,17.4,37.02,135.0,7.12,209.5,6.51,Metformin,None
+P0099,Usman Iqbal,56,Female,B+,172.8,44.6,14.9,Yes,No,No,No,No,Current,2026-03-14,Routine,General Medicine,Diabetes Management,Low,129.3,74.1,65.9,99.1,14.5,36.38,133.2,,208.0,9.1,Glimepiride,None
+P0099,Usman Iqbal,56,Female,B+,172.8,44.7,15.0,Yes,No,No,No,No,Current,2026-04-11,Emergency,Endocrinology,Diabetes Management,Low,147.0,81.2,85.0,96.4,16.2,37.11,113.6,6.72,184.7,6.69,Metformin,NSAIDs
+P0099,Usman Iqbal,56,Female,B+,172.8,44.2,14.8,Yes,No,No,No,No,Current,2026-05-10,Screening,Endocrinology,Hyperlipidemia,Low,123.2,78.9,71.5,97.5,16.2,36.63,152.9,7.25,201.4,7.79,Metformin,None
+P0099,Usman Iqbal,56,Female,B+,172.8,45.1,15.1,Yes,No,No,No,No,Current,2026-06-06,Emergency,Endocrinology,Hyperlipidemia,Low,134.4,73.3,91.5,95.8,17.5,36.86,124.3,7.19,193.2,6.0,Glimepiride,None
+P0099,Usman Iqbal,56,Female,B+,172.8,45.7,15.3,Yes,No,No,No,No,Current,2026-07-05,Routine,Endocrinology,Diabetes Management,Low,130.0,77.5,82.6,96.0,15.0,36.73,133.7,6.33,206.8,7.35,Glimepiride,None
+P0099,Usman Iqbal,56,Female,B+,172.8,46.2,15.5,Yes,No,No,No,No,Current,2026-08-03,Follow-up,Endocrinology,Routine Checkup,Low,138.6,78.5,59.0,97.3,15.7,36.42,135.3,7.31,184.0,5.46,Glimepiride,None
+P0099,Usman Iqbal,56,Female,B+,172.8,46.4,15.5,Yes,No,No,No,No,Current,2026-08-29,Follow-up,General Medicine,Hyperlipidemia,Low,129.5,78.2,76.9,96.3,14.4,36.57,121.1,6.28,186.2,8.2,Glimepiride,None
+P0099,Usman Iqbal,56,Female,B+,172.8,43.6,14.6,Yes,No,No,No,No,Current,2026-09-27,Routine,Endocrinology,Diabetes Management,Low,134.2,77.3,68.0,97.6,15.3,36.49,117.0,7.11,199.7,8.62,Glimepiride,None
+P0099,Usman Iqbal,56,Female,B+,172.8,42.4,14.2,Yes,No,No,No,No,Current,2026-10-23,Routine,Nephrology,Diabetes Management,Medium,120.6,71.9,72.2,96.5,18.4,36.31,112.6,7.09,205.4,4.51,Metformin,Pollen
+P0099,Usman Iqbal,56,Female,B+,172.8,44.9,15.0,Yes,No,No,No,No,Current,2026-11-23,Routine,Endocrinology,Routine Checkup,Low,120.4,80.4,81.2,98.3,16.0,36.49,130.1,7.48,188.8,5.28,Metformin,None
+P0100,Hira Hassan,75,Female,B+,161.7,51.2,19.6,No,No,Yes,Yes,No,Former,2026-01-14,Routine,Cardiology,Chest Pain,Medium,136.3,85.5,81.5,92.4,20.4,36.6,63.6,5.12,186.6,7.44,Salbutamol; Aspirin,None
+P0100,Hira Hassan,75,Female,B+,161.7,49.4,18.9,No,No,Yes,Yes,No,Former,2026-02-12,Follow-up,Cardiology,Routine Checkup,High,143.4,91.1,88.3,93.7,19.5,36.44,112.6,4.78,157.5,7.49,Salbutamol; Atorvastatin,None
+P0100,Hira Hassan,75,Female,B+,161.7,53.8,20.6,No,No,Yes,Yes,No,Former,2026-03-14,Follow-up,General Medicine,Routine Checkup,Medium,146.8,81.9,85.1,92.2,19.9,36.72,98.0,4.58,137.5,5.6,Salbutamol; Aspirin,None
+P0100,Hira Hassan,75,Female,B+,161.7,52.7,20.1,No,No,Yes,Yes,No,Former,2026-04-08,Follow-up,Cardiology,Routine Checkup,High,155.3,87.9,83.3,94.3,17.6,36.97,105.5,5.51,175.2,6.66,Salbutamol; Atorvastatin,None
+P0100,Hira Hassan,75,Female,B+,161.7,53.4,20.4,No,No,Yes,Yes,No,Former,2026-05-08,Screening,Cardiology,Routine Checkup,High,147.2,79.7,74.5,92.8,17.3,36.48,117.4,4.66,214.4,7.39,Salbutamol; Atorvastatin,None
+P0100,Hira Hassan,75,Female,B+,161.7,52.3,20.0,No,No,Yes,Yes,No,Former,2026-06-06,Emergency,Cardiology,Hypertension,Medium,146.9,76.5,88.2,93.9,18.2,37.2,123.3,6.25,212.3,9.46,Salbutamol; Atorvastatin,None
+P0100,Hira Hassan,75,Female,B+,161.7,53.2,20.3,No,No,Yes,Yes,No,Former,2026-07-03,Follow-up,Cardiology,Hypertension,High,138.9,82.1,80.1,92.6,20.2,36.66,109.4,5.27,176.4,7.26,Salbutamol; Atorvastatin,None
+P0100,Hira Hassan,75,Female,B+,161.7,49.7,19.0,No,No,Yes,Yes,No,Former,2026-07-29,Routine,Cardiology,Chest Pain,Medium,140.0,91.9,82.3,92.2,16.3,36.53,80.7,5.53,196.2,6.05,Salbutamol; Aspirin,Pollen
